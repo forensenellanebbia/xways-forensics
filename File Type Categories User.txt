@@ -1,0 +1,43 @@
+*** Address Book
+*** Archives/Backup
+*** Audio
+*** CAD
+*** Chat, Messaging
+*** Cryptography
+*** Database, Finance
+*** Database, SQLite
+*** Disk Image, Backup/Virtual
+*** Disk Image, Burning Software
+*** Docs, Common formats
+*** Docs, eBook
+*** Docs, Misc Documents
+*** Docs, Page Layout
+*** Docs, Plain Text
+*** Docs, Spreadsheet
+*** Docs, Text, Word Processing
+*** E-mail
+*** Fonts
+*** GPS/Navigation
+*** Internet, Chrome
+*** Internet, Internet Explorer
+*** Internet, Mozilla/Firefox
+*** Internet, Safari
+*** Internet, Misc Files
+*** Memory
+*** Mobile Phones
+*** Network/Packets
+*** P2P
+*** Pictures, 3D Graphics
+*** Pictures, Misc Pictures
+*** Pictures, RAW Pictures
+*** Pictures, Thumbnails/Icons
+*** Programs
+*** Projects
+*** Source Code
+*** Various Data
+*** Video
+*** [OS] Mac OS X/iOS System
+*** [OS] Unix/Linux System
+*** [OS] Windows Internals
+*** [OS] Windows Registry
+=T=Certain potentially relevant types

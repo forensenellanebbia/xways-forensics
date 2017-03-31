@@ -1,0 +1,3174 @@
+*** Address Book
+-;config.xml; Skype contacts & settings	4
+-;contacts.cdb; Symbian Phonebook	4
+-;contacts.edb; Live Messenger	4
+-;contacts_db2; Facebook	4
+-;contacts2.db; Android contacts
+-;friends.db; iPhone Facebook chat buddy list	3
+-;wa.db; WhatsApp	5
+-;wnresponse.xml; Live Messenger contact news	3
+-aba Palm address book	5
+-abbu Address Book Backup	4
+-abcddb Apple Address Book	4
+-abcdp Address Book Card	4
+-abd The Bat! Address Book	4
+-abk2 Handy Address Book	4
+-abx WordPerfect address book	4
+-aby AOL address book	4
+-adb CorelCENTRAL Address Book	4
+-appcontent-ms Application Content	4
+-arl AOL Organizer	4
+-blt Saved AIM Buddy List	4
+-cal1 Windows calendar	3
+-ccc WordPerfect Office calendar	4
+-cdb1 Nokia 9210/9290 Phone Contact Database	4
+-clb ICQ Contact list	5
+-contact Contact	4
+-ctt MSN Messenger saved contact list	5
+-dal DYMO Label Address Book	4
+-dba Palm address book	5
+-entry Google contact	4
+-epim EssentialPIM Database	4
+-group Windows Contacts Group	3
+-ics iCalendar	4
+-imb IncrediMail AB	4
+-imh IncrediMail contacts export	4
+-ldif LDAP Data Interchange Format	4
+-lmb My Mobile phone book	4
+-mab Mozilla address book	3
+-mecontact Microsoft Live Messenger	2
+-msbcm Business Contact Manager Backup	4
+-na2 Seamonkey Address Book	4
+-nab Novell address book	4
+-nab1 Netscape Communicator	3
+-npf Samsung PC Studio Phonebook Backup	4
+-oab Outlook address book	5
+-olk MS Outlook address book	4
+-olk14contact olk14Contact	3T
+-olk14event Outlook Calendar Event	4
+-pab Personal Address Book	5
+-pbb AT&T Phonebook	4
+-pbook Motorola Phonebook	4
+-phb Motorola Phonebook	4
+-pkx BVRP PhoneBook Index	2
+-pmb Pegasus address book	5
+-pmr Pegasus address book	5
+-shft Shift Work Calendar Data	3
+-skw SideKick calendar	4
+-uin ICQ contact	4
+-vcf vCard File	5
+-vcg SharePoint WorkSpace Groove vCard contact	4
+-vcs vCalendar	4
+-wab Windows Address Book	5
+-wcd Works Calendar	4
+-windowslivecontact encrypted	2
+*** Archives/Backup
+-7z 7-Zip	3
+-@db Norton 360 index	3
+-abcomp ABComp archive data	3
+-ac1d AC1D-DC1A Packer	3
+-ace ACE	3T
+-ain AIN compressed archive	3T
+-alz ALZip compressed	3T
+-arc1 Norton Backup	3T
+-arc3 RARC compressed	3T
+-arj ARJ	3
+-b1 B1 Archive	3T
+-bag1 Bag archive	3T
+-bff AIX Backup	3T
+-bkf Microsoft Tape	4T
+-bpa StorageSync Backup	3T
+-bsa Bethesda Softworks Archive	*
+-bz BZip	3
+-bz2 BZip	3
+-bza BZA Archive	3T
+-cab Windows Cabinet	3T
+-car CAR archive	3T
+-catalog OneCare Backup	3
+-caz Computer Associates	3T
+-cbu Comodo Backup	3T
+-cif Easy CD Creator image	3
+-cpio CPIO Archive	2T
+-dar DAR Disk Archive	3T
+-dcm Memeo AutoBackup	3
+-deb Debian Linux package	1
+-dgc DGCA	2
+-dlc DIGILINEAR archive	3T
+-dst1 DST compressed	3T
+-dz Dzip Archive	3T
+-egg ALZip EGG compressed	3T
+-fbf Free Backup Fix	3T
+-fbw HP Recovery Manager	3T
+-fdb1 Firebird database	3T
+-gbp Genie Timeline Backup	3
+-gz GZip	3
+-hbi Handy Backup	3T
+-hpk HPack archive	3T
+-hqx BinHex 4.0 Encoded File	3
+-jim WD Anywhere Backup	3
+-lbr LU Library Archive	3T
+-lha LHArch	3T
+-lz LZIP	3T
+-lzh LHArch	3T
+-lzma LZMA archive	3T
+-lzo lzop compressed	3T
+-lzop lzop compressed	3T
+-lzx LZX archive	3
+-mar MSN archive	2T
+-mar1 Mozilla Archive	*
+-narc Nintendo	*
+-nb20 Norton Backup	3T
+-nbak Neat Backup	3
+-nbd NovaBackup	3T
+-nbf Backup NOW!	3
+-olebin OLE archive	2
+-pax POSIX Archive	2T
+-pbd EaseUS Todo Backup	3T
+-pbf1 Paragon drive backup/Exact Image 7	3
+-pdb Palm	2
+-pdc Palm	2
+-pea PeaZip	3T
+-pen Penultimate Backup	3T
+-qfc QuickFileCollection	3T
+-rar Roshal ARchive	4
+-rdb Retrospect Backup	3T
+-rpm Red Hat Package Manager	1
+-sar SAPCAR Archive	3T
+-sea StuffIT Expander Archive	3T
+-sfx Self-extracting archive	2T
+-shar SHell aRchive	1
+-sit StuffIt	3T
+-sitx StuffIt	3T
+-sn1 Snapshot image	2
+-spf ShadowProtect Full Backup	3
+-spi ShadowProtect Incremental Backup	3
+-sps1 SyncBack Settings	3
+-sqx SQX Archiver	3T
+-stegan Steganographic image	4
+-tar Tar	2
+-tbz TAR/BZIP	2
+-tbz2 TAR/BZIP2	2
+-tgz TAR/GZip	2
+-txz XZ Compressed Tar	2T
+-udeb Debian Linux package	1
+-uha UHArc Archive	3T
+-vbk Veeam Backup	4T
+-vbm1 Veeam Backup Metadata	3
+-wbcat Windows Backup Catalog	4
+-wjf WinZip Job	3
+-xar XAR Archive	2
+-xz XZ Compressed Archive	2T
+-z LZW compressed	3T
+-zip Zip	3
+-zipx extended ZIP	3
+-zlib ZLIB	2T
+-zoo ZOO Compressed	3T
+*** Audio
+-3ga Mobile phone audio	3
+-aa Audible audio	2
+-aac Advanced Audio Coding	2
+-abk Need for Speed Underground	1
+-ac3 Audio Codec 3	*
+-acd Sonic Foundry ACID	2
+-act ADPCM Compressed Audio	3
+-agr Ableton Groove	1
+-aif Audio Interchange Format	3
+-aifc Audio Interchange Format	3
+-aiff Audio Interchange Format	3
+-amr Mobile phone	4
+-ams Velvet Studio Module	2
+-ape Monkey's audio	2
+-au Audacity	3
+-auf Audacity Block	3
+-awb Adaptive Multirate	3
+-bww Bagpipe notation	1
+-caf GarageBand	2
+-cda CD audio	2
+-cmf Creative Music	2
+-cts CrazyTalk Script	2
+-cvf Jet-VoiceMail	3
+-dff DSD Audio	3
+-dmf1 Delusion Digital Music	2
+-dra Dragon Voice Recording	3
+-ds2 Olympus DSS Pro Audio	3
+-dss Digital Speech	4
+-dts DTS Encoded Audio	2
+-dvf Sony voice	4
+-dwd DiamondWare audio	3
+-dxm DXM music	1
+-ecw1 Ensoniq WaveSet	1
+-efe Ensoniq EPS	1
+-flac Free Lossless Audio Codec	2
+-fsb FMOD Sample Bank	1
+-fsm Farandole Composer	1
+-ftm FaceTheMusic	2
+-ice ICEOWS compressed	2
+-imy iMELODY	1
+-isma Smooth Streaming Audio	2
+-it Impulse Tracker module	1
+-kar Karaoke MIDI	1
+-kfn KaraFun Karaoke	1
+-kmp Korg Trinity/Triton	1
+-krz Kurzweil 2000 sample	1
+-ksc Korg Trinity/Triton script	1
+-ksf Korg Trinity/Triton sample	1
+-lqt Liquid Audio	2
+-lwv Linguistically Enhanced Sound	1
+-m4a MP4/AAC	3
+-m4b MPEG-4 Audio Book	2
+-m4p Protected AAC File	2
+-m4r MP4/Ringtone	3
+-mdl Digitrakker	2
+-mid MIDI	1
+-midi MIDI	1
+-mka Matroska Audio	2
+-mmf2 Yamaha SMAF	1
+-mo3 MO3 MOD audio	2
+-mod SoundTracker	2
+-mp2 MP2	1
+-mp3 MP3	2
+-mpc Musepack	2
+-mpcpl MediaPlayer Classic	3
+-mpd File List Creator	3
+-msv Memory Stick Voice	3
+-mt2 MadTracker 2	1
+-mtm MultiTracker	1
+-mus Finale	3
+-mxtx MaxTrax Music	2
+-mz Mozart compressed	1
+-nr3 Nero	3
+-nsf2 NES sound	2
+-nst NoiseTracker	2
+-nvf Creative Labs Audio	2
+-nwc NoteWorthy Composer	2
+-nwv Dragon NaturallySpeaking	3
+-ogg Ogg/Vorbis	3
+-okt Oktalyzer Module	2
+-oma Sony OpenMG Audio	2
+-opus Opus Audio	3
+-pat Advanced Gravis Ultrasound	2
+-pmd2 Polyphonic Ringtone	2
+-psm Protracker	2
+-ptm1 PolyTracker	2
+-ptx Pro Tools Session	2
+-qcp Qualcomm pure voice	3
+-ra Real Audio	2
+-rax Real Music Store	2
+-rbs Rebirth Song	1
+-rex ReCycle Loop	1
+-rmf1 Rich music format	2
+-rmi RIFF MIDI	1
+-rmj Real Media Jukebox Audio	1
+-rmx RealJukebox	1
+-rns Reason Song	2
+-s3m ScreamTracker 3 Module	2
+-sesx Audition Session	2
+-sfk Sound Forge	*
+-shn Shorten Compressed Audio	2
+-sib Sibelius music notation	2
+-smp SampleVision	1
+-snd AU Format Sound	2
+-sng Korg Trinity Song	1
+-spc SNES Soundtrack	*
+-sph NIST SPHERE Audio	3
+-swa Shockwave audio	1
+-tak Tom's Lossless Audio	2
+-ulaw Unix audio	3
+-ult UltraTracker	1
+-uwf UltraTracker Wave	2
+-vag PlayStation Compressed Sound	1
+-vgm Video Game Music	*
+-vox Dialogic Voice Audio	4
+-vqf audio/x-twinvq	3
+-w64 Sony Wave64	3
+-wav Wave	3
+-wma Windows media	3
+-wv WavPack	3
+-wvc WavPack compression	3
+-wwb XACT Wave Bank	2
+-xa Maxis XA Audio	1
+-zvr Recorded voice	3
+*** CAD
+-atc AutoCAD Tool Catalog	1
+-aws AutoCAD Work Space	3
+-bbcd BobCAD-CAM	3
+-cad QuickCad	3
+-catdrawing CATIA Drawing	3
+-catpart CATIA Drawing	3
+-cdc AutoCAD DesignCenter Preview Cache	3
+-cir PSpice circuit	2
+-cuix AutoCAD Custom UI	2
+-czd CAD Zone Drawing	3
+-dbk1 OrCAD schematic capture backup	3
+-dcd DesignCAD Drawing	2
+-dgn Bentley Systems	3T
+-ds4 Micrografx	3
+-dsn OrCAD Design	3T
+-dst2 AutoCAD Sheet Set	3
+-dwfx AutoCAD	2
+-dwg AutoCAD	3
+-dwl2 AutoCAD drawing lock	3
+-dxb AutoCAD Drawing Exchange	3T
+-dxf AutoCAD	3
+-easm eDrawings	2T
+-edrw SolidWorks eDrawing	3T
+-eprt SolidWorks eDrawing	3
+-fcw FastCAD Windows	3
+-gcd2 Generic CADD Drawing	3
+-iam Inventor Assembly	2
+-ide Inventor iFeature	2
+-idw Inventor Drawing	3T
+-ipn Inventor Presentation	2
+-ipt Inventor Part File	1
+-lcf ArchiCAD Library	1
+-mac Mega CAD	3
+-max2 OrCAD layout	2T
+-mcd2 VectorWorks Drawing	2T
+-nc Mastercam Numerical Control	2
+-prt Unigraphics Part	3
+-shx AutoCAD Compiled Shape	*
+-skf AutoSketch	3
+-slb AutoCAD Slide Library	1
+-sld AutoCAD slide	2
+-sldasm SolidWorks assembly document	2T
+-slddrw SolidWorks Drawing	3T
+-sldprt SolidWorks part file	2T
+-step 3D CAD	3T
+-stp STEP 3D CAD	3T
+-tcw Turbo CAD	2
+-vwx Vectorworks Design	3T
+*** Chat, Messaging
+-;application.qdb; ICQ 7 settings	3
+-;main.db; Skype database	5
+-;messages.qdb; ICQ 7 chats	5
+-;msgstore.db; WhatsApp	5
+-;owner.qdb; ICQ 7 user data	4
+-box1 ICQ/AOL	3
+-cha IRC chat	4
+-chat IRC chat	4
+-chatsync Skype chat	5
+-dbb Skype User Information	4
+-ezlog Skype Extras Manager	1
+-giga Gigatribe chat	3
+-ichat Saved Chat Log	4
+-id2 WLM Emoticon	1
+-json JavaScript Object Notation	3
+-log1 Chat history	4
+-mlsxml Skype XML	1
+-ple Messenger Plus! Encrypted Log	2
+-qhf QIP saved history	3
+-skype My Skype Content	3
+-txn MySpace IM Conversation	4
+-wcf WebEx Saved Chat	4
+*** Cryptography
+-;cert8.db; Mozilla certificates	1
+-;key; WhatsApp Decryption Key	1
+-$#! Cryptext	3
+-aes AES Crypt	3
+-asc PGP armored encrypted file	3
+-axx AxCrypt Encrypted	4
+-bitlocker Bitlocker rec key	4
+-bla Key file	3
+-bla1 DRM Cache	2
+-cat MS code signing catalog	2
+-cer Digital certificate	3
+-certs DigiCert	2
+-crl cerificate revovation list	2
+-crt Security Certificate	2
+-crypt WhatsApp Encrypted DB	2
+-crypt10 WhatsApp Encrypted DB	3T
+-crypt11 WhatsApp Encrypted DB	3T
+-crypt12 WhatsApp Encrypted DB	3T
+-crypt5 WhatsApp Encrypted DB	3T
+-crypt7 WhatsApp Encrypted DB	3T
+-crypt8 WhatsApp Encrypted DB	3T
+-crypt9 WhatsApp Encrypted DB	3T
+-cryptnet CryptNet Metadata	2
+-csr Certificate Signing Request	2
+-ctm1 VisualStudio	2
+-ctx PGP ciphertext	3
+-dat3 FRMCACHE.DAT	1
+-dat6 Credentials	3
+-der Security Certificate	2
+-dez DES encrypted zip file	3
+-efc Emule filecrypter	3
+-efs EFS auxiliary file	2
+-ent Entrust archive	3
+-filevault Apple FileVault container	3
+-gpg OpenPGP/GnuGP	3
+-gpg1 GnuPg	4
+-i00 DVD Decrypter IsoImage	3
+-i01 DVD Decrypter IsoImage	3
+-jbc BestCrypt crypto container	3
+-kdb Keypass Database	1
+-kdbx KeePass password db	2
+-keyring Gnome keyring	4
+-keystore Java KeyStore	3
+-kyr Lotus Domino Key Ring	4
+-locky Ransomware	3
+-ole2enc OLE2 encrypted	2
+-openssl OpenSSL salted	3
+-p10 Certificate Request	3
+-p12 Personal Information Exchange	3
+-p7b application/x-pkcs7-certificates	3
+-p7c PKCS #7 Certificate	3
+-p7m S/MIME	4
+-p7r Certificate Request Response	3
+-p7s PKCS7	3
+-p7x GoDaddy certificate	3
+-pem Privacy Enhanced Mail certificate	3
+-pem1 PEM encoded RSA private key	4
+-pfx PKCS #12 certificate	3
+-pgd PGP disk volume	3
+-pgp PGP encrypted file	3
+-pgr PGP groups	2
+-pkr PGP public Keyring	3
+-ppk PuTTY Private Key	4
+-prvkr PGP private keyring	3
+-pvk Private Key	3
+-rsa RSA Certificate	3
+-sde Steganos safe	3
+-sef Steganos password file	3
+-sf JAR Signatures	2
+-sig1 Rsa	2
+-skr PGP private keyring	3
+-sle Steganos encrypted safe	3
+-snk Strong Keyname	3
+-sslinf SSLHOSTINFO	3
+-sst Serialized Certificate Store	2
+-stl Certificate Trust List	2
+-swz Flash Player Cache	2
+-syscert Windows system cert	4
+-tpm Trusted Platform Module	4
+-uti Utimaco SafeGuard PrivateCrypto	3
+-vcrd Windows Vault Credentials	2
+-wgx Watchguard VPN Certificate	2
+*** Database, Finance
+-;ibdata1; MySQL undo log	3
+-;my.cnf; MySQL Configuration	2
+-001 Sage Backup	4
+-123 Lotus 1-2-3	2
+-abs Absolute Database	3
+-ac2 Banana accounting	4
+-accda Access Add-in	2
+-accdb Access Database 2007	3
+-accdt Access 2007 Database Template	1
+-accdu Access Add-in	2
+-accfl Access field template	1
+-accft Microsoft Access Template	1
+-adf ACT! Data File	3
+-adr1 QuickBooks autosave	3
+-adx Lotus Approach database index	1
+-amj AceMoney	4
+-apr Lotus Approach	2
+-bnd DB2 Bind	3
+-bon INKA-Kasse	4
+-brw Calyx Point Borrower 3	*
+-bson Binary JSON/MongoDB	3
+-btw Lexware	4
+-cat1 Cognos Impromptu DB Report	3
+-cdb Pocket Access DB	3
+-cnv DB2 conversion file	3
+-db-journal Skype	3
+-db-shm SQLite shared memory	3
+-db-wal SQLite database journal	3
+-dbf dBase III	2
+-dbf0 Oracle 9i	4T
+-dbf1 Oracle 10g	4T
+-dbf2 dBase II	2
+-df1 Omnis Studio database	3
+-dqy Excel database query	2
+-edi UN/EDIFACT	4
+-elfo Elster	4
+-est2007 EST	4
+-est2008 EST	4
+-est2009 EST	4
+-est2010 EST	4
+-est2011 EST	4
+-est2012 EST	4
+-eur2014 Steuererklaerung	4
+-fic Hyper File DB	3
+-fmp12 FileMaker Pro	3T
+-fp1 FileMaker Pro	3
+-fp12 FileMaker Pro	3
+-fp3 FileMaker Pro	3
+-fp5 FileMaker Pro	3
+-fp7 FileMaker Pro	3
+-fpt FoxPro Table Memo	3
+-frm MySQL	2
+-frt FoxPro Report Memo	3
+-gnucash GNUCASH	4
+-gsheet Google Drive Spreadsheet	2
+-hjt TreePad 6 Database	2
+-ibd Belastingdienst	3
+-iif Intuit Interchange Format	4
+-itdb iTunes Database	1
+-laccdb Access Record-Locking	2
+-ldb Access Record-Locking	2
+-ldf MSSQL	3T
+-lmr QuickBooks Loan Manager	3
+-localstorage-journal Chrome	3
+-log2 WATCOM	2
+-lsf Lexware	3
+-lunp Tax	4
+-m16 Microsoft Money 2007	3
+-mca Minecraft map	*
+-mda Access Add-in	1
+-mdb MS Access	3
+-mde MS Access	2
+-mdf MS SQL	2T
+-mdt MS Access	2
+-mdw Microsoft Access workgroup	2
+-mmw AceMoney	3
+-mny MS Money	3
+-mwb MySQL Workbench	3
+-myd MySQL	2
+-myi MySQL	2
+-myo AccountEdge	3
+-nd QuickBooks Network Data	3
+-ndx WinDev Index	1
+-nyf myBase	3
+-odb OpenOffice Base	3T
+-ofc Open Financial Connectivity	4
+-ofx Open financial exchange	4
+-oracle-dmp Oracle dump	2
+-package Database-Packed	1
+-pdy StarMoney document	3
+-pro StarMoney log	2
+-ptb1 Sage 50 Backup	4
+-pxl Pocket Excel	3
+-qbb QuickBooks backup	2T
+-qbm Quickbooks Portable Company	3T
+-qbo QuickBooks Online Bank Statement	4
+-qbw QuickBooks workbook	4
+-qbx QuickBooks Accountant Transfer	4
+-qdb Quicken	3T
+-qdf Quicken data file	3T
+-qdf-backup Quicken data file	3T
+-qdt Quicken	3
+-qel Quicken	3
+-qfx Open financial exchange	3
+-qif Quicken	3
+-qph Quicken Price History	3
+-qrp1 eBanking/INMATX	4
+-rqy Microsoft Office Excel OLE DB Query	1
+-sagepay SAGE Pay	4
+-sapr3 SAP R3	3
+-sapv SAP valueset	3
+-sbb Office Accounting Company Backup 	3
+-sbd Office Accounting Company Data	3
+-sct1 FoxPro Form Memo	2
+-sdf SQL Server Compact Database	4
+-sdx StarMoney	3
+-sdy StarMoney	3
+-sly Sage	3
+-snp Access report snapshot	3
+-spr Brother PowerNote	3
+-sql Structured Query Language	3
+-sta Statement/MT940	5
+-t09 At Home 2009 Tax Return	3
+-t10 At Home 2010 Tax Return	4
+-t11 At Home 2011 Tax Return	4
+-t12 At Home 2012 Tax Return	4
+-t13 At Home 2013 Tax Return	4
+-ta1 TaxACT	3
+-ta2 TaxACT	3
+-ta3 TaxACT	3
+-tax TurboTax	4
+-tax1 Tax Fmt1	3
+-tax2011 TurboTax	4
+-tax2012 TurboTax	4
+-tax2013 TurboTax	4
+-tps Clarion TopSpeed	3
+-trn SQL Server Transaction Log Backup	3
+-txf Tax Exchange Format	4
+-u10 UFile 2010 Tax Return	4
+-u11 UFile 2011 Tax Return	4
+-u12 UFile 2012 Tax Return	4
+-u13 UFile 2013 Tax Return	4
+-vct FoxPro Class Library	2
+-vmb Lexware compiled	3
+-wdb MS Works Database	3
+-wk1 Lotus 1-2-3	2
+-wk3 Lotus 1-2-3 v3	2
+-wk4 Lotus 1-2-3 v4	2
+-wk5 Lotus 1-2-3 v5	3
+-wkz Informix Wingz	3
+-wmdb Windows MediaPlayer Database	3
+-wmdb0 WMP folders	1
+-wmdb1 MediaPlayer Database (XP)	2
+-wmdb2 MediaPlayer Database	2
+-wq2 Quattro Pro	3
+-xel Expression Encoder Log	3
+-xeo QBXML	4
+-xs3 XESS worksheet	3
+-xsql Oracle XSQL Servlet	3
+-ynab3 accounting	3
+*** Database, SQLite
+-;cache.db; Safari cache	4
+-;cert8.db; Mozilla certificates	1
+-;cookies; Google Chrome cookies	4
+-;cookies.sqlite; Mozilla/Firefox cookies	4
+-;downloads.sqlite; Firefox downloads	4
+-;formhistory.sqlite; Mozilla/Firefox form history	4
+-;friends.db; iPhone Facebook chat buddy list	3
+-;healthreport.sqlite; Mozilla/Firefox health report	4
+-;history; Google Chrome	4
+-;history.dat; Mozilla/Firefox browser history	4
+-;login data; Google Chrome login data	4
+-;main.db; Skype database	5
+-;msgstore.db; WhatsApp	5
+-;places.sqlite; Mozilla/Firefox web history	4
+-;signons.sqlite; Mozilla/Firefox signons	4
+-;wa.db; WhatsApp	5
+-;webappsstore.sqlite; Mozilla/Firefox web app store	4
+-consolidated.db; iPhone	5
+-db-shm SQLite shared memory	3
+-db-wal SQLite database journal	3
+-mapsdata iPhone Maps	4
+-sqlite SQLite database	2
+-sqlite-shm SQLite shared memory	3
+-sqlite-wal SQLite database journal	3
+-sqlite2 SQLite 2.x database	2
+-sqlite3 SQLite 3.x database	3T
+-sqlitedb SQLite 3.x database	3T
+-webbookmark Safari	3
+-webhistory Safari	4
+*** Disk Image, Backup/Virtual
+-adi Active@ Disk Image	3T
+-aff Advanced Forensics Format	3T
+-arc R-Drive image	3
+-asb ILook Image	4T
+-ashbak Ashampoo Burning Studio	2
+-bin Binary Image	3
+-bkc Backup4All	3
+-btz BackToZip	3
+-cmt BackMagic	3
+-ctr X-Ways file container	3
+-dd Raw image	3T
+-dmg Apple Macintosh	2T
+-dms Disk Masher Image	3T
+-dsk Disk image	2T
+-dsp Discsafe	3
+-e01 Evidence file	4T
+-gho Ghost	3T
+-ghs Ghost	3
+-hcc HDCopy	3
+-hci HDCopy	3
+-hdd Parallels Desktop	3
+-hds Parallels Desktop Hard Disk	3T
+-img CloneCD, HDCopy, QEMU	3T
+-ipf Interchangeable Preservation	3T
+-l01 Logical evidence file	4T
+-mdx Extended Media Descriptor	3
+-mrimg Macrium Reflect Disk Image	4
+-nb7 NovaBackup	3
+-nba Nero BackItUp	3
+-nco Nero BackItUp	3
+-nda Nero BackItUp	3
+-omg O&O DiskImage	3
+-ovf Open Virtual Format	3
+-par Drive Star	3
+-pbf1 Paragon Exact Image/Drive Backup	3
+-pdi Pinnacle InstantCopy	3
+-pvhd Paragon Virtual Hard Drive	4
+-qevm QEMU	3T
+-sco Farstone DriveClone/Pro	3
+-sm2 s25@once backup	3
+-sna SnapShot	3
+-td0 Teledisk	3
+-tib Acronis True Image	3T
+-v2i Norton Ghost Image	3
+-vbox Oracle VM VirtualBox Settings	3
+-vdi Virtual Box Disk Image	3
+-vhd Virtual Hard Disk	4T
+-vhdx Windows 8 Virtual Hard Drive	4T
+-vmdk VMWare	4T
+-whx WinHex backup	2
+*** Disk Image, Burning Software
+-000 Virtual CD	3
+-b5i BlindWrite	3
+-b5t BlindWrite	3
+-bwi Blindwrite	3
+-bwt Blindwrite	3
+-c2d WinOnCD	2
+-ccd CloneCD	3
+-cd CD-i OptImage	3
+-cdi DiscJuggler	2
+-cdm NTI CD-Maker	3
+-cdp NTI CD-Copy	3
+-cif Creator	3
+-cmi CDMate	3
+-cpj WinOnCd	3
+-cso1 ISO compressed	2T
+-cue Cue Sheet	2
+-daa PowerISO Direct-Access-Archive	2
+-dao Duplicator, Nero	3
+-dax Compressed CD image	3T
+-fcd Uncompressed	3
+-fcd1 Virtual CD-ROM	3
+-gcd Prassi CD Image	3
+-gi Prassi PrimoDVD	3
+-ibp IsoBuster image backup	3
+-iso Nero, BlindRead, Creator	3T
+-isz UltraISO compressed disk image	3T
+-mds Alcohol	3
+-ncd1 NTI CD-Maker disk image	3
+-nrb Nero	3
+-nrg Nero	3
+-ovr Feurio	3
+-p01 Toast	3
+-pxi PlexTools	3
+-sub CloneCD	3
+-tao Duplicator, Nero	3
+-toast Toast CD Image	3T
+-vc4 Virtual CD	3
+-vcd Vob InstantDisc	3
+-vcd1 Virtual CD	3
+-vdscr CD Volume descr	3
+*** Docs, Common formats
+-csv Comma-separated values	4
+-doc MS Word	4
+-doc3 MS Word (MacBinary)	2T
+-docm MS Word Document macro-enabled	4
+-docx MS Word 2007	4
+-odf OpenOffice Math	3
+-odg OpenOffice Draw	3
+-ods OpenOffice Calc	3
+-odt OpenOffice Writer	4
+-pdf Adobe Acrobat	3
+-pps MS PowerPoint	3
+-ppsm PowerPoint Open XML Macro-Enabled Slide Show	3
+-ppsx MS PowerPoint 2007	3
+-ppt MS PowerPoint	3
+-pptm PowerPoint Open XML Macro-Enabled Presentation	3
+-pptx MS PowerPoint 2007	3
+-txt Text	3
+-xls MS Excel	4
+-xls1 XML Workbook	3
+-xlsb Excel Binary Spreadsheet	3
+-xlsm MS Excel 2007	4
+-xlsx MS Excel 2007	4
+*** Docs, eBook
+-acsm Adobe Content Server Message	2
+-acx Amazon Kindle	3
+-annot Adobe Digital Editions	4
+-azw Amazon Kindle	2
+-azw1 Amazon Topaz	2
+-azw2 Kindle Active Content	2
+-azw3 Amazon KF8	2
+-cbr Comic Book	2
+-cbz Comic Book	2
+-dnl DNL eBook	3
+-ebo MS Reader annotations	3
+-epub Open Publication Structure	1T
+-etd EBook download description	1
+-fb2 HaaliReader	2
+-hsb HandStory eBook	2
+-ibooks Multi-Touch iBook	3
+-imp1 Softbook eBook	2
+-lit MS eBook	1T
+-lrf Sony Portable Reader	2
+-lrx Sony eBook	2
+-mbp Mobipocket Notes	3
+-meb Open eBook	2
+-mobi eBook	1T
+-opf Open Packaging Format	1
+-seb Franklin eBook	1
+-tcr Psion eBook	2
+-tpz Kindle Topaz eBook	2
+-tr TomeRaider eBook	1
+-tr3 TomeRaider 3 eBook	2
+*** Docs, Misc Documents
+-a3w Authorware	2
+-a4p Authorware	2
+-a4r Authorware	2
+-a6p Authorware	2
+-ab3 PhotoImpact 3 Album	3
+-alc Adobe Illustrator Vector Graphics	3
+-ans HotDocs answer	3
+-anx HotDocs answer	3
+-apd Aldus PageMaker	3
+-apxl Keynote Presentation Data	2
+-axe AutoRoute export	4
+-b4s Winamp playlist	2
+-bcf Business Card Designer	3
+-bfx Bitware Fax	4
+-bib BibTeX	1
+-biz Business Card	3
+-bks IBM Softcopy Reader	3
+-bm2 Boardmaker Interactive	2
+-bmk PowerDVD MovieMark	3
+-bml Bean Markup lang	2
+-bpd Business Plan Pro	3
+-bpdx Business Plan Pro	3
+-bsb MapInfo sea chart	2
+-bup Backup Pointer	*
+-cag Capella sheet editor	3
+-cap Capella sheet editor	3
+-cbcx Comic Book Creator	1
+-cdmz ConceptDraw MINDMAP	3
+-cfc ColdFusion Component	3
+-cfm ColdFusion Markup	3
+-cl4 Easy CD Creator 4	2
+-cld Canon CD Label	2
+-clk Corel R.A.V.E	2
+-clkx Clicker	3
+-cmap  CmapTools Concept Map	3
+-cmbl Logger Pro Data	4
+-cmv CorelDRAW CorelMove animation	2
+-cmx Corel Metafile	3
+-content Google Toolbar	3
+-cph Corel Print House	3
+-cpo Corel Print House	3
+-cptx Adobe Captivate	3
+-crd Cardfile	2
+-crds Information Card Store	3
+-ctd Click to DVD	1
+-cui Autodesk Custom Workspace	3
+-cvg Calamus Vector Graphic	3
+-cwk AppleWorks	3
+-cws Claris Work Office	3
+-cxf Picasa Collage File	3
+-d83 GAEB 1990	4
+-dds MS DirectDraw	3
+-design MS Expression Design	3
+-dft Solid Edge Draft Document	3
+-dgml Marble	3
+-dia diagram	3
+-djvu LizardTech	2T
+-dmt Street Atlas Transfer File	3
+-docbook OASIS document	2
+-doe Arena Model File	1
+-dotm Macro-Enabled Document Template	2
+-dpd Ovation Pro	3
+-dpv Siemens NX Drafting Standard	3
+-dtd1 Design Tools Draw	3
+-ebx Electronic Book Exchange	2
+-edf eMemoPad Data	3
+-edg EDGE Diagrammer	2
+-efx j2 Global Communications eFax	3
+-enc Encore musical notation	2
+-enex Evernote Archive	3
+-ep Pencil Document	3
+-erk Euro Reisekosten	3
+-exb Evernote	4T
+-exb1 CAXA drawing	3
+-fbc FamilyTree Maker compressed backup	4
+-fbi2 NUIX	4
+-fdd FormDocs	3
+-fdr Final Draft	2
+-fdx Final Draft	2
+-ffdata ABBYY Software	1
+-fgc Greeting Card Factory	3
+-fh10 Freehand drawing	3T
+-fh11 FreeHand 11	3T
+-fh3 Freehand drawing	3
+-fh5 Freehand drawing	3
+-fh7 Freehand drawing	3
+-fh8 Freehand drawing	3
+-fh9 Freehand drawing	3T
+-flipchart ActivInspire Flipchart	3
+-flp0 ActivPrimary Flipchart	3
+-flp2 Family Lawyer saved document	3
+-fo XSL Formatting Objects	1
+-fp FinePrint	3
+-frd Live Meeting	4
+-fs FlexiSIGN Document	3
+-ftw Family Tree Maker	3
+-ga3 Graphical Analysis 3	3
+-gal Corel Album	3
+-gal1 GenePix Array List	2
+-gbr2 Gerber	2
+-ged GEDCOM Family Tree	4
+-glox SmartArt Graphics Layout	1
+-gml Graphlet File Format	2
+-gmp GUEmap document	2
+-gp3 Guitar Pro	1
+-gp4 Guitar Pro	1
+-gpx1 Guitar Pro 6 tablature	1
+-graffle OmniGraffle	3
+-grv SharePoint Workspace	3
+-gtp Guitar Pro Tablature	2
+-h1d Windows Help	1
+-h1h Windows Help	1
+-h1w Windows Help	1
+-h5 HDF5 data	2
+-hcg HClab chart	2
+-hdf Hierarchical Data Format	2
+-hmk Hallmark Card Studio	3
+-hsc Aspen HYSYS	3
+-icml InCopy Document	3
+-idx Acrobat search index	1
+-ifo DVD Info	1
+-igr Intergraph SmartSketch Drawing	3T
+-igs IGES Drawing	3T
+-igx iGrafx Process/document	2T
+-iii Inventory	3
+-ilm Opus Creator multimedia	2
+-imr Impromptu report	3
+-ipmeta iPhoto	3
+-isf Inspiration Flowchart	3
+-itl iTunes Library	2
+-its MS Help 2.0	*
+-jasper JasperReports	3
+-jdf Job Definition Format	3
+-jnb SigmaPlot Workbook	2
+-jnt MS Windows Journal	3T
+-jnx The Journal	3
+-jrprint JasperReports Print	3T
+-jrxml JasperReports	3T
+-jwl Easy CD Creator	2
+-kap BSB Chart Image	3
+-key Apple iWork Keynote presentation	4
+-kmy KMyMoney	3
+-kpr KPresenter	4
+-label DYMO label	2
+-latex LaTeX	2
+-letter SAGE	2
+-lhd Label Home document	3
+-lov SAP Business Objects	3
+-lsc LOGO!Soft Comfort Circuit	3
+-ltr Legato Letter	3
+-m3u playlist	3
+-macdraw MacDraw	3
+-man Windows visual stylesheet	*
+-map MapInfo	2
+-mat Matlab	1
+-mbf Ms Money Backup	3
+-mcd Mathcad	1
+-mer Entity-Relationship Diagram	1
+-mfp Macromedia Flash Paper	3
+-mgc Clipart Collection Catalog	*
+-mls Milestones	3
+-mmap MindManager Map	4T
+-mmo Hyper File memo	3
+-mno Macromedia Design Notes	2
+-mpf Design Gallery	1
+-mpl AVCHD Playlist	3
+-mpp MS Project	3
+-mpt MS Project Template	1
+-mpx MS Project export file	2
+-mscx Muse score	3
+-mtd Musicnotes	2
+-mtp Minitab Portable Worksheet	3
+-mvdx MindView MindMap	4
+-mw Maple Worksheet	3
+-mws Maple worksheet	3
+-mxml Adobe Flex	2
+-mxpl MAGIX Playlist	2
+-nbi Nero BackItUp Information	4
+-ncb VisualStudio	2
+-ncd Cover designer	1
+-ndw Allplan drawing	3
+-newsml IPTC NewsML	4
+-njx NJStar Document	3
+-note tomboy	3
+-notebook SMART Notebook	3
+-nvc NeroVision Express	2
+-obd MS Office Binder	2
+-obt MS Office Binder Template	*
+-odf OpenOffice Math	3
+-odg OpenOffice Draw	3
+-odm opendocument textmaster	4
+-odp OpenOffice Impress	3
+-ofm OmniForm	3
+-one MS OneNote	4
+-onlv A2063	4
+-opendoc Open Document	3
+-openxml MS OpenXML	3
+-opml Outline Processor Markup Language	2
+-opw HumanConcepts OrgPlus	4
+-opx Organizing chart	4
+-or2 Lotus Organizer 3	4
+-or3 Lotus Organizer 3	4
+-or4 Lotus Organizer 4	4T
+-or5 Lotus Organizer 5	4T
+-or6 Lotus Organizer 6	4T
+-ove Overture Musical Score	3
+-ozimap OziExplorer Map	3
+-p83 GAEB	4
+-p86 GAEB	4
+-pa Print Artist	3
+-paf Personal Ancestral File	3
+-pap Corel Painter Pattern	*
+-pbf SpriteBackup	3
+-pbk Dial-Up Phone Book	4
+-pek Adobe Premiere waveform	1
+-pes Brother Embroidery	1
+-pez Prezi Desktop Presentation	3
+-pff Portable Form	2
+-pfl PDFill Project	3
+-pgml Precision Graphics Markup Language	3
+-pho Gerber Photoplot	3
+-pjt FoxPro Project Memo	3
+-plan Home Designer plan	2
+-pls Playlist	3
+-plt1 EDGE file	2
+-plt2 Gerber Scientific plot	3
+-pmap Pocket Mindmap	3
+-pmg Adobe Photomerge	3
+-por SPSS Portable	2
+-pps MS PowerPoint	3
+-ppsm PowerPoint Open XML Macro-Enabled Slide Show	3
+-ppsx MS PowerPoint 2007	3
+-ppt MS PowerPoint	3
+-pptm PowerPoint Open XML Macro-Enabled Presentation	3
+-pptx MS PowerPoint 2007	3
+-ppz MS PowerPoint	3T
+-pqa Palm Query Application	2
+-pqf Corel Presentation	3
+-pqi Corel Presentation	3
+-pr4 Harvard Graphics Presentation	3
+-prc Palm Resource	2
+-prc1 Palmpilot	3
+-prd Softmaker Office Presentations	3
+-prn Printable File	3
+-prx Windows Media Profile	1
+-ps Postscript	2T
+-psr Powersoft Report	3
+-psz Compressed PostScript	2
+-ptb Power Tab	2
+-ptm MapPoint Map	3
+-pxl2 Pixclscript	3
+-qfl Family Lawyer	3
+-qsd Quicken data	3
+-qvd QlikView	3
+-qvw QlikView	3
+-rb4 Resume Builder 4	3
+-rbc Retrospect catalog	3
+-reco Evernote	3
+-recodata Evernote	3
+-rep BusinessObjects	3
+-rep2 ACT report	3
+-report SAGE report	2
+-ret BusinessObjects Template	3
+-rpt Crystal Report	3T
+-rtd1 Robot	2
+-sbw Savings Bonds Wizard	3
+-sch EAGLE Schematics	2
+-sdd StarOffice presentation	3
+-sff Structured Fax Format/Fritz Fax	4
+-sh3 Harvard graphics	3
+-shw Corel Presentation	3
+-shw1 WordPerfect presentation	3
+-sig Print Shop Sign	2
+-sim SAP Tutor	2
+-smi SAMI Subtitles	3
+-spc1 text/x-speech	2
+-spo SPSS 15 output	3
+-spv SPSS 16+ output	3
+-srt SubRip SubRip Subtitle	3
+-std StarOffice drawing	3
+-std1 SureThing CD Labeler	2
+-sti StarOffice presentation	3
+-swd Flash Debug	3
+-sww Anno Saved Game	2
+-sxd StarOffice drawing	3
+-sxi StarOffice presentation	3
+-tbk ToolBook	3
+-tex Tex/LaTeX	2T
+-texi Tex Info	2
+-tl5 Timeliner 5	3
+-tlo SPSS TableLooks	2
+-tsc TINA Design	3
+-ucf WebEx Media	3T
+-uds Sierra Generations	3
+-vce Visual CertExam	2
+-veg Sonic Foundry Vegas	2
+-vmc Microsoft Virtual PC settings	2
+-vor StarOffice template	*
+-vp Corel Ventura Publisher	3
+-vp3 VP3 sewing machine	2
+-vsd Visio document	3
+-vsdx Visio document	3T
+-vssx Visio Stencil	2
+-vxml VoiceXML	2
+-vym VYM Mind Map	3
+-web application/x-corelxara	2
+-wlmp MovieMaker	2
+-wm2d Working Model	2
+-wm3 VisualNastran	2
+-wnk Wink Presentation	3
+-wpostx Windows Live Writer post	4
+-ws2 WordStar 2000	3
+-wsb Microsoft Works Portfolio	3
+-wsc RIO Designer Pro Scene	2
+-wwd MS Works	3
+-x81 GAEB	4
+-xbel XML Bookmark Exchange Language	2
+-xbrl Extended Business	3T
+-xcs OpenOffice	1
+-xks IBM Softcopy Reader PDF Extended Bookshelf File	2
+-xlf XLIFF Document	3
+-xmi XML Metadata Interchange Format	2
+-xml XML	2
+-xpl Playlist	3
+-xspf XSPF Playlist	3
+-zir Compass and Ruler	2
+-zmg ZENworks Desktop	2
+-zno Zinio Electronic Magazine	2
+*** Docs, Page Layout
+-ai Adobe Illustrator	3
+-ait Illustrator Template	2
+-book FrameMaker book	2
+-cdf Computable Document Format	3
+-dtx Documented LaTeX	3
+-fm1 FrameMaker	3T
+-fr3 FastReport Form	2
+-frm2 FrameMaker	3
+-icma InCopy Assignment	3
+-idml Adobe InDesign	3
+-idms InDesign Snippet	3
+-idpp InDesign Preflight	2
+-incx InCopy CS3	3
+-indb InDesign Book	3
+-indd InDesign	3T
+-indl InDesign Lib	2
+-inds InDesign Snippet	3
+-indt InDesign Template	2
+-inx1 InDesign Interchange	3
+-lbl Now Contact Label Template	2
+-mcf FotoInsight Designer	3
+-mdi MS Office Document Imaging	3T
+-mif1 FrameMaker Interchange Format	3
+-npp Art Explosion Publisher Pro	3
+-oxps OpenXPS	3T
+-p65 Pagemaker	3T
+-pdf Adobe Acrobat	3
+-pm3 PageMaker	3
+-pm4 PageMaker	3
+-pm5 PageMaker	3
+-pm6 PageMaker	3T
+-pmd PageMaker 7	3T
+-pmt PageMaker template	2
+-ppp Serif PagePlus	3T
+-pub Publisher Document	3T
+-qxb QuarkXPress Book	3T
+-qxd Quark XPress	3T
+-qxt Quark XPress template	2
+-sbk Scrapbook Factory	3
+-sla Scribus	3
+-xdw DokuWorks	3
+-xps XML Paper Specification	3
+-xzfx ZipLogix ZipForm	3
+-zdl Avery DesignPro	3T
+-zdp Avery DesignPro	3T
+-zds DesignPro Label	3T
+*** Docs, Plain Text
+-ascii 7-bit ASCII	2
+-ascii+ 7-bit ASCII with ESC char.	1
+-ascii- Trailing null byte	2
+-ascii_unix 7-ASCII, Unix LF	2
+-conf Config file	*
+-log Log file	4
+-putty Log file	4
+-strings Text	1
+-txt Text	3
+-txt2 Text encoded	3T
+-ucs2 Unicode BE	3
+-utf16 Unicode text	2
+-utf16be Unicode text	2
+-wedb Windows.edb	4
+*** Docs, Spreadsheet
+-csv Comma-separated values	4
+-dif Data Interchange Format	3T
+-dis Oracle Discoverer Workbook	3
+-edx Edraw Max	3
+-fcs First Choice Spreadsheet	3
+-fm FrameMaker/Lotus 1-2-3 spreadsheet	3
+-fm3 Lotus 1-2-3 release 3.x spreadsheet	2T
+-fods Flat XML spreadsheet	3
+-gnumeric Gnumeric spreadsheet	3
+-mtw Minitab Worksheet	3
+-mxl Moxcel spreadsheet	3
+-mxlz Moxcel spreadsheet	3
+-nb Mathematica Notebook	3
+-numbers Apple iWork Numbers spreadsheet	3
+-numbers-tef Numbers iCloud Document	3
+-ods OpenOffice Calc	3
+-ots OpenOffice Calc template	1
+-qpw Quattro Pro Spreadsheet	3
+-sdc StarOffice spreadsheet	3
+-stc StarOffice spreadsheet	3
+-sxc StarOffice spreadsheet	3
+-tsv Tab-separated values	4
+-wb2 Corel Quattro Pro	2
+-wb3 QuattroPro for Windows Spreadsheet	2
+-wks MS Works/Lotus 1-2-3	3
+-wks1 Works Spreadsheet	4T
+-xla Excel/Addin	1
+-xlam XLSX Macro-Enabled	3
+-xlc Excel Chart	3
+-xlk MS Excel backup	2
+-xll Excel XLL Add-In	1
+-xlr MS Works spreadsheet	3
+-xls MS Excel	4
+-xls1 XML Workbook	3
+-xlsb Excel Binary Spreadsheet	3
+-xlsm MS Excel 2007	4
+-xlsx MS Excel 2007	4
+-xlt MS Excel template	1
+-xltx MS Excel 2007 template	1
+-xlw MS Excel 4.0 workbook	3
+*** Docs, Text, Word Processing
+-abw AbiWord	4T
+-ami Ami Pro	4
+-chiw ChiWriter	3
+-clpt Macintosh Clipping	3
+-dgs Dagesh Document	3
+-doc MS Word	4
+-doc1 WordPad	3
+-doc3 MS Word (MacBinary)	2T
+-docm MS Word Document macro-enabled	4
+-docx MS Word 2007	4
+-dot MS Word template	*
+-dotx MS Word 2007 template	*
+-dtd Document Type Definition	*
+-dvi TeX/LaTeX compiled	3T
+-eld EasyLanguage Document	3T
+-evy Envoy	3T
+-fax Fax	4
+-fodp Flat XML	3
+-fodt Flat XML	3
+-fts Help search index	1
+-gul Samsung document	3
+-hwp Hangul document	3
+-inp InPage document	3T
+-jsd eFAX Jet Suite	2
+-jtd Ichitaro document	3
+-knt KeyNote Note	3T
+-lp2 iLEAP Word Processor	3
+-lwp Lotus Word Pro	3
+-lyx Lyx document	3T
+-mcw Mac Write	3
+-mor1 Corel Shared Writing Tools	3T
+-odt OpenOffice Writer	4
+-opd OmniPage Document	3T
+-otp Presentation Template	3
+-ott OpenDocument text template	1
+-pages Apple iWork Pages	3
+-psw Pocket Word	3T
+-pwd Pocket Word	3
+-pwi Pocket Word	3T
+-rft IBM DisplayWrite	3
+-rtd Ragtime	4T
+-rtf Rich Text	3
+-rtt Ragtime	4T
+-sam Lotus Ami Pro	3
+-scrivx Scrivener	3
+-scw Screenwriter Document	3
+-sdw StarOffice Writer	3
+-sgl StarOffice Writer	3
+-sgm Standard Generalized Markup Language Document	3
+-snb S Note	4T
+-stw StarOffice template	2
+-sxg StarWriter global document	4
+-sxm StarMath document	3
+-sxw StarOffice Writer	4
+-tmd TextMaker	4T
+-tmv TextMaker	4T
+-wbk Word Document Backup	3
+-wpa ACT! word processor	4T
+-wpd WordPerfect	4
+-wps MS Works	4
+-wrd Psion serie 3 word	4
+-wrdtmp MS Office user identification	2
+-wri Windows Write	2
+-wsd WordStar	2
+*** E-mail
+-;store.fdb; Kerio Connect	4
+-;winmail.dat; TNEF	3
+-0tx Tobit Email	4
+-bdp Microsoft Exchange diagnostic	2
+-box FoxMail, Lotus Notes	4
+-cca Lotus CCMail	4
+-ccm Lotus CCMail	4
+-cnm Pegasus	4
+-cnr Pegasus	4
+-dbx Outlook Express	4
+-det Sage ACT!	5
+-eml E-mail message	5
+-emlx OSX Tiger Mail	5
+-emlxpart Attachment	4
+-emz Windows compr. enh. metafile	3T
+-exchange MS Exchange E-mail Database	5
+-fav Outlook favorites	4T
+-fdb T-Online, Kerio Connect	4T
+-flb The Bat! mbox	4
+-fol winmail	3T
+-gmd GroupMail Message	3
+-grp SmarterMail Group	4
+-iaf Outlook account	2
+-id Lotus Notes	4
+-idb Pocomail, Barca	4
+-ima IncrediMail animation	2
+-imf IncrediMail eCard	3
+-iml ACT! Internet Mail	4
+-imm IncrediMail messages	4
+-mbg Mailbag Assistant	4
+-mbox Generic mailbox	5
+-mbs Opera	4
+-mbx Eudora, PocoMail, Barca	4
+-mbx2 OE4 Mailbox	4
+-me3 Arcsoft MultiMedia Email 3.0 message	4
+-mim Internet Mail Message	4
+-mime MIME	3
+-mmf MailMessage File	4
+-msb The Bat!	4
+-msf Mail Summary	3
+-msg MS Outlook, PMMail	5
+-msmessagestore Windows Vista Mail	4
+-mso Inline E-mail Attachment	4
+-nk2 Outlook AutoComplete	5
+-nsf Lotus Notes	4T
+-nws Live Mail news message	3
+-oeaccount Windows Mail	4
+-oft MS Outlook template	2
+-olk14message MS Outlook 2011 for Mac	4
+-olk14msgattach MS Outlook 2011 for Mac	4T
+-olk14msgsource MS Outlook 2011 for Mac	5
+-olk14recent	nk2 for Mac	5T
+-olk14signature MS Outlook 2011 for Mac	3
+-olm Mac Outlook	5T
+-org AOL Global Access Information	3
+-ost MS Outlook	4
+-pce Eudora Mapping Mailbox	4
+-pcv MozBackup	3
+-pfc AOL	4
+-pmi Pegasus	4
+-pmm Pegasus	4
+-pst MS Outlook	5
+-rwz Outlook rule	3
+-sdm StarOffice Mail	4
+-sessionstore Firefox	3
+-smd StarOffice Mail document	4
+-snm Netscape	4
+-tbb The Bat!	4
+-tbi The Bat!	4
+-tnef Transport neutral	3
+-toc Eudora table	4
+-uidl IMAP Server	4
+-wdseml Thunderbird mail message	3
+-xnk MS Exchange shortcut	2
+-zdb Zimbra	4
+*** Fonts
+-afm Adobe Font Metrics File Format	*
+-bdf UNIX font	*
+-compositefont composite font	*
+-dfont Data Fork Font	*
+-eot Embedded OpenType Font	*
+-fon Windows FON file format	*
+-gsf Font3	*
+-lst1 Adobe-FontList	*
+-lwfn Mac Adobe Type 1	*
+-mcf1 Watchtower Library Font	*
+-odttf Obfuscated OpenType Font	*
+-otf Open Font	*
+-pcf1 Portable Compiled Format	*
+-pfa Adobe Font	*
+-pfb Adobe Font	*
+-pfm Printer Font Metrics	*
+-sui Mac Font	*
+-tfm Tagged Font Metric	*
+-tlb OLE type library	*
+-ttc TrueType Compressed Font	*
+-ttf True Type Fonts	*
+-woff WOFF font	*
+-woff2 Web Open Font	1
+-xpt XPCOM TypeLib	*
+-ytf Picasa Font Cache	*
+*** GPS/Navigation
+-;herrevad; Android Locations
+-3dc iGO 3D building	2
+-anr DeLorme Street Atlas route	4
+-bif TomTom general info	2
+-cache.wifi; Android	5
+-consolidated.db; iPhone	5
+-ee GPS Ephemeris	3
+-est Streets & Trips	4
+-gdb Garmin Mapsource	4
+-gdbtable ArcGIS geodatabase	3
+-geojson GeoJSON	4
+-ggf GPS Pathfinder Office Geoid Grid	3
+-gma Garmin map	1
+-gpi Point of interest	4
+-gpx GPS eXchange Format	4
+-gtm GPS TrackMaker	3
+-igc Flight Track	4
+-img2 Garmin Map	2
+-kml Google Earth Placemark	3T
+-kmz Google Earth	3T
+-krt klickTel Routenplanner	4
+-lmk1 Landmarks	2
+-loc Topografix's EasyGPS	3
+-lyr ArcView Layer	2
+-mapsdata iPhone Maps	4
+-mif MapInfo Interchange	3
+-mps Garmin MapSource data	3
+-mps1 Pocket Streets map	2
+-mxd ArcMap GIS Project	3
+-ndb SeeYou Waypoint	4
+-nmea GPS log	3
+-nmf ArcGIS Explorer	3
+-osm Open Street Map	2
+-ov2 TomTom POI db	4
+-pmf ESRI Published Map	3
+-poi Magellan Maestro POI	4
+-prj1 ArcView ESRI Coordinate System	2
+-psp1 PushPin	3
+-pth VisualGPSXP path	4
+-sbn ESRI Spatial Index	2
+-sbx ESRI Spatial Index	2
+-shp ESRI Shapefile	4
+-shx1 ArcView DataBase Index	1
+-ssf Trimble	4
+-tcx Garmin Training	3
+-tlv TomTom POI	4
+-toc1 TomTom	4
+-tomtom TomTom traffic data	3
+-trip Garmin	4
+-trk GPS PCX5	3
+-trk2 Magellan Waypoint	3
+-trp Tripmaker	3
+-vpm Garmin Voice	1
+-wlx MapSource Web Link	3
+-wpo HOLUX Waypoint	3
+-wpt GPS waypoint	3
+*** Internet, Chrome
+-;cookies; Google Chrome cookies	4
+-;data_0; Google Chrome cache	3
+-;data_1; Google Chrome cache	3
+-;data_2; Google Chrome cache	3
+-;data_3; Google Chrome cache	3
+-;history; Google Chrome	4
+-;login data; Google Chrome login data	4
+-chrome Google Chrome	4
+-chrome1 HTTP response	3
+-crx Chrome extension	2
+-http Chrome HTTP response	3
+-index Chrome cache index	2
+-localstorage Chrome	3
+-log4 Chrome	4
+-service_worker ChromeOfflineCache	4
+-snss Chrome session	4
+*** Internet, Internet Explorer
+-;index.dat; Internet Explorer history/cache	4
+-;webcachev01.dat; Internet Explorer 10 history/cache	4
+-;webcachev24.dat; Internet Explorer 10 history/cache	4
+-indexdat IE cache	4
+-travellog IE8 Last Browsing Session	4
+-url Internet Explorer shortcut	3
+*** Internet, Mozilla/Firefox
+-;cookies.sqlite; Mozilla/Firefox cookies	4
+-;cookies.txt; Mozilla/Firefox cookies	4
+-;downloads.sqlite; Firefox downloads	4
+-;formhistory.sqlite; Mozilla/Firefox form history	4
+-;healthreport.sqlite; Mozilla/Firefox health report	4
+-;history.dat; Mozilla/Firefox browser history	4
+-;places.sqlite; Mozilla/Firefox web history	4
+-;sessionrestore.js; Firefox session restore	3
+-;signons.sqlite; Mozilla/Firefox signons	4
+-;webappsstore.sqlite; Mozilla/Firefox web app store	4
+-;_cache_001_; Mozilla/Firefox Cache	4
+-;_cache_002_; Mozilla/Firefox Cache	4
+-;_cache_003_; Mozilla/Firefox Cache	4
+-cache2 Firefox	3
+-firefox FireFox cache	4
+-jsonlz4 Compressed Firefox Bookmarks Backup	3
+-mozilla prefs.js	3
+-mozlz4 compressed bookmark backup	3
+-session Firefox Session	3
+-sessionrestore Firefox	4
+-xpi Firefox browser extension	1
+*** Internet, Safari
+-;cache.db; Safari cache	4
+-binarycookies Safari	4
+-safariextz Safari extension	2
+-webarchive Safari	4
+-webbookmark Safari	3
+-webhistory Safari	4
+*** Internet, Misc Files
+-;.htaccess; Apache	2
+-;dcache4.url; Opera browser cache	4
+-1sps browser event	3
+-a5w Alpha Five Webpage	2
+-a5wcmp Alpha Five Web Components	2
+-adr Opera bookmarks	3
+-asax Global application class	2
+-ascx Web user control	2
+-ashx Generic handler	2
+-asmx ASP.NET Webservice	2
+-asp Active Server Page	2
+-asp1 HTML script	2
+-aspx Mobile web form	2
+-atom Atom Syndication Format	1
+-axd ASP.NET	1
+-blogthis Windows Live Writer	3
+-browser browser definitions	1
+-cgi Common Gateway Interface script	3
+-cls JavaScript Class	2
+-config Web configuration	2
+-cookie Cookie	3
+-cshtml ASP.NET Razor Web	2
+-css Cascading Style Sheet	*
+-dcr Shockwave Media	2
+-disco Static discovery	3
+-dtml Dynamic HTML	2
+-eiurl URL with timestamp	3
+-esc URL encoded	3
+-f4m Flash Media Manifest	2
+-fcgi FastCGI	2
+-fla Macromedia Flash source	3
+-gvp Google Video Pointer	2
+-heu Adobe Flash Player cache metadata	3
+-hst Netscape	2
+-hta Hypertext Application	1
+-htc HTML component	2
+-htm HTML	2
+-htm1 Saved html	3
+-htm2 HTML snippet	4
+-html HTML	2
+-http1 HTTP response	3
+-identifier download marker	3
+-iqy Internet Inquiry	3
+-ism IIS Smooth Streaming Manifest	3
+-ismc Smooth Streaming Client Manifest	3
+-jnlp Java Web Start Launcher	2
+-js JavaScript	1
+-jsonp auto completion	3
+-jsp Java Server Page	2
+-jsp1 Script	3
+-jspx XML Java Server Page	2
+-lbi Dreamweaver Library Item	2
+-ldb2 LevelDb	3
+-managed_manifest Silverlight manifest	2
+-mars MSN6	3
+-master Master page for web applications	2
+-mcc Microsoft network shortcut	3
+-mch Macromedia Xtra Cache	2
+-meta1 RealPlayer Downloads	3
+-metalink application/metalink+xml	2
+-mht Web page archive	2
+-mhtml Web page archive	2
+-ms-properties SkyDrive	3
+-msrcincident Windows Remote Assistance	3
+-nbz newzBin USENET Index	3
+-nmw Netmeeting Whiteboard	3
+-nzb Usenet	3
+-odc MS Office Data Connection	2
+-odl Object Definition Language	3
+-opera Opera cache	3
+-osdx Open search	3
+-php Hypertext Preprocessor	2
+-php1 Gateway php	3
+-php3 PHP script	2
+-php4 PHP script	2
+-phtml PHP Web Page	2
+-proto Protocol Buffers	4
+-qtl QuickTime Media Link	2
+-rdf Resource description framework	3
+-rss Rich Site Summary	3
+-rt RealText Streaming	3
+-rtc Live Meeting Connection	4
+-shtml HTML	2
+-sitemap ASP.NET	2
+-skin ASP.NET theme	1
+-smil Synchronized Multimedia Integration Language	2
+-sol Flash Local Shared Object	3
+-swc Macromedia Flash	1
+-swf Macromedia Flash	1T
+-swt Flash Generator Template	1
+-thtml TCL dynamic HTML	2
+-ttml TCL dynamic HTML	2
+-ulk Internet Shortcut	3
+-uls Internet Location Service	3
+-war Java Web Archive	3
+-webloc Apple finder Internet location	3
+-webpnp Web Point And Print File	3
+-wml Wireless Markup Language	3
+-wpost Windows Live Writer Post	3
+-wpp WebPlus Project	3
+-wrf WebEx Recording	3T
+-wsdl Web Services Description	2
+-xap Silverlight Application Package	2
+*** Memory
+-;hiberfil.sys; Hibernation	5
+-;pagefile.sys; Swap file	3
+-;sleepimage; OSX Sleep/Hibernate Image File	3
+-dmp Memory dump	3
+-sav Virtualbox Snapshot	3
+-vmem VMware main memory	4
+-vmsn VMware snapshot	4
+-vmss VMware suspended	4
+-vsv Virtual Machine Saved State	4
+*** Mobile Phones
+-;build.prop; Android configuration	4
+-ab Android Backup	4
+-alx BlackBerry Loader	3
+-app1 Symbian OS	2
+-arsc Dalvik Virtual Machine resource pack	2
+-asec Android Secure Application	2
+-bbb BlackBerry Backup	5
+-cah Sony Ericsson PC Suite	4
+-dbk Sony Ericsson Backup	4
+-emy Ericsson eMelody ringtone	1
+-enml Evernote for Android	4
+-flst Nokia Account	4
+-ifaith iFaith SHSH File	3
+-img3 iOS encrypted/signed container	2
+-img4 Android image	4
+-ipa iPhone/iPad app	1
+-ipd BlackBerry Backup	4
+-ips Apple Crash	4
+-ipsw iPhone software backup	3
+-ish1 IntelliSync	3
+-journal Twitter journal	3
+-lbk iOS words	3
+-lml PcSync2.SML	3
+-lmx Nokia landmark	3
+-mdbackup iPhone	3
+-mddata iPhone Backup	4
+-mdinfo iPhone Backup	4
+-mms Multimedia Messaging Service	4
+-mobileconfig Apple Mobile Configuration	4
+-mpa Palm Memo	4
+-mpb MyPhoneExplorer backup	4
+-mxmf Nokia Ringtone	1
+-nbu Nokia backup	5
+-nfb Nokia PC Suite phone backup	4
+-nfc Nokia Phone Backup	4
+-nlm1 Nokia Logo Manager bitmap	2
+-nth Nokia theme	1
+-obb Android Opaque Binary Blob	2
+-odex  Android optimized executalbe	2
+-properties Titanium Backup	3
+-qip QIP Infium account	4
+-rem BlackBerry encrypted	3
+-sbf Android System File	2
+-sbf1 Android Backup	3
+-sbu Samsung Backup	4
+-seft Samsung JPEG trailer	3
+-sis Symbian	2
+-sisx Symbian OS program	2
+-sml Nokia PcSync	4
+-smm Samsung Memo	3T
+-sn3 Samsung Kies backup	3T
+-spb Samsung Kies Phonebook	3T
+-spd Samsung note	4
+-ssc Samsung Kies calendar backup	4T
+-ssn Samsung Kies notes backup	4T
+-stg ActiveSync Backup	4
+-sync Kies Sync Schedule	2
+-tda Palm To-Do	4
+-titanium TB_ARMOR_V1	3
+-ufdr UFED Physical Analyzer report package	5
+-vbm WAP Bookmark info	3
+-vcl Call log	4
+-vm Samsung voice memo	4
+-vmg SMS	4
+-vnt Mobile Phone vNote	4T
+-wup WhatsUp Gold network map	4
+*** Network/Packets
+-cap2 Network capture	3
+-cap3 NetMon traffic capture	3
+-cap4 Snoop capture	3
+-pcap TCPDUMP	5
+-pcapng Pcap-NG Packet Capture	4
+-tcp TCP packet	5
+-trc Sniffer capture	4
+-udp User datagram	5
+*** P2P
+-;data1024.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
+-;data2048.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
+-;data256.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
+-bc! BitTorrent unfinished	2
+-bt! BitTorrent Partial Download	2
+-emulecollection eMule	3
+-fileg Torrent related	3
+-met eMule Resource	3
+-mojito Limewire Kademlia	4
+-nfo2 Warez description	3
+-props LimeWire/FrostWire	3
+-resume BitTorrent resume	4
+-state Gigatribe state	3
+-torrent BitTorrent	4
+-vuze Azureus	3
+*** Pictures, 3D Graphics
+-3dm Rhino 3D	1T
+-3dmf QuickDraw 3D Metafile	2
+-3ds 3D Studio Scene	1T
+-3dt 3D Topicscape	3
+-3dxml Dassault Systemes 3D XML	3
+-anm 3D animation	1
+-b3d Blitz3D	1
+-blend Blender 3D	2T
+-br6 Bryce 6 Scene	2
+-br7 Bryce 7 Scene	2
+-c3d Cool 3D	2
+-c4d CINEMA 4D model	2
+-co Cult3D object	2
+-dae COLLADA 3D Digital Asset	2
+-daz DAZ Studio 3D Scene	2T
+-dwf Design Web Format	2
+-fbx Autodesk Interchange	3T
+-flt OpenFlight 3D	1
+-gr2 Granny 3D	1
+-hhv Biovision Hierarchy	2
+-iv SGI Open Inventor	2
+-lsddrw SolidWorks Drawing	3
+-lwo LightWave 3D Object	1
+-lws LightWave 3D Scene	2
+-m3g Mobile 3D Graphics	2
+-ma Maya Project	2
+-max 3ds Max Studio Max scene	1T
+-mb Maya Binary Project	2
+-mesh DirectX Mesh	*
+-mor Poser 3D Morph	3
+-mqo Metasequoia 3D scene	2
+-msh Orbiter 3D Mesh	2
+-mxs Maxwell Studio Scene	2
+-nif GameBryo	2
+-o2c Objects to See 3D	3
+-ply Polygon Model	2
+-pmd1 Poser Binary Morph	2
+-pz3 Poser Scene	2
+-rds Ray Dream Studio Scene	2
+-sh3d Sweet Home 3D	2
+-skp Google Sketch Up	3T
+-u3d Universal 3D	2T
+-unityweb UnityWeb	2
+-vue Vue Scene	1
+-vvd Vivid 3D Scanner	3
+-wrl VRML World	2
+-x DirectX Model	*
+-z3d ZAM 3D	2
+*** Pictures, Misc Pictures
+-accountpicture-ms Account picture	3
+-acr Dicom	3
+-aic Advanced Image Coding	3
+-albm HP Photo Printing Album	3T
+-ani animated cursor	1
+-appicon VMWare	2
+-apx Ability Photopaint Image	3
+-art AOL	2
+-awd FaxView Document	3
+-awd2 Artweaver Document	3
+-blp Blizzard Picture	2T
+-bmp Bitmap	3
+-bmz Compressed Bitmap	3T
+-bw Silicon Graphics RGB	2
+-cal CALS raster bitmap	2
+-cals CALS raster bitmap	2
+-cdr Corel Draw	3T
+-cdw CeledyDraw image	3T
+-cgm Computer Graphics Metafile	2
+-ch3 Harvard Graphics Chart	2
+-cht2 Harvard Graphics Chart	2
+-cin Kodak Cineon	3
+-cit Intergraph Format	3
+-clpp Macintosh Clipping	3
+-cpc CPC Compressed Image	3T
+-cpr1 Fotobuch	3
+-cpt Corel Photo-Paint	3T
+-cr2 Canon EOS	3T
+-crw Canon Powershot	3T
+-csh2 Photoshop custom shape	*
+-cur Windows cursor	*
+-cut Dr. Halo, BPM Studio cue points	2
+-cvx Canvas Drawing	2T
+-dcm1 DICOM medical imaging bitmap	3T
+-dcx Zsoft Multipage	4
+-dib Windows device-indep. bitmap	2
+-dicomdir DICOM	3
+-dng digital negative	4
+-dpp Serif DrawPlus	3T
+-dpx Digital Picture Exchange	3T
+-drw1 Micrographix	3
+-drw2 CADS Planner	3
+-dsf Corel Designer	2T
+-ecw Enhanced compression wavelet	3T
+-emf Windows enhanced metafile	3
+-epp1 Canon Easy-PhotoPrint	4T
+-eps Encapsulated PostScript	3T
+-exr OpenEXR Image	3T
+-fbm Fuzzy Bitmap	3
+-fif Fractal Image Format	3
+-fig Vector drwaing	2T
+-fits Flexible Image Transport System	2T
+-flc Autodesk Animator	2
+-fpx FlashPix Bitmap	3T
+-fxd WinFAX Sent	4
+-fxm WinFAX	4
+-fxo WinFAX Image	4
+-fxr WinFax Rec	4
+-fxs WinFAX Transmit	3
+-gbr Gimp Brush	1
+-gif Graphic Interchange Format	2
+-gro Graphic Object Bitmap	3
+-gsd Graphtec Vector	3T
+-hdr High Dynamic Range Image	3
+-hrf Hitachi Raster Format	3
+-im1 Sun Raster	2
+-im8 Sun Raster	2
+-img1 GEM Raster	3T
+-ipx IPIX Image	3T
+-itc2 iTunes artwork cache	2T
+-j2k JPEG 2000	3
+-j6i Ricoh digital camera	3T
+-jbg Fax image	3T
+-jbig Fax image	3T
+-jfif JPEG	3
+-jls JPEG-LS	3T
+-jng JPEG Network Graphics bitmap	2T
+-jp2 JPEG 2000	3
+-jpc JPEG2000 Code Stream	3
+-jpe JPEG	3
+-jpeg JPEG	3
+-jpeg8bim Apple-embedded	3T
+-jpf JPEG 2000	3
+-jpg JPEG	3
+-jpm JPEG 2000 multi-layer	3T
+-jxr JPEG XR	3T
+-kdc Kodak DC120	3
+-kqp Konica camera file	3
+-lep Lepton	4T
+-lwf LuraWave	3T
+-max1 PaperPort Scanned	4T
+-mbm SymbianOS Multi BitMap	2T
+-mdd MacDraft drawing	3
+-mix Microsoft Picture It!	3T
+-mng Mutiple Network Graphics	3T
+-mpo Multi Picture Object	3
+-msp1 Microsoft Paint	3
+-pbm Portable Image	2
+-pcd Kodak Photo CD	3T
+-pct Macintosh Quickdraw	3
+-pcx ZSoft Paintbrush	2
+-pdn Paint.NET Image	3T
+-pef Pentax	3T
+-pfi Photo Filtre Studio	2T
+-pfr Picture Frame	2
+-pgf Progressive Graphics	3T
+-pgm Portable GrayMap graphic	2
+-pic Pictor	2T
+-pic1 Lotus Picture	2
+-pict Macintosh PICT	3
+-png Portable Network Graphics	2
+-pnm Portable image	2
+-ppf Micrografx Picture Publisher	3
+-ppm Portable image	2
+-pre Lotus Freelance Graphics	3
+-prz Freelance graphics	3
+-psb Photoshop Large Document	4T
+-psd Photoshop drawing	3
+-psf PhotoStudio	3T
+-psp Paint Shop Pro	3T
+-pspimage Paint Shop Pro	3
+-pxm Pixelmator	3T
+-pxr Pixar picture	2T
+-qrt QRT ray tracer	2T
+-qtif QuickTime image	3T
+-ras Sun raster	2
+-rgb Silicon Graphics	2T
+-rot Homeworld 2	*
+-rw2 Panasonic Lumix	3T
+-rwz1 Rawzor Compressed	3T
+-sda StarOffice Drawing	3T
+-sdr SmartDraw	3T
+-sfw Seattle Film Works	2T
+-sgi Silicon Graphics	2
+-shg Segmented Hyper-Graphic	3T
+-sid MrSID Image	3T
+-spp PhotoPlus Native Format	3
+-srf Sony DSC F828	3
+-sun Sun raster	2
+-svf Simple Vector Format	3
+-svg Scalable Vector Graphics	2T
+-svgz Compressed SVG	2T
+-svm Starview metafile	2
+-tga Truevision Targa	2
+-tif Tagged Image Format	3
+-tiff Tagged Image Format	3
+-udi Corel Graphics Bitmap	1
+-ufo PhotoImpact Graphic	2T
+-vdx XML for Visio Drawing File	2T
+-vic VICAR Image	2T
+-vss Visio Stencil	2
+-vst Visio Drawing Template	2
+-vsx Visio	2
+-wb0 Webshots Image	2T
+-wb1 Webshots Image	3T
+-wbc Webshots Collection	2T
+-wbd Webshots Picture	3T
+-wbmp Wireless Bitmap	2
+-wbz Webshots image	2T
+-wdp Windows Media HD Photo	3T
+-webp Chrome Weppy	2T
+-wfx WinFAX	3T
+-wic J Wavelet Image	2
+-wmf Windows Metafile	2
+-wmz Media Player Skin	*
+-wpg Corel OLE	2
+-wpg1 WordPerfect bitmap	3
+-xara Xara X drawing	3
+-xbm X11 bitmap	2T
+-xcf Gimp bitmap	2T
+-xpm X11 Pixmap	2T
+-xv VIFF bitmap	3
+-yuv YUV 16-bit interleaved	3
+-zbr Zoner	2
+-zvi Zeiss microscope	3
+*** Pictures, RAW Pictures
+-3fr Hasselblad RAW	3
+-arw Sony RAW	3
+-dc2 Kodak RAW	3
+-mos Nikon raw	3
+-mrw Minolta DiMAGA raw	3T
+-nef Nikon raw	3
+-nrw Nikon raw	3T
+-orf Olympus raw	3T
+-raf Fuji raw	3T
+-raw LEICA RAW	2T
+-rwl Leica Raw	3T
+-x3f Sigma RAW	3
+*** Pictures, Thumbnails/Icons
+-;bigthumbs_0.db; Picasa	3
+-;ehthumbs.db; eHome	4
+-;ehthumbs_vista.db; MediaCenter	4
+-;frameiconcache.dat; MSIE	2
+-;iconcache.db; Icon cache	4
+-;ipsthumb.db; Nikon	4
+-;largeiconcache.dat; MSIE	3
+-;thumbcache_1024.db; Vista thumbnails	4
+-;thumbcache_256.db; Vista thumbnails	4
+-;thumbcache_96.db; Vista thumbnails	4
+-;thumbindex.db; Picasa	4
+-;thumbs.db; Thumbnail database	4
+-;thumbs480x360.dat; Blackberry	4
+-411 Mavica thumbnail	3T
+-bbthumbs BlackBerry	4
+-bc Adobe Bridge Cache	4
+-bct Adobe Bridge Cache	3
+-bigthumbs Picasa2	4
+-cache CoolIris	3
+-cdx ACD Systems	3
+-data1 iPhoto	3
+-dbc Ashampoo Photo Commander	3
+-dbt Ashampoo Photo Commander	3
+-dmsp PhotoSuite Project	3
+-ed1 FaceExemplars	3
+-fd1 FaceThumbs	3
+-fpt1 ACDSee thumbnail cache	4
+-icache Icon cache	3
+-icc2 Icon collection	1
+-icl Icon Library	1
+-icns Mac icon	1
+-ico Icon	1
+-icon Sun icon	1
+-imgcache gallery3d cache	4
+-info Canon ZoomBrowser thumbnails	3
+-ithmb iPod Photo Thumbnails	3
+-itl1 iPod Photo Cache	3
+-jbf Paint Shop Pro browser cache	3
+-lnbt Photoshop thmb	3
+-lrcat Lightroom catalog	3
+-lrprev Lightroom index	3
+-mmc Ms Media Catalog	1
+-mxc2 Magix Photo Manager	4
+-mxc3 Magix Photo Manager	4
+-nkd Nikon ViewNX thumbnail cache	3T
+-nki Nikon ViewNX	3
+-noindex Lightroom index	2
+-nwdb Neat Works	3
+-pe4 Photo Explorer Thumbnail Archive	4T
+-pmp Picasa	3
+-pspcache Paint Shop Pro	3
+-ptn PaperPort Thumbnail	3
+-ptn2 PP11Thumbs	3
+-pxc Photodex Cache	4
+-snag SnagIt Capture	3
+-tdb Android Thumbnail Cache	3
+-tdt AVCHD Thumbnail	2
+-tec Nokia Thumbnail	4
+-tec1 Samsung Kies	3
+-thm Thumbnail	3
+-thn Graphics Workshop Thumbnail	2
+-thumb JAlbum Thumbnail	3
+-thumb1 Android thumbnail	3
+-thumb2 Thumbnail+	3
+-thumbcache Vista thumbnails	4
+-thumbcache_idx Thumbcache index	3
+-thumbdata3 Android	3
+-thumbindex Picasa3 Index	4
+-thumbnails Evernote	4
+-thumbschunk Android gallery	4
+-thumbsdb Thumbnail db	4
+-thumbsw7e Thumbnail+	4
+-tid AVCHD Thumbnail Index	2
+-tmb PC Suite thumbnail	3
+-tof Mr. Photo temporary thumbnail	3
+-xtsf Aperture_Vault	3
+-yos HP Photosmart	3
+*** Programs
+-??_ InstallShield compressed	*
+-a Library	*
+-accde Access compiled exe	1
+-acd1 RSLogix 5000 Program	2
+-air Adobe Integrated Runtime	*
+-apk Android Package	1
+-app Mac OS X Application	1
+-appleexe Apple executable	*
+-application Application manifest	*
+-awk AWK Script	1
+-bat CPM/DOS/Windows script	1
+-bsh Linux/Unix Shell script	1
+-btapp uTorrent App	2
+-cab2 Install Shield	*
+-chm Compiled HTML	1
+-class Java, compiled	*
+-cmd script	1
+-cod Compiled Java	*
+-coff COFF	*
+-com DOS executable	*
+-csm PalmPilot program	3
+-dex Dalvik Executable	2
+-dll Dynamic-Link Library	*
+-dll16 16-bit Dynamic-Link Library	*
+-dll2 System DLL	*
+-dll64 64-bit Dynamic-Link Library	*
+-drv Driver	*
+-dylib Xcode Dynamic Library	*
+-ear Java Enterprise Archive	2
+-el Emacs Lisp	1
+-elc Emacs Lisp	1
+-elf Unix/Linux executable	*
+-elf2 SPARC executable	*
+-elf3 amd64 executable	*
+-elf64 64-Bit executable	*
+-exe Executable	1
+-exe1 Sony Playstation	1
+-exe16 16-bit executable	*
+-exp2 Symbols Export	1
+-fas Compiled Fast-Load AutoLISP	2
+-fmx Oracle Executable	2
+-fxp MS Visual FoxPro 7	2
+-gid Aux. help file	*
+-hlp Help	*
+-ilg InstallShield Log File	1
+-inf Windows Install Information	*
+-ini Initialization	*
+-ins InstallShield (Script)	2
+-inx InstallShield	*
+-ipcc iPhone Carrier Bundle	1
+-ipg iPod game	1
+-isu InstallShield	*
+-jad Java Descriptor	2
+-jar Java archive	2
+-jidx Java Applet Cache	3
+-js1 JS compiled	2
+-jse JScript Encoded	1
+-jsfl Flash JavaScript	3
+-jsxbin Binary ExtendScript	2
+-ko Linux kernel object	*
+-ksh Linux/Unix Shell script	1
+-lan Netware	1
+-lap Java Deployment	2
+-lib Library	*
+-lua1 Bytecode	1
+-macho Mac executable	*
+-macho64 Mac 64-Bit executable	*
+-manifest Executable file manifest	*
+-mdz Access Wizard Template	*
+-mf Java Manifest	1
+-modd Picture Motion Browser Data	1
+-msi Microsoft Installer	*
+-msp Microsoft Patch	*
+-msu Microsoft Update	*
+-n32 Irix Executable	1
+-nexe Chrome Native Client Executable	*
+-nib NeXT Interface Builder	*
+-nlm Netware	1
+-o Linker object	*
+-obj Object code	*
+-ocx OLE	2
+-osd Open Software Description	*
+-pac Proxy Auto-Config	4
+-peff PEF Executable	*
+-pif Windows Program Information File	1
+-prc2 Palm Pilot executable	2
+-prg C-64/C-128 program	1
+-ps1 Windows PowerShell	2
+-ps1xml MS PowerShell	2
+-py Python script	1
+-pyc Compiled Python script	*
+-pyd Python Dynamic Module	2
+-pyo Compiled Python script	*
+-qat Microsoft Office Quick Access Toolbar	2
+-qm Qt Software	*
+-rels package relationships	*
+-rll Resource-only Link Library	*
+-scf Windows Explorer command	1
+-scr Windows screensaver	*
+-sd2 Sound Designer 2	*
+-setup Installation program	2T
+-sh Linux/Unix Shell script	2
+-so Unix Shared Object library	*
+-sys System driver	1
+-tcl TCL script	1
+-u3p U3 Smart Application	2
+-ui User Interface	*
+-user Visual Studio Project User Options	1
+-vb Visual Basic	1
+-vbd ActiveX, Visual Basic 5 Active Document	1
+-vbs Visual Basic script	1
+-vbx Visual Basic Extension	*
+-vlx Compiled AutoLISP	2
+-vmlinuz Linux kernel	*
+-vxd Virtual device driver	*
+-wcm WordPerfect Macro	3
+-wid Visual Studio Widget	1
+-widget Yahoo! Widget	1
+-wpx Printer Information File	*
+-xbap XAML Browser Application	2
+-xbe Xbox executable	1
+-xcode Mach-O	2
+-xcu OpenOffice.org Extension Control File	*
+-xex XBOX Executable	1
+-xlb OpenOffice Library	*
+-xlc2 OpenOffice Libraries	*
+-xrc wxWidgets wxPython Resource File	*
+-xul XML User Interface Language	*
+-z0 InstallShield	1
+-zxp Extension Manager Package	*
+*** Projects
+-acp ArCon project	3
+-adcp Adobe Device Central	3
+-adp Access project	3
+-aep After Effects Project	3
+-aepx After Effects Project	3
+-am7 AutoPlay Media Studio 7	3
+-artx Artisteer project	3
+-aup Audacity Project	2
+-avp Avid Project	3
+-bdsproj Borland Developer Studio	2
+-bpn ArchiCAD Project Backup	3
+-camproj Camtasia Studio Project	2
+-case EnCase case	4
+-cdl Feurio CD project	2
+-cl5 Easy CD Creator 5 Project	1
+-clg Collage Maker Project	2
+-cpr Cubase Project	2
+-csproj Visual Studio C# Project	1
+-cwp Cakewalk SONAR Project	2
+-dbd DemoShield Project	3
+-dmsd Roxio MyDVD Project	2
+-dmsm VideoWave Movie Project	2
+-dmss VideoWave SlideShow	3
+-dpr Delphi Project	1
+-dproj Delphi Project	1
+-dsp Visual Studio Project	1
+-fcp Final Cut Project	3
+-flp1 Flash Project	2
+-fmz Form*Z Project	2
+-frg Sound Forge Project	3
+-fxpl Adobe Flex Project	3
+-gm6 Game Maker 6 Project	2
+-gp5 Guitar Pro 5 Project	1
+-hcp HydroCAD Project	2
+-hdp MAGIX Hard Disk Project	2
+-imovieproj iMovie Project	2
+-ipj Inventor Project	2
+-jpx JBuilder XML Project	2
+-mcp CodeWarrior Project	2
+-mdr MagicDraw UML project	3
+-mpj MINITAB Project	1
+-mswmm Windows Movie Maker project	1
+-ncor Adobe Encore Project	3
+-npl Xilinx Project	3
+-nra Nero Audio-CD Compilation	3
+-nrd Nero DVD-Video compilation	3
+-nri Nero ISO CD Compilation	3
+-nrm Nero Mixed Mode Compilation	3
+-nru Nero UDF CD-ROM Compilation	3
+-nrv Nero Video-CD compilation	3
+-opj Origin Project	3
+-opj1 OrCAD Project	3
+-p2g Power2Go	2
+-pds PowerDirector Projekt	2
+-pln ArchiCAD Project	3
+-ppj Premiere 6 Project	3
+-prel Premiere Elements Project	2
+-pro5 ProPresenter 5	3
+-prproj Premiere Project	3
+-pzp MGI PhotoSuite II/III/4 Project	1
+-qxp QuarkXPress Project	3
+-rcl Easy CD Creator	2
+-rox Roxio Project	3
+-roxio Roxio Project	3
+-rvt Revit Project	3
+-sdp imDisc project	3
+-sdv Studio DV Proj	3
+-seq PowerTracks Pro Audio Project	2
+-ses Audition Session	2
+-sfvidcap Sonic Foundry Video Capture	4
+-sonic DigitalMedia Project	2
+-stu Pinnacle Studio Project	2
+-swi SWiSH Project	3
+-vbp Visual Basic project	3
+-vbproj Visual Basic Project	1
+-vcproj Visual C++ project	1
+-vcxproj Visual C++ project	1
+-vdproj Visual Studio Deployment	2
+-vep AVS Video Editor Project	3
+-vjsproj Visual J#	1
+-vsp Corel VideoStudio	2
+-wcp WinDVD Creator Project	2
+-wrk Cakewalk Music Project	2
+-xise Xilinx ISE Project	2
+-xmpses Premiere Elements	3
+*** Source Code
+-;makefile; Makefile	1
+-aps Visual C++ Resource	2
+-as3proj FlashDevelop ActionScript	2
+-asm Assembler	2
+-bas Basic	2
+-c C source	2
+-c#= C# source	2
+-cc ADS source	2
+-cob Cobol	3
+-cpp C++ source	2
+-cs C# Source	2
+-dcu Delphi Compiled Unit	*
+-dfm Delphi Form	*
+-dsw Visual Studio Workspace	1
+-enpack EnCase	3
+-f Fortran	2
+-f66 Fortran	2
+-f77 Fortran	2
+-f90 Fortran	2
+-fmb Oracle Binary Form	2
+-for Fortran	1
+-gbas GLBasic	2
+-h C/C++ Header	1
+-hpp C++ Header	1
+-hxx C++ Header	1
+-java Java source	2
+-jsa JRun	3
+-lua Lua Source	2
+-m MATLAB Source Code	2
+-m1 Objective C (Mac)	2
+-mak Makefile	1
+-mk Makefile	1
+-mm Objective C++ (Mac)	2
+-pas Pascal	2
+-pbxproj Apple Xcode	2
+-pch Precompiled headers	*
+-perl Perl module	2
+-pl Perl	2
+-qml QT Meta Language	2
+-r R Script	2
+-rb Ruby	2
+-rc Resource Script	1
+-rc2 Resource Script	1
+-sas Statistical Analysis Software	3
+-scc SourceSafe	3
+-scc1 Visual SourceSafe 6	1
+-settings Visual Studio	1
+-snippet IntelliSense Code	2
+-src C# Source	2
+-swift Swift Source Code	3
+-tem C++ template	1
+-template C++ template	1
+-texinfo application/x-texinfo	*
+-xba OpenOffice Script	2
+-xpb XPB! Basic	2
+-xq XQuery	3
+-yaml YAML Ain't Markup Language	2
+-~pas Pascal source backup	1
+*** Various Data
+-1pe TurboTax form	2
+-1ph TurboTax	2
+-3dr 3DMark Benchmark	1
+-a2w Alice	3
+-aawdef Ad-Aware Definitions	*
+-ab1 DNA Electropherogram	3
+-abc Micrografx Flowcharter	2
+-abm Photo Album	2
+-abr Photoshop Brush	1
+-acb Photoshop Color Book	1
+-acg Agent preview	*
+-acl AutoCorrect List	2
+-aco Photoshop Color Swatch	1
+-acs Agent	*
+-adg Ableton Device Group	1
+-ado Photoshop Duotone Options	1
+-adv Ableton Device Preset	2
+-af3 Micrografx ABC FlowCharter	3
+-allegro Allegro Packfile	2
+-amz Amazon	2
+-aom Adobe Download Manager	3
+-apl Monkey's Audio Track Information	3
+-apnx Amazon Page Number Index	3
+-apw Any Password data	3
+-arbfp1 Google Earth shader	*
+-arbvp1 Google Earth shader	*
+-ase Adobe Swatch Exchange	2
+-asl1 Photoshop syle	1
+-ast Corel WordPerfect Office template	1
+-asx ASF Redirector	2
+-atn Photoshop Action	2
+-attr iPhoto Attributes	2
+-attributes Dropbox	1
+-aum Adobe Update Manager	1
+-aux LaTeX Auxiliary	2
+-avb Avid Bin	2
+-avc Antviral DB	*
+-ave Avid User	3
+-avr AntiVir	*
+-avs1 AVS Preset	1
+-aw Answer Wizard	*
+-azz AZZ Cardfile	3
+-b64 Base64 encoded	3
+-bag AOL buddy list	4
+-bcm Brother printer	*
+-bdic Chrome dict	*
+-bdmv Blu-ray information	1
+-ben Bencoded	3
+-benc Bencoded	3
+-bfa Blowfish Encrypted	4
+-bhf pcAnywhere Host	3
+-big Electronic Arts	*
+-bki IBM Softcopy Reader index	1
+-blb Dreamworks Resource	*
+-blg1 BibTeX Log	2
+-blob Steam obj	3
+-bma GameCube 3D Model	*
+-bnk Spotify Playlist	2
+-bps Bulletproof FTP settings	4
+-bqy BrioQuery	2
+-bsc BinSCII encoded	3
+-btr FrontPage Binary-tree index	1
+-bvp VodaHost BlueVoda	2
+-cache1 MS SmallBusiness	3
+-cas EnCase case	3
+-cbf Calendar Builder	2
+-cblg Global Catalog	3
+-cca1 Multimedia Fusion	3
+-cct Director Protected Cast Resource	2
+-cdt CorelDraw Template	2
+-cdxa TMPGEnc	3
+-cee HP Active Support	3
+-cf1 Google Desktop	3
+-cfg generic config	2
+-cfs Index	2
+-cfx Battlefield 2	*
+-che Personal cache	3
+-chf pcAnywhere remote control	2
+-chi Help	*
+-chw Compiled Help Index	1
+-ci Windows Content Indexer Catalog	1
+-cil Clip Gallery Download Package	1
+-civ4save Civilization 4 Saved	1
+-civ5save Civilization 5 Saved	1
+-classname Object	1
+-clf ListPro data	2
+-clpi Blu-ray Clip Information	1
+-clr Flash Color Set	1
+-clx Proximity	*
+-clx1 Dictionary	3
+-cmd5 CrystalMaker Data format	2
+-cmdf CrystalMaker Data format	2
+-cmg Chessmaster	2
+-cml Chemical Markup Language	2
+-cmu Andrew Toolkit	2
+-cnf Frontpage VTI	2
+-cont Panasonic camcorder	2
+-cop CaptureOne Proxies	3
+-cos Capture One Settings	3
+-cos2 Pinnacle Studio Cache	2
+-cov Fax Cover Page	1
+-cpg Cool Page Project	3
+-cpi AVCHD Clip Information	2
+-crp T-Online Banking	4
+-crv Tone Curve	2
+-csf Adobe Color Settings	*
+-csn Adobe Code Snippet	2
+-cso Compiled Shader Object	1
+-ctb AutoCAD Color-Based Plot Style	1
+-ctc PC Installer Control	2
+-ctf WhereIsIt? catalog	3
+-ctg Canon Photo Info	3
+-ctm CrazyTalk Model	2
+-cva Compaq Diagnostics	2
+-cvp WinFax cover	1
+-cxt Director Protected Cast	1
+-d2s Diablo II Saved Game	2
+-dartclip Dartfish metadata	3
+-dat1 Image size cache	1
+-dbml Visual Studio OR Design	2
+-dbr DeepBurner	3
+-dcp Photoshop DNG profile	1
+-ddd Acrobat Destiller	2
+-dem Vista Digital Elevation Map	2
+-dinfo DivX Temporary Video Info	3
+-dls DownLoadable Sound bank	*
+-dmf Geosystem Map	1
+-dockzip dockzip format	3
+-dsn1 Database Source Name	4
+-dst Tajima Embroidery	1
+-dus Readiris font dictionary	1
+-dwp SharePoint Portal Server Dashboard	3
+-dws Dreamweaver Site Cache	3
+-dwt Autodesk Template	1
+-dxp CdBurner XP	3
+-e00 ArcInfo	3
+-ebm EXTRA! Basic Macro	3
+-ec3 EPSON Print CD	1
+-ec4 EPSON Print CD	1
+-edn EDIF Netlist	2
+-eio Evermore EIOffice	2
+-ejsf Flash CS4	3
+-ekm Keyboard macro	2
+-ela EasyLanguage Storage	2
+-els EasyLanguage Storage	2
+-enl EndNote library	2
+-enlx Archived EndNote Library	3
+-ens EndNote Style	1
+-enz EndNote connection	2
+-epf Entrust Entelligence profile	3
+-esm Elder Scrolls Master	1
+-esp Elder Scrolls Plugin	*
+-ess Elder Scrolls Saved Game	1
+-etf Finale Enigma Tansportable	3
+-ex4 MQL 4 compiled Expert Advisor	2
+-exd Control Information Cache	1
+-export FritzBox	3
+-exv Adobe Extension Script	1
+-eyb Microsoft Encarta Yearbook	1
+-far The Sims Archive	*
+-fca1 Proximity Technology	*
+-fd2 Epson Printer	*
+-fdf Acrobat Forms	2
+-fhf Free Hide Folder Backup	4
+-fil AVG Antivirus Vault	1
+-flo iGrafx FlowCharter	2
+-flp FruityLoops Track	1
+-form NetBeans Java GUI Designer Form	1
+-fpf IKEA Kitchen Planner	2
+-frm1 VB Text Form/Active Designer	2
+-frx VB Binary Form	1
+-ftk1 Access Data FTK	3
+-fxc FilePackager	*
+-fxo1 Shader	*
+-gam Cyberboard Game	2
+-gamestats GameExplorer	2
+-gbc Game Boy Color ROM	*
+-gbx Nadeo Game File	*
+-gcd1 General Content Descriptor	2
+-gg Google Desktop Gadget	1
+-ggr GIMP gradient	*
+-gir Gens Plus! movie capture	2
+-gmo GNU Machine Object	2
+-gms Corel Global Macro	2
+-gmv Cyberboard Move	2
+-gpl GIMP Palette	*
+-grb GRIB Meteorological	1
+-grd Photoshop gradient	*
+-grd1 Symantec Guard Header	2
+-gsp Geometer's Sketchpad	2
+-gta Microsoft Groove Tool Archive	3
+-gwi GroupWise Database Shortcut	2
+-hcc1 HydroCAD Prefab	1
+-hmt HighMAT	1
+-hog Descent Mission	*
+-hpg Plotter	3
+-hpgl Plotter	3
+-hps HP Digital Sender	3
+-hsp Linguistics Proximity	*
+-ht HyperTerminal	2
+-ht1 Google Desktop	1
+-hus Husqvarna Embroidery	2
+-ica Citrix architecture	3
+-icpr Art Icons Pro	1
+-ies Photometric data	1
+-ilk Linker Database	*
+-imr1 Information Magic data	2
+-inf1 Settings	2
+-iros Adobe Save For Web Settings	2
+-irs Photoshop	1
+-isn InstallShield	1
+-isp IIS Internet Service Provider	3
+-iss InstallShield Response	1
+-ist Adobe Image Styler	1
+-itb iTunes Library Extras	2
+-itc iTunes CoverFlow	2
+-iw2 Information Workshop 2000	2
+-ixl DB/TextWorks Database Indexed List	1
+-jmp SAS JMP discovery	3
+-joboptions PDF related	*
+-jrs ESE Reserve Transaction Log	*
+-jsm JAWS script message	2
+-jtp1 Tabet PC Journal	3
+-kdc1 Kaspersky	1
+-kdf Kinkos Photo	3
+-key1 Kaspersky	1
+-kfl Outlook RSS feed list	2
+-kli Kaspersky	*
+-l2r Lineage II Replay	2
+-l33t MS Games	*
+-lab WordPerfect Label	3
+-layout Layout	1
+-lbs Omnis Library	*
+-lgb QuickBooks little green box	2
+-lgo Modern ListGeo Output	2
+-lgp Final Fantasy Game Archive	*
+-livereg Symantec user	2
+-lng OCR language	*
+-lpd Lecturnity Player	2
+-lsd ABBYY Lingvo dictionary	*
+-lsd1 RPG Maker Game Save	1
+-lst Kaspersky black list	1
+-lst2 Adobe Color Cache	1
+-ltf Frogans Short-cut	2
+-luac Lua Player for PSP	2
+-lva Logitech Avatar	3
+-lvf Logitech Video Effects	2
+-lvm LabVIEW Measurement	1
+-lwl DYMO Label	2
+-lxa SpeechEngine Lexicon	*
+-m64 mupen64 movie capture	2
+-mbb KODAK EASYSHARE	2
+-mcdb Premiere Pro media cache	2
+-mcl Windows Media Center link	2
+-md2 Quake 2 model	1
+-md3 Quake III model	1
+-mfl1 Mozilla	2
+-mli AutoCAD Material-Library	1
+-mmp Mindmaper MindManager	3
+-moff Sony AVCHD index	1
+-moi Camcorder Time-Stamp File	3
+-mpq Blizzard Entertainment	*
+-mpz Moove Resource Description	3
+-mql MetaTrader indicator	2
+-ms8 Multisim 8 Circuit	2
+-mscz MuseScore	1
+-msdvd Windows DVD Maker	3
+-mta Samsung AllShare	3
+-mwp STEP7-Micro WIN	2
+-mxi Adobe Extension Information	1
+-mxp Adobe Extension Package	1
+-n Neko bytecode	2
+-nal Novell ZENworks network delivered shortcut	3
+-nbk NovaBACKUP Job	3
+-nc1 NetCDF	3
+-nct NERO CoverDesigner	*
+-ndf ESET Quarantine	2
+-nds Nintendo DS Game	*
+-nes Nintendo ROM	*
+-nfg Gambit Normal Form	2
+-njb Nikon Photo Index	3
+-nji Nero BackItUp job	3
+-nqf ESET Quarantine	2
+-ns1 NetStumbler NS1 log	3
+-ntf Lotus Notes template	2
+-nup Eset	*
+-nvi NVIDIA settings	1
+-nvram VMware VM BIOS state	3
+-nwm NetMeeting	3
+-ny Audacity Plug-In	*
+-obi Outlook RSS Subscription	2
+-ole2 OLE2 compound	2
+-olk14folder Outlook 2011 for Mac	1
+-omx Ots Media Library	2
+-onetoc OneNote	2
+-onetoc2 OneNote	2
+-oo OpenOffice	3
+-ops Office Profile Settings	2
+-opt Options	1
+-os2 OS2	1
+-otg OpenDocument Graphics-template	1
+-otm Outlook Macro	3
+-out Lua Bytecode	2
+-ova Open Virtualization Format Archive, TAR-Format	3
+-ovl Rollercoaster Tycoon 3	*
+-pak1 Chrome pack	*
+-pal Picasa album	2
+-pal1 Palette	*
+-paq1 HP System Restore	*
+-par2 Parity Archive Volume Set	1
+-pat2 GIMP Pattern	1
+-pc3 AutoCAD Plotter Configuration	1
+-pcf Cisco VPN	4
+-pcs Pfaff Embroidery	2
+-pdx Acrobat Index	1
+-phl Kindle Popular Highlights	3
+-plt HPGL Plot	3
+-pml Process Monitor Log	3
+-po Portable object	2
+-poc Office14 PUBWIZ	*
+-pot MS PowerPoint Template	*
+-potx MS PowerPoint 2007 Template	*
+-pp2 PingPlotter	3
+-ppa MS PowerPoint Add-in	*
+-ppam MS PowerPoint Add-in	*
+-profile1 Silverlight	2
+-psa Photoshop Album	3
+-psafe3 Password Safe database	3
+-pset Firefox	2
+-psp2 Adobe Prefs	2
+-pspscript Corel Paint Shop Pro script	1
+-pvm Photo Video Manifest	3
+-pvr Sega Dreamcast VR texture	1
+-pvs Parallels Desktop Configuration	3
+-pwt AutoCAD Publish-to-Web Template	2
+-qrc Qt Resource Collection	2
+-qtch QuickTime Cache	1
+-qtp QuickTime Preferences	1
+-qua AntiVir Quarantine	2
+-ram RealMedia Meta	2
+-rat Rating System	1
+-rbxm ROBLOX Model	1
+-rcc Google Earth	2
+-rcf SonicWALL VPN	4
+-rdata R Workspace	3
+-rdb2 LibreOffice registry	2
+-rdl Report Definition Language	2
+-rdlc Client Report Definition	2
+-rep1 GTA Replay	1
+-resx NET XML Resource template	1
+-rfb RoboForm Bookmark	2
+-rfo RoboForm Option	*
+-rfp RoboForm Passcard	1
+-rgmh Saved game	2
+-rnx Real Player	1
+-rpd1 Realplayer devices	2
+-rte Navigation Route	4
+-rtl HP Raster Transfer Language	2
+-rtp RTPatch	1
+-s2cs Blizzard Entertainment	*
+-s2sa Blizzard Entertainment	*
+-s2save Blizzard Entertainment	1
+-sas7bcat SAS catalog	3
+-sas7bdat SAS dataset	3
+-sas7bndx SAS index	2
+-sbi Sound Blaster Instrument	*
+-sbv YouTube Captions	2
+-sc2replay StarCraft2 Replay	2
+-sc2save StarCraft2 Saved	2
+-sc4 game related	*
+-sca Norton AntiVirus Scan	1
+-scn Scenario File	2
+-scz SmartDraw Collection	1
+-sdg OpenOffice Gallery	*
+-sdq Spyware Doctor quarantine	3
+-ser Java Serialized Object	2
+-sf2 SoundFont 2	*
+-sfv Simple file verification	2
+-shc Photoshop.ShapeCurves	1
+-sims2pack The Sims	*
+-sims3pack The Sims	*
+-ski Motorola Phone Skin	1
+-skm SketchUp Materials	1
+-skn StormFront skin	1
+-slf Symantec License	2
+-slk Symbolic Link	3
+-sln VisualStudio solution	1
+-smc Super Nintendo	*
+-smf1 SkinMagic Skin	*
+-snippets Evernote	3
+-soc OpenOffice	1
+-spr2 ID Software Sprite	1
+-srf2 Garmin vechicle images	1
+-srs Outlook Send/Receive Settings	3
+-ssui Apple Speech UI	*
+-stb AutoCAD Plot Style Table	1
+-ste Dreamweaver Site Settings	2
+-stp1 SharePoint Template	2
+-sty Microsoft DirectMusic Style	*
+-suo Visual Studio Solution	1
+-sv2i Symantec System Index	2
+-symc Symantec_Antivirus	1
+-tab MapInfo table	2
+-tdl ToDoList Tasklist	4
+-tld Tag Library Descriptor	2
+-tmx Translation Memory Exchange	1
+-trx Visual Studio Test Results	2
+-tvs TeamViewer Session	4
+-twl Naviguide binary route	4
+-undo Norton Disk Doctor	3
+-upp Unity Player Pref	2
+-userprofile Symantec user	3
+-usr COREL Photo Paint User Defined Filter	2
+-utx Unreal Texture	*
+-uue UU encoded	2T
+-uwl User Word List	3
+-uxdc Microsoft Office XML Data Source	2
+-vcb Microsoft C/C++ program database	1
+-vcpref Symantec user	3
+-vdf Valve Steam	3
+-vdf2 Avira AntiVir	*
+-vix Image catalog	2
+-vmcx Virtual Machine Shell Information	3
+-vmv VirtuaNES	2
+-vmxf VMware Team Member	3
+-vnc VNC Configuration	4
+-vnd Kaspersky	1
+-vpk Valve Package	1
+-vpx Avast! Virus Update	1
+-vs Vertex Shader	1
+-vsm VisSim Simulation Model	3
+-vssettings Visual Studio Settings	1
+-vstemplate Visual Studio project template	1
+-vsto VSTO Deployment Manifest	2
+-vtf Valve Texture	*
+-w Google	3
+-w3g Warcraft 3 Replay	1
+-w3m Warcraft 3 Map	*
+-w3z Warcraft 3 Saved Game	1
+-wad id Software's DOOM	*
+-wfa WinFax Pro archive	3
+-wiz MS Word Wizard	*
+-wlt eWallet	3
+-wmp Infinity Engine world map	2
+-wms Windows Media Player Skin	*
+-wpj MsWorks wizard	*
+-wpk WordPerfect Macro	2
+-wpm WordPerfect Macro	2
+-wsp SharePoint Solution	2
+-wwp MS Works Wizard	*
+-wws MS Works Wizard	1
+-xaml Windows Presentation Foundation	1
+-xbl Extensible Binding Language	1
+-xdl XML Schema File	*
+-xdp Acrobat XML Data Package	1
+-xdr BizTalk XML-Data Reduced Schema	1
+-xfd Extensible Forms	2
+-xfdf Acrobat Forms	1
+-xfdl XML Form in XFDL Format	2
+-xfo XSL-FO Formatted Form	1
+-xhp help document	*
+-xib Interface Builder	1
+-xlm Excel Macro	2
+-xmp Extensible Metadata Platform	3
+-xnb XNA Game Studio	*
+-xry Micro Systemation	2
+-xsd XML Schema Definition	*
+-xsl XML style sheet	*
+-xslt XML transform	*
+-xsn InfoPath Form Template	2
+-xtr Xml Transformation	*
+-ytr I.R.I.S. OCR data	2
+-zdct ZString Binary	2
+-zdct1 Adobe Language	1
+-zdx1 Avery Design	3
+-zi Java Zone Info	*
+-zpl Zune playlist	3
+-zstrings Adobe Language	*
+*** Video
+-3g2 Mobile phone video	4
+-3gp Mobile phone video	4
+-3gpp Mobile phone video	4
+-4x 4X movie	3
+-4xm 4XM video	3
+-60d CCTV Video	4
+-ajp CCTV Video	4
+-amv Anime Music Video	2
+-arf WebEx Advanced Recording	3
+-asf Active Streaming (Windows Media)	2
+-avd1 AVD Video	3T
+-avi Audio/Video Interleave	3
+-bik Bink Video	*
+-bnk1 BINK compressed video	2
+-bvr Blue Iris	4
+-camrec Camtasia Studio Screen Recording	3
+-csmil streamed video	2
+-cwm PixelMetrics	3
+-dash MPEG-DASH	2
+-dat7 videoplayback	2
+-dav DVR365 Video	4
+-dce DriveCam Video	3
+-dcr1 Liberty Video Recording	4
+-divx DivX media	3
+-dmb Digital multimedia broadcasting	2
+-dsm DirectShow Media	2
+-dv Digital Video	3
+-dv4 Bosch CCTV	4
+-dvr-ms Digital Video Recording	2
+-dxr Macromedia Director Protected Movie	1
+-eye Eyemail Video Recording	3
+-f4v Flash mp4	3
+-flc FLIC Animation	2
+-fli Autodesk Animator	2
+-flv Flash video	3
+-flv2 Flash video	3
+-gmv1 Gens movie capture	3
+-hgd IP camera video	4
+-img7 INTELLEX CCTV	4
+-irf CCTV DVR H.264	4
+-ismv IIS Smooth Streaming Video	3
+-ivf Indeo video	2
+-ivr RealPlayer video	3
+-m1v MPEG-1 video	3
+-m2t AVCHD Video	3
+-m2ts Sony high definition	3
+-m2v MPEG-2 video	3
+-m4v iTunes video	4
+-mj2 Motion JPEG 2000	3
+-mjpg SMJPEG Video	3
+-mkv Matroska	3
+-mov Apple Quicktime	3
+-mp2v Movie Clip	3
+-mp4 MPEG	4
+-mpe MPEG Movie Clip	3
+-mpeg MPEG	3
+-mpg MPEG	3
+-mpv MPEG-1	3
+-mqv Sony Movie Player	3
+-mts AVCHD	3
+-mtv MTV video	2
+-mvd Magix Movie Edit video	2
+-mvp MAGIX Video Project	2
+-mxf Media Exchange Format	2
+-mxv Magix	2
+-nsv NullSoft Video	2
+-nut Multimedia container	2
+-nuv NuppelVideo	3
+-oga Ogg Audio	2
+-ogm Ogg Video	3
+-ogv Ogg Video	3
+-ogx Ogg Vorbis Multiplexed	3
+-omf Open Media Format	2
+-otrkey OnlineTvRecorder	3
+-pmf1 PSP Movie	2
+-qt Apple Quicktime	3
+-r3d REDCODE Video	3
+-rm RealPlayer	2
+-rmvb RealPlayer	2
+-roq Game Video	*
+-rv RealVideo	2
+-rvx Real Video	2
+-scm ScreenCam Recording	3
+-smk Smacker Compressed Movie	*
+-tivo TiVo video	2
+-ts Video Transport Stream	3
+-ub1 X-driven, Hexaglot	2
+-vcr ATI Personal Video Recorder	2
+-vem Video E-Mail	4
+-vfo Video Format Object	2
+-vgz DigitalVDO Compressed Video	4
+-viv Vividas video	2
+-vob DVD video	2
+-voc voice recorder	4
+-vp6 True Motion video	3
+-vro DVD Video Recording	3
+-vse AVTECH CCTV	4
+-webm WebM Video	3
+-wmv Windows media	2
+-wp3 MS Photo Story	3
+-wtv Media Center	2
+-xesc Screen Capture	3
+-zmv ZSNES Movie	2
+*** [OS] Mac OS X/iOS System
+-;.applesetupdone; Original user information	3
+-;.ds_store; Desktop Services Store	3
+-;kcpassword; Autologin account password	3
+-;kernel.log; OS X kernel log	3
+-;secure.log; Security event log	3
+-;system.log; System event log	3
+-_ad AppleDouble	1
+-_as AppleSingle encoded	2
+-adea com.apple.quarantine	1
+-alias Finder alias	2
+-alias1 alias	2
+-as Action Script	1
+-asl Apple system log	3
+-bom Bill of Materials	3
+-bplist Binary Property List	4
+-cidb iTunes CD information	1
+-command Terminal Command	2
+-crash Crash report	3
+-csstore Launch Service	2
+-dist Mac OS X Distribution Script	2
+-ds_store Desktop Services Store	2
+-dyndict dynamic-text.dat	3
+-flnk Finder bookmark	3
+-fsevent File system event	3
+-keychain OS X keychain	4
+-macapp Macintosh Application	2
+-mapping QuickTime	*
+-mbdb iPhone Backup	4
+-mbdx iPhone Backup Index	2
+-mcx Mastercam	3
+-mcx-6 Mastercam	3
+-osx Mac OS X	2
+-pdb1 iOS PRC	2
+-pkg Mac OS X Installer Package	1
+-plist Property List	4
+-resources Apple Resources	2
+-retrospect	apple Retrospect	2
+-rsrc Resource	1
+-scpt AppleScript	1
+-vise Mac OS X Installer	2
+-waf Apple download cache	3
+*** [OS] Unix/Linux System
+-;.journal; File system journal	4
+-;acct; Process accounting	3
+-;cpuinfo; Process	3
+-;fstab; Volume mounting config	3
+-;hosts.allow; Server config	3
+-;hosts.deny; Server config	3
+-;hosts.equiv; Server config	3
+-;inetd.conf; Server demon config	3
+-;inittab; Configuration	2
+-;kdecache; KDE Cache	3
+-;konq_history; konquerer browser cache	3
+-;ksyms; Process	2
+-;lastlog; Last log-ins	3
+-;localmessages; Log file	3
+-;master.passwd; Configuration	3
+-;meminfo; Process	2
+-;messages; System errors/warnings	3
+-;modules; Process	2
+-;mtab; Volume mounting config	3
+-;pacct; Process accounting	3
+-;passwd; Existing users	4
+-;profile; User profile settings	3
+-;rc.sysinit; Startup script	3
+-;shadow; Password file	3
+-;sshd_config; SSH config	3
+-;ssl-access_log; SSL log	3
+-;ssl_engine_log; SSL log	3
+-;ssl_request_log; SSL log	3
+-;suexec.log; Apache log	3
+-;utmp; Current users log	4
+-;utmpx; Current users log	4
+-;wtmp; Log-in/log-out log	4
+-;wtmpx; Log-in/log-out log	4
+-;xinetd.conf; Configuration	3
+-;y2log-1; Log file	3
+-bdev UNIX block device	1
+-cdev UNIX character device	1
+-desktop KDE	3
+-directory KDE	3
+-glade Glade User Interface Design	2
+-javazi zone info	*
+-kcfg KDE Configuration	2
+-kdecache cached file	3
+-kdelnk KDE Desktop	3
+-mo Messages object	2
+-pipe Named pipe/FIFO	1
+-socket Socket	1
+-swp Vi Swap File	3
+-symlink Symbolic link	2
+-tdb1 Samba Trivial DB	3
+-trashinfo deleted file info	3
+-wtmp Log-in/log-out	4
+-xcur X cursor	1
+-zoneinfo zone info	*
+*** [OS] Windows Internals
+-;$logfile; NTFS journal	4
+-;drivetable.txt; System Restore	3
+-;index.btr; MS Office index	*
+-;info2; Recycle bin	5
+-;rasphone.pbk; Phonebook	3
+-;recentfilecache.bcf; 4	*
+-;rp.log; Restore point	4
+-;setupinfo; 2	*
+-;tracking.log; Distributed Link Tracking	3
+-;win386.swp; Swap file	2
+-;wpa.dbl; Windows Product Activation	1
+-$logfile NTFS journal	4
+-adm Administrative Template	1
+-adml language dependent policy settings	1
+-admx Registry-based policy settings	1
+-amx manifest store	*
+-appref-ms Application Reference	2
+-appx Windows 8 App	1
+-automaticdestinations-ms jump list	4
+-ax DirectShow filter	1
+-bfc Briefcase	4
+-blf CLFS Base Log	2
+-cab1 Windows Installer	1
+-cdf-ms MS Channel Definition Format	1
+-cdmp WCS Device Profile	1
+-cdxml PowerShell	1
+-clb1 COM+ Catalog	1
+-clog Change log	3
+-clp Clipboard	3
+-cmmm Thumbscache fragment	3
+-cnt Help CNT	*
+-crmlog compensating resource manager	1
+-customdestinations-ms jump list	4
+-cvr Microsoft Crash Report	2
+-dbg Debug	*
+-devicemetadata-ms device metadata	1
+-diagcab Diagnostic.Cabinet	2
+-diagpkg Diagnostic package	2
+-dl_ Compressed DLL	*
+-down_meta Windows Store	3
+-dpb Win8	*
+-dt2 Windows Live Messenger	2
+-dun Dialup network	3
+-dxp1 OECustomProperty	3
+-ecf Exchange Extended Configuration	3
+-edb Extensible Storage Engine	3
+-edblog ESE log	4
+-eftx Office 2007 Theme Effect	*
+-etl Event trace log	2
+-evt Event log	4
+-evtx Vista event log	4
+-ex_ Compressed EXE	*
+-feed-ms Microsoft rss feeds store	1
+-feedsdb-ms Microsoft rss feeds store	1
+-fnd Windows Explorer saved search	3
+-fsd OfficeFileCache	3
+-fsf MS Office cache	2
+-ftl Net logon	3
+-fx Ready Boot	1
+-gadget desktop mini app	1
+-gdl Driver description	*
+-gpd Generic Printer Description	*
+-grl Windows Update Status	1
+-grp1 Windows Program Manager Group	3
+-gthr Search Gatherer	2
+-gthr2 Gatherer fragment	3
+-h1c Windows Help	*
+-h1k Keyword index	*
+-h1s HelpPane	1
+-h1t Help related	*
+-hdmp Heap dump file	3
+-hds1 DRM store	2
+-hxi MS Help 2.0	*
+-icc ICC Profile	1
+-icm color matching profile	1
+-inf_loc keyboard inf resource	*
+-ini1 Desktop.ini	1
+-itemdata-ms itemdata-ms	3
+-job Task Scheduler 1	4
+-jtp JetForm File	3
+-kwaj MS KWAJ (decompress with expand.exe)	1
+-library-ms library	2
+-lnk Shortcut	4
+-lsx Streaming Media Shortcut	3
+-manifest1 WinSxS	1
+-mdmp Windows Minidump	3
+-metadata OE properties	4
+-mfl WMI	1
+-mig Windows Migration Backup	4T
+-mof Managed Object Format	1
+-msc Microsoft Console	2
+-msm Windows Installer Merge Module	1
+-mst Windows SDK Setup Transform Script	1
+-mui Multilingual	*
+-mum assembly	*
+-mzz .NET Framework	*
+-nfo MSInfo Document	1
+-nls Code Page National Language Support	*
+-nlt Transliteration	1
+-onecache OneNote cache	3
+-onepkg Ms OneNote package	3
+-opal Microsoft Office User Settings	1
+-opax Microsoft Office User Settings	1
+-pckgdep Package deployment	2
+-pf Prefetch	4
+-pip Microsoft Office Settings	1
+-pnf Precompiled setup information	1
+-pol Policy	2
+-policy WinSxS	*
+-ppd PostScript Printer Description	*
+-pri Windows Compiled Resources	2
+-psd1 PowerShell Data	2
+-psm1 PowerShell Script Module	2
+-psw1 XP Backup Password	3
+-ptxml Update	1
+-pwl Windows Password File	3
+-qic Windows Backup Set	3
+-query Query	1
+-rbf Windows Installer Rollback	1
+-rdg RDCman Config	4
+-rdp Remote Desktop Connection	3
+-recycler $I Windows recycle bin metadata	4
+-res Windows compiled resource	1
+-sct Windows Script Component	2
+-sdb security db	1
+-sdb1 WinSxS	1
+-sdi Windows System Deployment Image	*
+-search persisted Query	2
+-search-ms persisted Query	2
+-searchconnector-ms Search Connector	1
+-settingcontent-ms Settings	*
+-setupinfo setup info	2
+-sfcache Superfetch Cache	2
+-shb Shortcut into a document	3
+-shd Spooler	4
+-shs Shell Scrap Object	2
+-sklm SKLM Resource	*
+-snapprop Snapshot properties	4
+-snt Sticky note	4T
+-spl Spooler	4
+-sppmeta SPPMetadataCache	2
+-sqm Software Quality Metrics	1
+-summary Summary information	3
+-swm Windows Imaging	2
+-sy_ Compressed sys	*
+-szdd MS SZDD (decompress with expand.exe)	1
+-target target	2
+-targets target	2
+-task Task Scheduler 2	4
+-tasks task	3
+-theme Windows Theme File	*
+-themepack Windows 7 theme	1
+-thmx Microsoft Office Theme	*
+-trc1 SQL Server Trace	4
+-uce UniCode Extensions	*
+-udl Microsoft Data Link	2
+-urlcache Cryptnet	2
+-usnjrnl Carved $UsnJrnl:$J records	4
+-vmx VMware configuration	3
+-vpol Windows Credential Manager policy	2
+-vsc Volume Shadow Copy host file	3
+-wax Windows Media Audio shortcut	2
+-website Pinned Site Shortcut	3
+-wer AppCrash	3
+-wevt Event template	1
+-wfc Wireless Settings	3
+-wht NetMeeting Old Whiteboard	3
+-wim Windows Image	2
+-winmd Windows Metadata	1
+-winsxs WinSxS backup	1
+-wmd Windows Media Player Download Package	*
+-wmx Windows Media playlist	3
+-wpl Playlist	3
+-wsf Windows Script File	3
+-wsh Windows Script Host Settings	2
+-wvx Windows Media video playlist	3
+-xbf XAML Binary	1
+-xmd BitDefender plug-in	1
+-xrm-ms activation certificate	2
+-xss SharePoint Groove	3
+-xsslog SharePoint Groove log	3
+-xssr SharePoint Groove	3
+*** [OS] Windows Registry
+-;amcache.hve; Recent file cache	5
+-;bcd; Boot Configuration Database	3
+-;components; Registry hive	2
+-;default; Registry hive	2
+-;ntds.dit; Active directory	4
+-;ntuser.dat; Registry hive	5
+-;reg.dat; Win3.1 registry	4
+-;sam; Registry hive	5
+-;security; Registry hive	4
+-;software; Registry hive	4
+-;system; Registry hive	5
+-;system.dat; Win9x registry	4
+-;user.dat; Win9x registry	4
+-;userdiff; Registry hive	3
+-;usrclass.dat; Registry hive	4
+-hbin Hive fragment	3
+-reg Registry dump	2
+-registry Registry hive	4
+-regtrans-ms Transaction	1
+-rgs Registry Script	2
+-vrg Visual Studio Registry	3
+=T=Certain potentially relevant types
