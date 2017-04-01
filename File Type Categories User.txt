@@ -23,6 +23,7 @@
 *** Internet, Mozilla/Firefox
 *** Internet, Safari
 *** Internet, Misc Files
+*** Malware, Ransomware
 *** Memory
 *** Mobile Phones
 *** Network/Packets
