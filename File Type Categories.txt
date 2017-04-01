@@ -406,7 +406,6 @@
 -keyring Gnome keyring	4
 -keystore Java KeyStore	3
 -kyr Lotus Domino Key Ring	4
--locky Ransomware	3
 -ole2enc OLE2 encrypted	2
 -openssl OpenSSL salted	3
 -p10 Certificate Request	3
