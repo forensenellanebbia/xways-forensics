@@ -3526,13 +3526,11 @@
 -;index.btr; MS Office index	*
 -;info2; Recycle bin	5
 -;rasphone.pbk; Phonebook	3
--;recentfilecache.bcf; 4	*
+-;recentfilecache.bcf; RecentFileCache	*
 -;rp.log; Restore point	4
--;setupinfo; 2	*
 -;tracking.log; Distributed Link Tracking	3
 -;win386.swp; Swap file	2
 -;wpa.dbl; Windows Product Activation	1
--$logfile NTFS journal	4
 -adm Administrative Template	1
 -adml language dependent policy settings	1
 -admx Registry-based policy settings	1
