@@ -403,6 +403,7 @@
 -jbc BestCrypt crypto container	3
 -kdb Keypass Database	1
 -kdbx KeePass password db	2
+-keychain OS X keychain	4
 -keyring Gnome keyring	4
 -keystore Java KeyStore	3
 -kyr Lotus Domino Key Ring	4
@@ -667,6 +668,7 @@
 -nco Nero BackItUp	3
 -nda Nero BackItUp	3
 -omg O&O DiskImage	3
+-ova Open Virtualization Format Archive, TAR-Format	3
 -ovf Open Virtual Format	3
 -par Drive Star	3
 -pbf1 Paragon Exact Image/Drive Backup	3
@@ -737,6 +739,7 @@
 -odg OpenOffice Draw	3
 -ods OpenOffice Calc	3
 -odt OpenOffice Writer	4
+-pages Apple iWork Pages	3
 -pdf Adobe Acrobat	3
 -pps MS PowerPoint	3
 -ppsm PowerPoint Open XML Macro-Enabled Slide Show	3
@@ -1203,6 +1206,7 @@
 -xlc Excel Chart	3
 -xlk MS Excel backup	2
 -xll Excel XLL Add-In	1
+-xlm Excel Macro	2
 -xlr MS Works spreadsheet	3
 -xls MS Excel	4
 -xls1 XML Workbook	3
@@ -1684,6 +1688,7 @@
 -;How Decrypt Files.txt; KawaiiLocker	3
 -;HOW TO DECODE FILES!!!.txt; DoNotChange	3
 -;HOW TO DECRYPT FILES.txt; CryptoWall 1/Xorist	3
+-;HOW TO DECRYPT FILES.html; CryptON	3
 -;HOW TO DECRYPT YOU FILES.txt; OzozaLocker	3
 -;How to decrypt your data.txt; Virus-Encoder	3
 -;How to decrypt your files.txt; AiraCrop	3
@@ -2029,6 +2034,7 @@
 -no_more_ransom Troldesh	3
 -no_more_ransom!  Shade Ransomware	3
 -nuclear55 Nuke	3
+-numberdot AngryKite	3
 -odcodc ODCODC	3
 -odin Locky	3
 -OMG! OMG! Ransomware	3
@@ -2149,6 +2155,7 @@
 -;hiberfil.sys; Hibernation	5
 -;pagefile.sys; Swap file	3
 -;sleepimage; OSX Sleep/Hibernate Image File	3
+-;win386.swp; Swap file	2
 -dmp Memory dump	3
 -sav Virtualbox Snapshot	3
 -vmem VMware main memory	4
@@ -2159,9 +2166,7 @@
 -;build.prop; Android configuration	4
 -ab Android Backup	4
 -alx BlackBerry Loader	3
--app1 Symbian OS	2
 -arsc Dalvik Virtual Machine resource pack	2
--asec Android Secure Application	2
 -bbb BlackBerry Backup	5
 -cah Sony Ericsson PC Suite	4
 -dbk Sony Ericsson Backup	4
@@ -2171,7 +2176,6 @@
 -ifaith iFaith SHSH File	3
 -img3 iOS encrypted/signed container	2
 -img4 Android image	4
--ipa iPhone/iPad app	1
 -ipd BlackBerry Backup	4
 -ips Apple Crash	4
 -ipsw iPhone software backup	3
@@ -2180,6 +2184,8 @@
 -lbk iOS words	3
 -lml PcSync2.SML	3
 -lmx Nokia landmark	3
+-mbdb iPhone Backup	4
+-mbdx iPhone Backup Index	2
 -mdbackup iPhone	3
 -mddata iPhone Backup	4
 -mdinfo iPhone Backup	4
@@ -2194,7 +2200,6 @@
 -nlm1 Nokia Logo Manager bitmap	2
 -nth Nokia theme	1
 -obb Android Opaque Binary Blob	2
--odex  Android optimized executalbe	2
 -properties Titanium Backup	3
 -qip QIP Infium account	4
 -rem BlackBerry encrypted	3
@@ -2202,8 +2207,6 @@
 -sbf1 Android Backup	3
 -sbu Samsung Backup	4
 -seft Samsung JPEG trailer	3
--sis Symbian	2
--sisx Symbian OS program	2
 -sml Nokia PcSync	4
 -smm Samsung Memo	3T
 -sn3 Samsung Kies backup	3T
@@ -2222,6 +2225,7 @@
 -vmg SMS	4
 -vnt Mobile Phone vNote	4T
 -wup WhatsUp Gold network map	4
+-xry Micro Systemation	2
 *** Network/Packets
 -cap2 Network capture	3
 -cap3 NetMon traffic capture	3
@@ -2324,8 +2328,6 @@
 -cpc CPC Compressed Image	3T
 -cpr1 Fotobuch	3
 -cpt Corel Photo-Paint	3T
--cr2 Canon EOS	3T
--crw Canon Powershot	3T
 -csh2 Photoshop custom shape	*
 -cur Windows cursor	*
 -cut Dr. Halo, BPM Studio cue points	2
@@ -2334,7 +2336,6 @@
 -dcx Zsoft Multipage	4
 -dib Windows device-indep. bitmap	2
 -dicomdir DICOM	3
--dng digital negative	4
 -dpp Serif DrawPlus	3T
 -dpx Digital Picture Exchange	3T
 -drw1 Micrographix	3
@@ -2347,7 +2348,7 @@
 -exr OpenEXR Image	3T
 -fbm Fuzzy Bitmap	3
 -fif Fractal Image Format	3
--fig Vector drwaing	2T
+-fig Vector drawing	2T
 -fits Flexible Image Transport System	2T
 -flc Autodesk Animator	2
 -fpx FlashPix Bitmap	3T
@@ -2425,7 +2426,6 @@
 -ras Sun raster	2
 -rgb Silicon Graphics	2T
 -rot Homeworld 2	*
--rw2 Panasonic Lumix	3T
 -rwz1 Rawzor Compressed	3T
 -sda StarOffice Drawing	3T
 -sdr SmartDraw	3T
@@ -2475,7 +2475,10 @@
 *** Pictures, RAW Pictures
 -3fr Hasselblad RAW	3
 -arw Sony RAW	3
+-cr2 Canon EOS	3T
+-crw Canon Powershot	3T
 -dc2 Kodak RAW	3
+-dng digital negative	4
 -mos Nikon raw	3
 -mrw Minolta DiMAGA raw	3T
 -nef Nikon raw	3
@@ -2483,6 +2486,7 @@
 -orf Olympus raw	3T
 -raf Fuji raw	3T
 -raw LEICA RAW	2T
+-rw2 Panasonic Lumix	3T
 -rwl Leica Raw	3T
 -x3f Sigma RAW	3
 *** Pictures, Thumbnails/Icons
@@ -2491,6 +2495,9 @@
 -;ehthumbs_vista.db; MediaCenter	4
 -;frameiconcache.dat; MSIE	2
 -;iconcache.db; Icon cache	4
+-;imgcache.0; gallery3d cache	4
+-;imgcacheMicro.0; gallery3d cache	4
+-;imgcacheMini.0; gallery3d cache	4
 -;ipsthumb.db; Nikon	4
 -;largeiconcache.dat; MSIE	3
 -;thumbcache_1024.db; Vista thumbnails	4
@@ -2519,7 +2526,6 @@
 -icns Mac icon	1
 -ico Icon	1
 -icon Sun icon	1
--imgcache gallery3d cache	4
 -info Canon ZoomBrowser thumbnails	3
 -ithmb iPod Photo Thumbnails	3
 -itl1 iPod Photo Cache	3
@@ -2571,16 +2577,14 @@
 -air Adobe Integrated Runtime	*
 -apk Android Package	1
 -app Mac OS X Application	1
+-app1 Symbian OS	2
 -appleexe Apple executable	*
 -application Application manifest	*
--awk AWK Script	1
--bat CPM/DOS/Windows script	1
--bsh Linux/Unix Shell script	1
+-asec Android Secure Application	2
 -btapp uTorrent App	2
 -cab2 Install Shield	*
 -chm Compiled HTML	1
 -class Java, compiled	*
--cmd script	1
 -cod Compiled Java	*
 -coff COFF	*
 -com DOS executable	*
@@ -2613,6 +2617,7 @@
 -ini Initialization	*
 -ins InstallShield (Script)	2
 -inx InstallShield	*
+-ipa iPhone/iPad app	1
 -ipcc iPhone Carrier Bundle	1
 -ipg iPod game	1
 -isu InstallShield	*
@@ -2645,15 +2650,13 @@
 -o Linker object	*
 -obj Object code	*
 -ocx OLE	2
+-odex  Android optimized executable	2
 -osd Open Software Description	*
 -pac Proxy Auto-Config	4
 -peff PEF Executable	*
 -pif Windows Program Information File	1
 -prc2 Palm Pilot executable	2
 -prg C-64/C-128 program	1
--ps1 Windows PowerShell	2
--ps1xml MS PowerShell	2
--py Python script	1
 -pyc Compiled Python script	*
 -pyd Python Dynamic Module	2
 -pyo Compiled Python script	*
@@ -2666,6 +2669,8 @@
 -sd2 Sound Designer 2	*
 -setup Installation program	2T
 -sh Linux/Unix Shell script	2
+-sis Symbian	2
+-sisx Symbian OS program	2
 -so Unix Shared Object library	*
 -sys System driver	1
 -tcl TCL script	1
@@ -2674,7 +2679,6 @@
 -user Visual Studio Project User Options	1
 -vb Visual Basic	1
 -vbd ActiveX, Visual Basic 5 Active Document	1
--vbs Visual Basic script	1
 -vbx Visual Basic Extension	*
 -vlx Compiled AutoLISP	2
 -vmlinuz Linux kernel	*
@@ -2785,10 +2789,14 @@
 -aps Visual C++ Resource	2
 -as3proj FlashDevelop ActionScript	2
 -asm Assembler	2
+-awk AWK Script	1
 -bas Basic	2
+-bat CPM/DOS/Windows script	1
+-bsh Linux/Unix Shell script	1
 -c C source	2
 -c#= C# source	2
 -cc ADS source	2
+-cmd script	1
 -cob Cobol	3
 -cpp C++ source	2
 -cs C# Source	2
@@ -2819,6 +2827,11 @@
 -pch Precompiled headers	*
 -perl Perl module	2
 -pl Perl	2
+-ps1 Windows PowerShell	2
+-ps1xml MS PowerShell	2
+-psd1 PowerShell Data	2
+-psm1 PowerShell Script Module	2
+-py Python script	1
 -qml QT Meta Language	2
 -r R Script	2
 -rb Ruby	2
@@ -2834,6 +2847,7 @@
 -tem C++ template	1
 -template C++ template	1
 -texinfo application/x-texinfo	*
+-vbs Visual Basic script	1
 -xba OpenOffice Script	2
 -xpb XPB! Basic	2
 -xq XQuery	3
@@ -3143,7 +3157,6 @@
 -otg OpenDocument Graphics-template	1
 -otm Outlook Macro	3
 -out Lua Bytecode	2
--ova Open Virtualization Format Archive, TAR-Format	3
 -ovl Rollercoaster Tycoon 3	*
 -pak1 Chrome pack	*
 -pal Picasa album	2
@@ -3303,10 +3316,8 @@
 -xfo XSL-FO Formatted Form	1
 -xhp help document	*
 -xib Interface Builder	1
--xlm Excel Macro	2
 -xmp Extensible Metadata Platform	3
 -xnb XNA Game Studio	*
--xry Micro Systemation	2
 -xsd XML Schema Definition	*
 -xsl XML style sheet	*
 -xslt XML transform	*
@@ -3426,6 +3437,7 @@
 *** [OS] Mac OS X/iOS System
 -;.applesetupdone; Original user information	3
 -;.ds_store; Desktop Services Store	3
+-;dynamic-text.dat; dyndict	3
 -;kcpassword; Autologin account password	3
 -;kernel.log; OS X kernel log	3
 -;secure.log; Security event log	3
@@ -3445,14 +3457,10 @@
 -csstore Launch Service	2
 -dist Mac OS X Distribution Script	2
 -ds_store Desktop Services Store	2
--dyndict dynamic-text.dat	3
 -flnk Finder bookmark	3
 -fsevent File system event	3
--keychain OS X keychain	4
 -macapp	Macintosh Application	2
 -mapping QuickTime	*
--mbdb iPhone Backup	4
--mbdx iPhone Backup Index	2
 -mcx Mastercam	3
 -mcx-6 Mastercam	3
 -osx Mac OS X	2
@@ -3528,8 +3536,11 @@
 -;rasphone.pbk; Phonebook	3
 -;recentfilecache.bcf; RecentFileCache	*
 -;rp.log; Restore point	4
+-;setupapi.app.log; Application installations (Vista+)	3
+-;setupapi.dev.log; Device and driver installations (Vista+)	3
+-;setupapi.log; Device and driver installations (XP/2K/2003)	3
+-;srudb.dat; System Resource Usage Monitor DB	3
 -;tracking.log; Distributed Link Tracking	3
--;win386.swp; Swap file	2
 -;wpa.dbl; Windows Product Activation	1
 -adm Administrative Template	1
 -adml language dependent policy settings	1
@@ -3629,8 +3640,6 @@
 -policy WinSxS	*
 -ppd PostScript Printer Description	*
 -pri Windows Compiled Resources	2
--psd1 PowerShell Data	2
--psm1 PowerShell Script Module	2
 -psw1 XP Backup Password	3
 -ptxml Update	1
 -pwl Windows Password File	3
