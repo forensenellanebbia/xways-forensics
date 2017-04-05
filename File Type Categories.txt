@@ -2226,14 +2226,27 @@
 -wup WhatsUp Gold network map	4
 -xry Micro Systemation	2
 *** Network/Packets
+-5vw InfoVista 5View	3
+-bfr Network Instruments Observer	3
 -cap2 Network capture	3
 -cap3 NetMon traffic capture	3
 -cap4 Snoop capture	3
+-cscpkt Colasoft Capsa	3
+-dcf Daintree SNA	3
+-erf Endace capture	3
+-fdc Sniffer capture	3
+-ipfix IPFIX	3
+-ncf TamoSoft CommView	3
 -pcap TCPDUMP	5
 -pcapng Pcap-NG Packet Capture	4
+-pklg OS X PacketLogger	3
+-rf5 Tektronix	3
 -tcp TCP packet	5
+-tr1 Novell LANalyzer	3
 -trc Sniffer capture	4
+-trc0 HP-UX nettl trace	3
 -udp User datagram	5
+-vwr Ixia VeriWave	3
 *** P2P
 -;data1024.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
 -;data2048.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
