@@ -470,9 +470,6 @@
 -cat1 Cognos Impromptu DB Report	3
 -cdb Pocket Access DB	3
 -cnv DB2 conversion file	3
--db-journal Skype	3
--db-shm SQLite shared memory	3
--db-wal SQLite database journal	3
 -dbf dBase III	2
 -dbf0 Oracle 9i	4T
 -dbf1 Oracle 10g	4T
@@ -608,14 +605,14 @@
 *** Database, SQLite
 -;cache.db; Safari cache	4
 -;cert8.db; Mozilla certificates	1
--;cookies; Google Chrome cookies	4
 -;cookies.sqlite; Mozilla/Firefox cookies	4
+-;cookies; Google Chrome cookies	4
 -;downloads.sqlite; Firefox downloads	4
 -;formhistory.sqlite; Mozilla/Firefox form history	4
 -;friends.db; iPhone Facebook chat buddy list	3
 -;healthreport.sqlite; Mozilla/Firefox health report	4
--;history; Google Chrome	4
 -;history.dat; Mozilla/Firefox browser history	4
+-;history; Google Chrome	4
 -;login data; Google Chrome login data	4
 -;main.db; Skype database	5
 -;msgstore.db; WhatsApp	5
@@ -624,6 +621,8 @@
 -;wa.db; WhatsApp	5
 -;webappsstore.sqlite; Mozilla/Firefox web app store	4
 -consolidated.db; iPhone	5
+-db SQLite database	3
+-db-journal Skype	3
 -db-shm SQLite shared memory	3
 -db-wal SQLite database journal	3
 -mapsdata iPhone Maps	4
