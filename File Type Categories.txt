@@ -362,9 +362,10 @@
 -txn MySpace IM Conversation	4
 -wcf WebEx Saved Chat	4
 *** Cryptography
+-$#! Cryptext	3
 -;cert8.db; Mozilla certificates	1
 -;key; WhatsApp Decryption Key	1
--$#! Cryptext	3
+-;walletx.db; Enpass	3
 -aes AES Crypt	3
 -asc PGP armored encrypted file	3
 -axx AxCrypt Encrypted	4
@@ -407,6 +408,7 @@
 -keyring Gnome keyring	4
 -keystore Java KeyStore	3
 -kyr Lotus Domino Key Ring	4
+-mscw mSecure	3
 -ole2enc OLE2 encrypted	2
 -openssl OpenSSL salted	3
 -p10 Certificate Request	3
@@ -426,6 +428,7 @@
 -pkr PGP public Keyring	3
 -ppk PuTTY Private Key	4
 -prvkr PGP private keyring	3
+-psafe3 Password Safe database	3
 -pvk Private Key	3
 -rsa RSA Certificate	3
 -sde Steganos safe	3
@@ -3192,7 +3195,6 @@
 -ppam MS PowerPoint Add-in	*
 -profile1 Silverlight	2
 -psa Photoshop Album	3
--psafe3 Password Safe database	3
 -pset Firefox	2
 -psp2 Adobe Prefs	2
 -pspscript Corel Paint Shop Pro script	1
