@@ -1600,6 +1600,13 @@
 -wsdl Web Services Description	2
 -xap Silverlight Application Package	2
 *** Malware, Ransomware
+-0x0 Ungluk	3
+-1999 Ungluk	3
+-1txt Enigma	3
+-73i87A Xorist	3
+-777 777	3
+-7h9r 7h9r	3
+-8lock8 8lock8	3
 -;!!! HOW TO DECRYPT FILES !!!.txt; Trojan	3
 -;!!! Readme For Decrypt !!!.txt; MarsJoke	3
 -;!!!!!ATENÇÃO!!!!!.html; PayDay	3
@@ -1689,8 +1696,8 @@
 -;How decrypt files.hta; CryptConsole	3
 -;How Decrypt Files.txt; KawaiiLocker	3
 -;HOW TO DECODE FILES!!!.txt; DoNotChange	3
--;HOW TO DECRYPT FILES.txt; CryptoWall 1/Xorist	3
 -;HOW TO DECRYPT FILES.html; CryptON	3
+-;HOW TO DECRYPT FILES.txt; CryptoWall 1/Xorist	3
 -;HOW TO DECRYPT YOU FILES.txt; OzozaLocker	3
 -;How to decrypt your data.txt; Virus-Encoder	3
 -;How to decrypt your files.txt; AiraCrop	3
@@ -1706,6 +1713,7 @@
 -;HOW_DECRYPT.URL; CryptoDefense	3
 -;HOW_OPEN_FILES.hta; FakeGlobe	3
 -;HOW_OPEN_FILES.html; Brazilian Globe	3
+-;how_to_back_files.html; Globe	3
 -;HOW_TO_FIX_!.txt; Crptxxx	3
 -;how_to_recover_files.html; GlobeImposter 2.0	3
 -;HOW_TO_RESTORE_FILES.html; TorrentLocker	3
@@ -1833,13 +1841,6 @@
 -;_Locky_recover_instructions.txt; Locky	3
 -;_RECOVER_INSTRUCTIONS.ini; Simple_Encoder	3
 -;_WHAT_is.html; Locky	3
--0x0 Ungluk	3
--1999 Ungluk	3
--1txt Enigma	3
--73i87A Xorist	3
--777 777	3
--7h9r 7h9r	3
--8lock8 8lock8	3
 -a19 MarsJoke	3
 -aaa TeslaCrypt 0.x - 2.2.0	3
 -abc TeslaCrypt 0.x - 2.2.0	3
@@ -1852,10 +1853,12 @@
 -aga CryFile	3
 -Alcatraz Alcatraz Locker	3
 -amba AMBA	3
+-android AnDROid	3
 -angelamerkel Angela Merkel	3
 -AngleWare AngleWare	3
 -antihacker2017 Xorist	3
 -ap19 MarsJoke	3
+-b10cked Matrix	3
 -BarRax BarRax	3
 -bart Bart	3
 -bart.zip Bart	3
@@ -2015,6 +2018,7 @@
 -letmetrydecfiles Samas-Samsam	3
 -Licked Lick	3
 -lock Brazilian	3
+-lock75 Fluffy-TAR	3
 -lock93 Lock93	3
 -locked ApocalypseVM/CryptoShocker/Death Bitches/etc.	3
 -Locked-by-Mafia Depsex	3
@@ -2050,6 +2054,7 @@
 -p5tkjw Xorist	3
 -padcrypt PadCrypt	3
 -paybtcs Jigsaw	3
+-payfordecrypt Globe	3
 -payms Jigsaw	3
 -paymst Jigsaw	3
 -payransom Jigsaw	3
@@ -2143,7 +2148,7 @@
 -zc3791 Xorist	3
 -zcrypt Zcrypt	3
 -zepto Locky	3
--ZINO ZinoCrypt	3
+-zino ZinoCrypt	3
 -zorro Zorro	3
 -zXz RanRan	3
 -zyklon Zyklon	3
