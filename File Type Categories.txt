@@ -605,6 +605,7 @@
 *** Database, SQLite
 -;cache.db; Safari cache	4
 -;cert8.db; Mozilla certificates	1
+-;consolidated.db; iPhone locations	5
 -;cookies.sqlite; Mozilla/Firefox cookies	4
 -;cookies; Google Chrome cookies	4
 -;downloads.sqlite; Firefox downloads	4
@@ -620,7 +621,6 @@
 -;signons.sqlite; Mozilla/Firefox signons	4
 -;wa.db; WhatsApp	5
 -;webappsstore.sqlite; Mozilla/Firefox web app store	4
--consolidated.db; iPhone	5
 -db SQLite database	3
 -db-journal Skype	3
 -db-shm SQLite shared memory	3
@@ -1383,12 +1383,12 @@
 -xpt XPCOM TypeLib	*
 -ytf Picasa Font Cache	*
 *** GPS/Navigation
--;herrevad; Android Locations
 -3dc iGO 3D building	2
+-;cache.wifi; Android	5
+-;consolidated.db; iPhone locations	5
+-;herrevad; Android locations
 -anr DeLorme Street Atlas route	4
 -bif TomTom general info	2
--cache.wifi; Android	5
--consolidated.db; iPhone	5
 -ee GPS Ephemeris	3
 -est Streets & Trips	4
 -gdb Garmin Mapsource	4
