@@ -2159,16 +2159,17 @@
 -___xratteamLucked TeamXrat	3
 -{CRYPTENDBLACKDC} Cryaki	3
 *** Memory
--;hiberfil.sys; Hibernation	5
--;pagefile.sys; Swap file	3
+-;hiberfil.sys; Win Hibernation	5
+-;pagefile.sys; Win Swap file	3
 -;sleepimage; OSX Sleep/Hibernate Image File	3
--;win386.swp; Swap file	2
+-;swapfile0; OSX Swap file	3
+-;win386.swp; Win Swap file	2
 -dmp Memory dump	3
 -sav Virtualbox Snapshot	3
 -vmem VMware main memory	4
 -vmsn VMware snapshot	4
 -vmss VMware suspended	4
--vsv Virtual Machine Saved State	4
+-vsv HyperV Virtual Machine Saved State	4
 *** Mobile Phones
 -;build.prop; Android configuration	4
 -ab Android Backup	4
@@ -3455,14 +3456,23 @@
 -zmv ZSNES Movie	2
 *** [OS] Mac OS X/iOS System
 -;.applesetupdone; Original user information	3
+-;.bash_history; OSX Shell History	3
 -;.ds_store; Desktop Services Store	3
+-;.GlobalPreferences.plist; Current Time Zone	3
+-;com.apple.bluetooth.plist; Bluetooth paired devices	3
+-;com.apple.sidebarlists.plist; Attached media	3
+-;com.apple.smb.server.plist; File sharing	3
+-;com.apple.timemachine.plist; Time Machine	3
 -;dynamic-text.dat; dyndict	3
+-;facetime.log; Facetime contact/calls	3
+-;install.log; installed software	3
+-;installhistory.plist; install history	3
 -;kcpassword; Autologin account password	3
 -;kernel.log; OS X kernel log	3
 -;secure.log; Security event log	3
 -;system.log; System event log	3
--_ad AppleDouble	1
--_as AppleSingle encoded	2
+-;SystemVersion.plist; Operating System Version	3
+-;ubiquity.log; iCloud	3
 -adea com.apple.quarantine	1
 -alias Finder alias	2
 -alias1 alias	2
@@ -3492,6 +3502,8 @@
 -scpt AppleScript	1
 -vise Mac OS X Installer	2
 -waf Apple download cache	3
+-_ad AppleDouble	1
+-_as AppleSingle encoded	2
 *** [OS] Unix/Linux System
 -;.journal; File system journal	4
 -;acct; Process accounting	3
