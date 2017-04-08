@@ -1,4 +1,5 @@
 *** Address Book
+*** Antivirus
 *** Archives/Backup
 *** Audio
 *** CAD
@@ -16,6 +17,7 @@
 *** Docs, Spreadsheet
 *** Docs, Text, Word Processing
 *** E-mail
+*** Fax
 *** Fonts
 *** GPS/Navigation
 *** Internet, Chrome
@@ -26,7 +28,8 @@
 *** Malware, Ransomware
 *** Memory
 *** Mobile Phones
-*** Network/Packets
+*** Network, Packets
+*** Network, Program config/log files
 *** P2P
 *** Pictures, 3D Graphics
 *** Pictures, Misc Pictures

@@ -62,6 +62,24 @@
 -wab Windows Address Book	5
 -wcd Works Calendar	4
 -windowslivecontact encrypted	2
+*** Antivirus
+-avc Antviral DB	*
+-avr AntiVir	*
+-fil AVG Antivirus Vault	1
+-kdc1 Kaspersky	1
+-key1 Kaspersky	1
+-kli Kaspersky	*
+-lst Kaspersky black list	1
+-ndf ESET Quarantine	2
+-nqf ESET Quarantine	2
+-nup Eset	*
+-qua AntiVir Quarantine	2
+-sca Norton AntiVirus Scan	1
+-symc Symantec_Antivirus	1
+-vdf2 Avira AntiVir	*
+-vnd Kaspersky	1
+-vpx Avast! Virus Update	1
+-xmd BitDefender plug-in	1
 *** Archives/Backup
 -7z 7-Zip	3
 -@db Norton 360 index	3
@@ -87,7 +105,6 @@
 -catalog OneCare Backup	3
 -caz Computer Associates	3T
 -cbu Comodo Backup	3T
--cif Easy CD Creator image	3
 -cpio CPIO Archive	2T
 -dar DAR Disk Archive	3T
 -dcm Memeo AutoBackup	3
@@ -126,8 +143,6 @@
 -pax POSIX Archive	2T
 -pbd EaseUS Todo Backup	3T
 -pbf1 Paragon drive backup/Exact Image 7	3
--pdb Palm	2
--pdc Palm	2
 -pea PeaZip	3T
 -pen Penultimate Backup	3T
 -qfc QuickFileCollection	3T
@@ -284,6 +299,7 @@
 -w64 Sony Wave64	3
 -wav Wave	3
 -wma Windows media	3
+-wrf WebEx Recording	3T
 -wv WavPack	3
 -wvc WavPack compression	3
 -wwb XACT Wave Bank	2
@@ -364,11 +380,17 @@
 *** Cryptography
 -$#! Cryptext	3
 -;cert8.db; Mozilla certificates	1
+-;info.mkf; BlackBerry Encrypted SD card	3
+-;key3.db; Mozilla/Firefox master password	3
 -;key; WhatsApp Decryption Key	1
+-;logins.json; Mozilla/Firefox encrypted passwords	3
+-;signons.sqlite; Mozilla/Firefox encrypted passwords	3
 -;walletx.db; Enpass	3
 -aes AES Crypt	3
+-apw Any Password data	3
 -asc PGP armored encrypted file	3
 -axx AxCrypt Encrypted	4
+-bfa Blowfish Encrypted	4
 -bitlocker Bitlocker rec key	4
 -bla Key file	3
 -bla1 DRM Cache	2
@@ -447,6 +469,7 @@
 -uti Utimaco SafeGuard PrivateCrypto	3
 -vcrd Windows Vault Credentials	2
 -wgx Watchguard VPN Certificate	2
+-wlt eWallet	3
 *** Database, Finance
 -;ibdata1; MySQL undo log	3
 -;my.cnf; MySQL Configuration	2
@@ -652,7 +675,6 @@
 -dmg Apple Macintosh	2T
 -dms Disk Masher Image	3T
 -dsk Disk image	2T
--dsp Discsafe	3
 -e01 Evidence file	4T
 -gho Ghost	3T
 -ghs Ghost	3
@@ -702,7 +724,7 @@
 -cdi DiscJuggler	2
 -cdm NTI CD-Maker	3
 -cdp NTI CD-Copy	3
--cif Creator	3
+-cif Easy CD Creator image	3
 -cmi CDMate	3
 -cpj WinOnCd	3
 -cso1 ISO compressed	2T
@@ -710,6 +732,7 @@
 -daa PowerISO Direct-Access-Archive	2
 -dao Duplicator, Nero	3
 -dax Compressed CD image	3T
+-dsp Discsafe	3
 -fcd Uncompressed	3
 -fcd1 Virtual CD-ROM	3
 -gcd Prassi CD Image	3
@@ -799,7 +822,6 @@
 -axe AutoRoute export	4
 -b4s Winamp playlist	2
 -bcf Business Card Designer	3
--bfx Bitware Fax	4
 -bib BibTeX	1
 -biz Business Card	3
 -bks IBM Softcopy Reader	3
@@ -853,7 +875,6 @@
 -ebx Electronic Book Exchange	2
 -edf eMemoPad Data	3
 -edg EDGE Diagrammer	2
--efx j2 Global Communications eFax	3
 -enc Encore musical notation	2
 -enex Evernote Archive	3
 -ep Pencil Document	3
@@ -1054,7 +1075,6 @@
 -sbw Savings Bonds Wizard	3
 -sch EAGLE Schematics	2
 -sdd StarOffice presentation	3
--sff Structured Fax Format/Fritz Fax	4
 -sh3 Harvard graphics	3
 -shw Corel Presentation	3
 -shw1 WordPerfect presentation	3
@@ -1235,14 +1255,12 @@
 -dvi TeX/LaTeX compiled	3T
 -eld EasyLanguage Document	3T
 -evy Envoy	3T
--fax Fax	4
 -fodp Flat XML	3
 -fodt Flat XML	3
 -fts Help search index	1
 -gul Samsung document	3
 -hwp Hangul document	3
 -inp InPage document	3T
--jsd eFAX Jet Suite	2
 -jtd Ichitaro document	3
 -knt KeyNote Note	3T
 -lp2 iLEAP Word Processor	3
@@ -1348,7 +1366,6 @@
 -pst MS Outlook	5
 -rwz Outlook rule	3
 -sdm StarOffice Mail	4
--sessionstore Firefox	3
 -smd StarOffice Mail document	4
 -snm Netscape	4
 -tbb The Bat!	4
@@ -1359,6 +1376,24 @@
 -wdseml Thunderbird mail message	3
 -xnk MS Exchange shortcut	2
 -zdb Zimbra	4
+*** Fax
+-awd FaxView Document	3
+-bfx Bitware Fax	4
+-cov Fax Cover Page	1
+-cvp WinFax cover	1
+-efx j2 Global Communications eFax	3
+-fax Fax	4
+-fxd WinFAX Sent	4
+-fxm WinFAX	4
+-fxo WinFAX Image	4
+-fxr WinFax Rec	4
+-fxs WinFAX Transmit	3
+-jbg Fax image	3T
+-jbig Fax image	3T
+-jsd eFAX Jet Suite	2
+-sff Structured Fax Format/Fritz Fax	4
+-wfa WinFax Pro archive	3
+-wfx WinFAX	3T
 *** Fonts
 -afm Adobe Font Metrics File Format	*
 -bdf UNIX font	*
@@ -1386,10 +1421,10 @@
 -xpt XPCOM TypeLib	*
 -ytf Picasa Font Cache	*
 *** GPS/Navigation
--3dc iGO 3D building	2
 -;cache.wifi; Android	5
 -;consolidated.db; iPhone locations	5
 -;herrevad; Android locations
+-3dc iGO 3D building	2
 -anr DeLorme Street Atlas route	4
 -bif TomTom general info	2
 -ee GPS Ephemeris	3
@@ -1450,6 +1485,7 @@
 -;data_3; Google Chrome cache	3
 -;history; Google Chrome	4
 -;login data; Google Chrome login data	4
+-;syncdata.sqlite3; Google Chrome Sync DB	4
 -chrome Google Chrome	4
 -chrome1 HTTP response	3
 -crx Chrome extension	2
@@ -1470,12 +1506,16 @@
 -;cookies.sqlite; Mozilla/Firefox cookies	4
 -;cookies.txt; Mozilla/Firefox cookies	4
 -;downloads.sqlite; Firefox downloads	4
+-;extensions.json; Mozilla/Firefox extensions 3
+-;flashgot.log; Flashgot log	3
 -;formhistory.sqlite; Mozilla/Firefox form history	4
 -;healthreport.sqlite; Mozilla/Firefox health report	4
 -;history.dat; Mozilla/Firefox browser history	4
 -;places.sqlite; Mozilla/Firefox web history	4
--;sessionrestore.js; Firefox session restore	3
--;signons.sqlite; Mozilla/Firefox signons	4
+-;prefs.js; Mozilla/Firefox user preferences 3
+-;recovery.back; Firefox session restore	3
+-;recovery.js; Firefox session restore	3
+-;sessionstore.js; Firefox session restore	3
 -;webappsstore.sqlite; Mozilla/Firefox web app store	4
 -;_cache_001_; Mozilla/Firefox Cache	4
 -;_cache_002_; Mozilla/Firefox Cache	4
@@ -1483,10 +1523,10 @@
 -cache2 Firefox	3
 -firefox FireFox cache	4
 -jsonlz4 Compressed Firefox Bookmarks Backup	3
--mozilla prefs.js	3
 -mozlz4 compressed bookmark backup	3
 -session Firefox Session	3
 -sessionrestore Firefox	4
+-sessionstore Firefox	3
 -xpi Firefox browser extension	1
 *** Internet, Safari
 -;cache.db; Safari cache	4
@@ -1559,9 +1599,7 @@
 -mht Web page archive	2
 -mhtml Web page archive	2
 -ms-properties SkyDrive	3
--msrcincident Windows Remote Assistance	3
 -nbz newzBin USENET Index	3
--nmw Netmeeting Whiteboard	3
 -nzb Usenet	3
 -odc MS Office Data Connection	2
 -odl Object Definition Language	3
@@ -1590,23 +1628,16 @@
 -ttml TCL dynamic HTML	2
 -ulk Internet Shortcut	3
 -uls Internet Location Service	3
+-w Google	3
 -war Java Web Archive	3
 -webloc Apple finder Internet location	3
 -webpnp Web Point And Print File	3
 -wml Wireless Markup Language	3
 -wpost Windows Live Writer Post	3
 -wpp WebPlus Project	3
--wrf WebEx Recording	3T
 -wsdl Web Services Description	2
 -xap Silverlight Application Package	2
 *** Malware, Ransomware
--0x0 Ungluk	3
--1999 Ungluk	3
--1txt Enigma	3
--73i87A Xorist	3
--777 777	3
--7h9r 7h9r	3
--8lock8 8lock8	3
 -;!!! HOW TO DECRYPT FILES !!!.txt; Trojan	3
 -;!!! Readme For Decrypt !!!.txt; MarsJoke	3
 -;!!!!!ATENÇÃO!!!!!.html; PayDay	3
@@ -1841,6 +1872,13 @@
 -;_Locky_recover_instructions.txt; Locky	3
 -;_RECOVER_INSTRUCTIONS.ini; Simple_Encoder	3
 -;_WHAT_is.html; Locky	3
+-0x0 Ungluk	3
+-1999 Ungluk	3
+-1txt Enigma	3
+-73i87A Xorist	3
+-777 777	3
+-7h9r 7h9r	3
+-8lock8 8lock8	3
 -a19 MarsJoke	3
 -aaa TeslaCrypt 0.x - 2.2.0	3
 -abc TeslaCrypt 0.x - 2.2.0	3
@@ -1974,6 +2012,7 @@
 -H3LL Ungluk	3
 -ha3 El-Polocker	3
 -hannah Cockblocker	3
+-happydayzz Happydayzz	3
 -hb15 Rakhni	3
 -helpdecrypt@ukr.net Rakhni	3
 -helpmeencedfiles Samas-Samsam	3
@@ -2012,6 +2051,7 @@
 -kraken Kraken/Rakhni	3
 -kratos KratosCrypt	3
 -L0CKED GOG/ShellLocker	3
+-lambda.locked AlphaE	3
 -lambda_l0cked LambdaLocker	3
 -LeChiffre LeChiffre	3
 -lesli CryptoMix	3
@@ -2149,6 +2189,7 @@
 -zcrypt Zcrypt	3
 -zepto Locky	3
 -zino ZinoCrypt	3
+-zixer2 Zixer2	3
 -zorro Zorro	3
 -zXz RanRan	3
 -zyklon Zyklon	3
@@ -2208,6 +2249,8 @@
 -nlm1 Nokia Logo Manager bitmap	2
 -nth Nokia theme	1
 -obb Android Opaque Binary Blob	2
+-pdb Palm	2
+-pdc Palm	2
 -properties Titanium Backup	3
 -qip QIP Infium account	4
 -rem BlackBerry encrypted	3
@@ -2234,7 +2277,7 @@
 -vnt Mobile Phone vNote	4T
 -wup WhatsUp Gold network map	4
 -xry Micro Systemation	2
-*** Network/Packets
+*** Network, Packets
 -5vw InfoVista 5View	3
 -bfr Network Instruments Observer	3
 -cap2 Network capture	3
@@ -2256,6 +2299,19 @@
 -trc0 HP-UX nettl trace	3
 -udp User datagram	5
 -vwr Ixia VeriWave	3
+*** Network, Program config/log files
+-;connections_incoming.txt; TeamViewer incoming connections	3
+-bhf pcAnywhere Host	3
+-chf pcAnywhere remote control	2
+-ht HyperTerminal	2
+-ica Citrix architecture	3
+-msrcincident Windows Remote Assistance	3
+-nmw Netmeeting Whiteboard	3
+-nwm NetMeeting	3
+-rdp Remote Desktop Connection	3
+-tvs TeamViewer Session	4
+-vnc VNC Configuration	4
+-wht NetMeeting Old Whiteboard	3
 *** P2P
 -;data1024.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
 -;data2048.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
@@ -2330,7 +2386,6 @@
 -appicon VMWare	2
 -apx Ability Photopaint Image	3
 -art AOL	2
--awd FaxView Document	3
 -awd2 Artweaver Document	3
 -blp Blizzard Picture	2T
 -bmp Bitmap	3
@@ -2373,11 +2428,6 @@
 -fits Flexible Image Transport System	2T
 -flc Autodesk Animator	2
 -fpx FlashPix Bitmap	3T
--fxd WinFAX Sent	4
--fxm WinFAX	4
--fxo WinFAX Image	4
--fxr WinFax Rec	4
--fxs WinFAX Transmit	3
 -gbr Gimp Brush	1
 -gif Graphic Interchange Format	2
 -gro Graphic Object Bitmap	3
@@ -2391,8 +2441,6 @@
 -itc2 iTunes artwork cache	2T
 -j2k JPEG 2000	3
 -j6i Ricoh digital camera	3T
--jbg Fax image	3T
--jbig Fax image	3T
 -jfif JPEG	3
 -jls JPEG-LS	3T
 -jng JPEG Network Graphics bitmap	2T
@@ -2479,7 +2527,6 @@
 -wbz Webshots image	2T
 -wdp Windows Media HD Photo	3T
 -webp Chrome Weppy	2T
--wfx WinFAX	3T
 -wic J Wavelet Image	2
 -wmf Windows Metafile	2
 -wmz Media Player Skin	*
@@ -2894,11 +2941,10 @@
 -adv Ableton Device Preset	2
 -af3 Micrografx ABC FlowCharter	3
 -allegro Allegro Packfile	2
--amz Amazon	2
+-amz Amazon Music	2
 -aom Adobe Download Manager	3
 -apl Monkey's Audio Track Information	3
 -apnx Amazon Page Number Index	3
--apw Any Password data	3
 -arbfp1 Google Earth shader	*
 -arbvp1 Google Earth shader	*
 -ase Adobe Swatch Exchange	2
@@ -2911,9 +2957,7 @@
 -aum Adobe Update Manager	1
 -aux LaTeX Auxiliary	2
 -avb Avid Bin	2
--avc Antviral DB	*
 -ave Avid User	3
--avr AntiVir	*
 -avs1 AVS Preset	1
 -aw Answer Wizard	*
 -azz AZZ Cardfile	3
@@ -2924,8 +2968,6 @@
 -bdmv Blu-ray information	1
 -ben Bencoded	3
 -benc Bencoded	3
--bfa Blowfish Encrypted	4
--bhf pcAnywhere Host	3
 -big Electronic Arts	*
 -bki IBM Softcopy Reader index	1
 -blb Dreamworks Resource	*
@@ -2952,7 +2994,6 @@
 -cfs Index	2
 -cfx Battlefield 2	*
 -che Personal cache	3
--chf pcAnywhere remote control	2
 -chi Help	*
 -chw Compiled Help Index	1
 -ci Windows Content Indexer Catalog	1
@@ -2975,7 +3016,6 @@
 -cop CaptureOne Proxies	3
 -cos CaptureOne Settings	3
 -cos2 Pinnacle Studio Cache	2
--cov Fax Cover Page	1
 -cpg Cool Page Project	3
 -cpi AVCHD Clip Information	2
 -crp T-Online Banking	4
@@ -2989,7 +3029,6 @@
 -ctg Canon Photo Info	3
 -ctm CrazyTalk Model	2
 -cva Compaq Diagnostics	2
--cvp WinFax cover	1
 -cxt Director Protected Cast	1
 -d2s Diablo II Saved Game	2
 -dartclip Dartfish metadata	3
@@ -3039,7 +3078,6 @@
 -fd2 Epson Printer	*
 -fdf Acrobat Forms	2
 -fhf Free Hide Folder Backup	4
--fil AVG Antivirus Vault	1
 -flo iGrafx FlowCharter	2
 -flp FruityLoops Track	1
 -form NetBeans Java GUI Designer Form	1
@@ -3074,10 +3112,8 @@
 -hpgl Plotter	3
 -hps HP Digital Sender	3
 -hsp Linguistics Proximity	*
--ht HyperTerminal	2
 -ht1 Google Desktop	1
 -hus Husqvarna Embroidery	2
--ica Citrix architecture	3
 -icpr Art Icons Pro	1
 -ies Photometric data	1
 -ilk Linker Database	*
@@ -3098,11 +3134,8 @@
 -jrs ESE Reserve Transaction Log	*
 -jsm JAWS script message	2
 -jtp1 Tabet PC Journal	3
--kdc1 Kaspersky	1
 -kdf Kinkos Photo	3
--key1 Kaspersky	1
 -kfl Outlook RSS feed list	2
--kli Kaspersky	*
 -l2r Lineage II Replay	2
 -l33t MS Games	*
 -lab WordPerfect Label	3
@@ -3116,7 +3149,6 @@
 -lpd Lecturnity Player	2
 -lsd ABBYY Lingvo dictionary	*
 -lsd1 RPG Maker Game Save	1
--lst Kaspersky black list	1
 -lst2 Adobe Color Cache	1
 -ltf Frogans Short-cut	2
 -luac Lua Player for PSP	2
@@ -3151,19 +3183,15 @@
 -nbk NovaBACKUP Job	3
 -nc1 NetCDF	3
 -nct NERO CoverDesigner	*
--ndf ESET Quarantine	2
 -nds Nintendo DS Game	*
 -nes Nintendo ROM	*
 -nfg Gambit Normal Form	2
 -njb Nikon Photo Index	3
 -nji Nero BackItUp job	3
--nqf ESET Quarantine	2
 -ns1 NetStumbler NS1 log	3
 -ntf Lotus Notes template	2
--nup Eset	*
 -nvi NVIDIA settings	1
 -nvram VMware VM BIOS state	3
--nwm NetMeeting	3
 -ny Audacity Plug-In	*
 -obi Outlook RSS Subscription	2
 -ole2 OLE2 compound	2
@@ -3211,7 +3239,6 @@
 -qrc Qt Resource Collection	2
 -qtch QuickTime Cache	1
 -qtp QuickTime Preferences	1
--qua AntiVir Quarantine	2
 -ram RealMedia Meta	2
 -rat Rating System	1
 -rbxm ROBLOX Model	1
@@ -3243,7 +3270,6 @@
 -sc2replay StarCraft2 Replay	2
 -sc2save StarCraft2 Saved	2
 -sc4 game related	*
--sca Norton AntiVirus Scan	1
 -scn Scenario File	2
 -scz SmartDraw Collection	1
 -sdg OpenOffice Gallery	*
@@ -3274,13 +3300,11 @@
 -sty Microsoft DirectMusic Style	*
 -suo Visual Studio Solution	1
 -sv2i Symantec System Index	2
--symc Symantec_Antivirus	1
 -tab MapInfo table	2
 -tdl ToDoList Tasklist	4
 -tld Tag Library Descriptor	2
 -tmx Translation Memory Exchange	1
 -trx Visual Studio Test Results	2
--tvs TeamViewer Session	4
 -twl Naviguide binary route	4
 -undo Norton Disk Doctor	3
 -upp Unity Player Pref	2
@@ -3293,30 +3317,23 @@
 -vcb Microsoft C/C++ program database	1
 -vcpref Symantec user	3
 -vdf Valve Steam	3
--vdf2 Avira AntiVir	*
 -vix Image catalog	2
 -vmcx Virtual Machine Shell Information	3
 -vmv VirtuaNES	2
 -vmx VMware configuration	3
 -vmxf VMware Team Member	3
--vnc VNC Configuration	4
--vnd Kaspersky	1
 -vpk Valve Package	1
--vpx Avast! Virus Update	1
 -vs Vertex Shader	1
 -vsm VisSim Simulation Model	3
 -vssettings Visual Studio Settings	1
 -vstemplate Visual Studio project template	1
 -vsto VSTO Deployment Manifest	2
 -vtf Valve Texture	*
--w Google	3
 -w3g Warcraft 3 Replay	1
 -w3m Warcraft 3 Map	*
 -w3z Warcraft 3 Saved Game	1
 -wad id Software's DOOM	*
--wfa WinFax Pro archive	3
 -wiz MS Word Wizard	*
--wlt eWallet	3
 -wmp Infinity Engine world map	2
 -wms Windows Media Player Skin	*
 -wpj MsWorks wizard	*
@@ -3678,7 +3695,6 @@
 -query Query	1
 -rbf Windows Installer Rollback	1
 -rdg RDCman Config	4
--rdp Remote Desktop Connection	3
 -recycler $I Windows recycle bin metadata	4
 -res Windows compiled resource	1
 -sct Windows Script Component	2
@@ -3723,7 +3739,6 @@
 -wer AppCrash	3
 -wevt Event template	1
 -wfc Wireless Settings	3
--wht NetMeeting Old Whiteboard	3
 -winmd Windows Metadata	1
 -winsxs WinSxS backup	1
 -wmd Windows Media Player Download Package	*
@@ -3733,7 +3748,6 @@
 -wsh Windows Script Host Settings	2
 -wvx Windows Media video playlist	3
 -xbf XAML Binary	1
--xmd BitDefender plug-in	1
 -xrm-ms activation certificate	2
 -xss SharePoint Groove	3
 -xsslog SharePoint Groove log	3
