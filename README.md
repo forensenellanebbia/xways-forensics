@@ -1,5 +1,5 @@
 ## xways-forensics  
-Personal settings for X-Ways Forensics (http://www.x-ways.net/)
+Personal settings for [X-Ways Forensics](http://www.x-ways.net/)
 
 ## Customized version of the Filter:Type list  
 http://forensenellanebbia.blogspot.it/2017/03/customizing-filter-type-in-x-ways.html
@@ -8,5 +8,6 @@ http://forensenellanebbia.blogspot.it/2017/03/customizing-filter-type-in-x-ways.
 | Date | Description |
 | :---- | :---- |
 | 2017-04-08 | Added the categories *Antivirus*, *Fax*  and *Network, Program config/log files* |  
-| 2017-04-01 | Added the category *Malware, Ransomware* (based on the Ransomware Overview available at:\http://goo.gl/b9R8DE |
+| 2017-04-01 | Added the category *Malware, Ransomware* (based on the Ransomware Overview available at:
+http://goo.gl/b9R8DE |
 | 2017-03-31 | Public release |
