@@ -8,5 +8,5 @@ http://forensenellanebbia.blogspot.it/2017/03/customizing-filter-type-in-x-ways.
 | Date | Description |
 | :---- | :---- |
 | 2017-04-08 | Added the categories *Antivirus*, *Fax*  and *Network, Program config/log files* |  
-| 2017-04-01 | Added the category *Malware, Ransomware* (based on the Ransomware Overview available at: https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml |
+| 2017-04-01 | Added the category *Malware, Ransomware* (based on the Ransomware Overview available at: http://goo.gl/b9R8DE |
 | 2017-03-31 | Public release |
