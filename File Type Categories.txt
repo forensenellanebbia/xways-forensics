@@ -1313,6 +1313,7 @@
 -cnr Pegasus	4
 -dbx Outlook Express	4
 -det Sage ACT!	5
+-edb MS Exchange E-mail Database	3
 -eml E-mail message	5
 -emlx OSX Tiger Mail	5
 -emlxpart Attachment	4
@@ -1663,6 +1664,7 @@
 -;000-PLEASE-READ-WE-HELP.html; Samas-Samsam	3
 -;001-READ-FOR-DECRYPT-FILES.html; Samas-Samsam	3
 -;@__help__@; LanRan	3
+-;atlas_files.txt; Atlas	3
 -;ATTENTION.RTF; NanoLocker	3
 -;ATTENTION.url; CryptoShocker	3
 -;Beni Oku.txt; Turkish (Fake CTB-Locker)	3
@@ -1674,6 +1676,7 @@
 -;cryptinfo.txt; DMALocker	3
 -;DALE_FILES.TXT; CHIP	3
 -;decrypt explanations.html; n1n1n1	3
+-;decrypt.txt; Conficker	3
 -;Decrypted.txt; Nemucod	3
 -;DecryptFile.txt; GOG	3
 -;decrypting.txt; DMALocker	3
@@ -1777,6 +1780,7 @@
 -;OKSOWATHAPPENDTOYOURFILES.TXT; CryptoBit	3
 -;ONTSLEUTELINGS_INSTRUCTIES.html; TorrentLocker	3
 -;paycrypt.bmp; Rakhni	3
+-;payment-instructions.txt; Lockout	3
 -;Payment_Instructions.jpg; TowerWeb	3
 -;PLEASE-READIT-IF_YOU-WANT.html; SamSam	3
 -;qwer.html; El-Polocker	3
@@ -1788,6 +1792,7 @@
 -;Read Me (How Decrypt) !!!!.txt; Alpha Ransomware	3
 -;READ ME ABOUT DECRYPTION.txt; Pr0tector	3
 -;READ ME FOR DECRYPT.txt; Fakben	3
+-;read to unlock files.salsa.html; Salsa222	3
 -;READ-READ-READ.html; Samas-Samsam	3
 -;README!!!.txt; CryptoJoker	3
 -;README!.txt; Patcher	3
@@ -1799,7 +1804,9 @@
 -;README_FOR_DECRYPT.txt; CryPy	3
 -;README_HOW_TO_UNLOCK.HTML; Rokku	3
 -;README_HOW_TO_UNLOCK.TXT; SADStory	3
+-;readme_to_decrypt_files.html; ransom	3
 -;README_TO_RECURE_YOUR_FILES.txt; Domino	3
+-;readme_to_restore_files.txt; Serp	3
 -;READTHISNOW!!!.txt; Ungluk	3
 -;READ_ME_!.txt; Unlock92	3
 -;READ_ME_TO_DECRYPT.txt; Pickles	3
@@ -1896,6 +1903,7 @@
 -AngleWare AngleWare	3
 -antihacker2017 Xorist	3
 -ap19 MarsJoke	3
+-atlas Atlas	3
 -b10cked Matrix	3
 -BarRax BarRax	3
 -bart Bart	3
@@ -1924,6 +1932,7 @@
 -code CryptoMix/Zeta	3
 -coded Anubis	3
 -comrade Fantom	3
+-conficker Conficker	3
 -coverton Coverton	3
 -crashed RemindMe	3
 -crime iLock/iLockLight/Lortok	3
@@ -2063,6 +2072,7 @@
 -locked ApocalypseVM/CryptoShocker/Death Bitches/etc.	3
 -Locked-by-Mafia Depsex	3
 -locklock LockLock	3
+-lockout Lockout	3
 -locky AutoLocky/Hucky/Locky	3
 -LOL! OMG! Ransomware	3
 -lovewindows Globe v2	3
@@ -2084,6 +2094,7 @@
 -odcodc ODCODC	3
 -odin Locky	3
 -OMG! OMG! Ransomware	3
+-onion Dharma	3
 -only-we_can-help_you Samas-Samsam	3
 -oops Marlboro	3
 -openforyou@india.com Globe v2	3
@@ -2115,6 +2126,7 @@
 -R5A 7ev3n	3
 -RAD Radamant	3
 -RADAMANT Radamant	3
+-ransom ransom	3
 -RARE1 Merry X-Mas!	3
 -razy Razy	3
 -RDM Radamant	3
@@ -2133,9 +2145,11 @@
 -RSplited SNSLocker	3
 -sad SADStory	3
 -sage Sage 2.X	3
+-salsa222 Salsa222	3
 -sanction Sanction	3
 -scl CryptFIle2/CryptoMix/Zeta	3
 -SecureCrypted Apocalypse	3
+-serp Serp	3
 -serpent Serpent	3
 -sexy PayDay	3
 -shino ShinoLocker	3
@@ -2206,6 +2220,7 @@
 -;swapfile0; OSX Swap file	3
 -;win386.swp; Win Swap file	2
 -dmp Memory dump	3
+-mdmp Windows Minidump	3
 -sav Virtualbox Snapshot	3
 -vmem VMware main memory	4
 -vmsn VMware snapshot	4
@@ -2864,6 +2879,7 @@
 -c C source	2
 -c#= C# source	2
 -cc ADS source	2
+-cdxml PowerShell	1
 -cmd script	1
 -cob Cobol	3
 -cpp C++ source	2
@@ -3577,7 +3593,10 @@
 -xcur X cursor	1
 -zoneinfo zone info	*
 *** [OS] Windows Internals
+-;$j; NTFS Change journal	4
 -;$logfile; NTFS journal	4
+-;$mft; NTFS MFT	4
+-;consolehost_history.txt; Powershell log	3
 -;drivetable.txt; System Restore	3
 -;index.btr; MS Office index	*
 -;info2; Recycle bin	5
@@ -3603,7 +3622,6 @@
 -cab1 Windows Installer	1
 -cdf-ms MS Channel Definition Format	1
 -cdmp WCS Device Profile	1
--cdxml PowerShell	1
 -clb1 COM+ Catalog	1
 -clog Change log	3
 -clp Clipboard	3
@@ -3663,7 +3681,6 @@
 -lnk Shortcut	4
 -lsx Streaming Media Shortcut	3
 -manifest1 WinSxS	1
--mdmp Windows Minidump	3
 -metadata OE properties	4
 -mfl WMI	1
 -mof Managed Object Format	1
