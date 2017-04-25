@@ -12,4 +12,5 @@ http://forensenellanebbia.blogspot.it/2017/03/customizing-filter-type-in-x-ways.
 | 2017-04-01 | Added the category *Malware, Ransomware* (based on the [Ransomware Overview](http://goo.gl/b9R8DE) document) |
 | 2017-03-31 | Public release |
 
+
 If you find this customized filter useful, please help me improve it and don't forget to share it with your colleagues!
