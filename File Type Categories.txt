@@ -62,6 +62,16 @@
 -wab Windows Address Book	5
 -wcd Works Calendar	4
 -windowslivecontact encrypted	2
+*** Antiforensics
+-;ccleaner.exe; CCleaner	3
+-;ccleaner64.exe; CCleaner	3
+-;cleanafterme.exe; CleanAfterMe	3
+-;eraser.exe; Eraser	3
+-;privazer.exe; PrivaZer	3
+-;shellbag_analyzer_cleaner.exe; Shellbag Cleaner	3
+-;thumbscleaner.exe; Thumbnail Database Cleaner	3
+-;usboblivion32.exe;  USB Oblivion	3
+-;usboblivion64.exe; USB Oblivion	3
 *** Antivirus
 -avc Antviral DB	*
 -avr AntiVir	*
@@ -2343,9 +2353,24 @@
 -vnc VNC Configuration	4
 -wht NetMeeting Old Whiteboard	3
 *** P2P
+-;ares.exe; Ares	3
+-;Azureus.exe; Vuze	3
+-;BearShare.exe; BearShare	3
+-;BitComet.exe; BitComet	3
+-;btdownloadgui.exe; BitTornado	3
 -;data1024.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
 -;data2048.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
 -;data256.dbb; FastTrack (Kazaa, Grokster, iMesh)	3
+-;emule.exe; eMule	3
+-;gigatribe.exe; Gigatribe	3
+-;iMesh.exe; iMesh	3
+-;kazaa.exe; KaZaA	3
+-;LimePro.exe; Limewire	3
+-;qbittorrent.exe; qbittorrent	3
+-;Shareaza.exe; Shareaza	3
+-;sharest.exe; Sharest	3
+-;tixati.exe; Tixati	3
+-;uTorrent.exe; uTorrent	3
 -bc! BitTorrent unfinished	2
 -bt! BitTorrent Partial Download	2
 -emulecollection eMule	3
