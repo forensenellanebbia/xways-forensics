@@ -195,6 +195,7 @@
 -ams Velvet Studio Module	2
 -ape Monkey's audio	2
 -au Audacity	3
+-aud Compressed audio format	3
 -auf Audacity Block	3
 -awb Adaptive Multirate	3
 -bww Bagpipe notation	1
@@ -1639,15 +1640,16 @@
 -wsdl Web Services Description	2
 -xap Silverlight Application Package	2
 *** Malware, Ransomware
--;!!! HOW TO DECRYPT FILES !!!.txt; Trojan	3
--;!!! Readme For Decrypt !!!.txt; MarsJoke	3
--;!!!!!ATENÇÃO!!!!!.html; PayDay	3
+-;!!! how to decrypt files !!!.txt; Trojan	3
+-;!!! readme for decrypt !!!.txt; MarsJoke	3
 -;!!!!!readme!!!!!.htm; ASN1	3
 -;!!!-WARNING-!!!.html; Coverton	3
 -;!!!-WARNING-!!!.txt; Coverton	3
 -;!!_RECOVERY_instructions_!!.html; Nuke	3
 -;!!_RECOVERY_instructions_!!.txt; Nuke	3
+-;!read__me.txt; Ransomware	3
 -;!satana!.txt; Satana	3
+-;!wannadecryptor!.exe; WannaCryptor	3
 -;!Where_are_my_files!.html; CryptoRoger	3
 -;!_RECOVERY_HELP_!.txt; Nhtnwcuf	3
 -;# !!!HELP_FILE!!! #.txt; Revenge	3
@@ -1671,6 +1673,7 @@
 -;BUYUNLOCKCODE.txt; BuyUnlockCode	3
 -;CHECK-IT-HELP-FILES.html; Samas-Samsam	3
 -;CHIP_FILES.txt; CHIP	3
+-;como_abrir_arquivos.txt; CryptON	3
 -;CreatesReadThisFileImportant.txt; MasterBuster	3
 -;crjoker.html; CryptoJoker	3
 -;cryptinfo.txt; DMALocker	3
@@ -1771,6 +1774,7 @@
 -;LEER_INMEDIATAMENTE.txt; CryptoShadow	3
 -;LET-ME-TRY-DEC-FILES.html; Samas-Samsam	3
 -;locked.bmp; El-Polocker	3
+-;locked.zip; NotAHero	3
 -;maxcrypt.bmp; Rakhni	3
 -;MENSAGEM.txt; Brazilian	3
 -;MERRY_I_LOVE_YOU_BRUCE.HTA; Merry X-Mas!	3
@@ -1890,10 +1894,13 @@
 -aaa TeslaCrypt 0.x - 2.2.0	3
 -abc TeslaCrypt 0.x - 2.2.0	3
 -adk Angry Duck	3
+-admin@badadmin.xyz Globev3	3
 -adr BaksoCrypt	3
 -aes Vortex	3
+-aes-ni AES-NI	3
 -AES256 Rakhni	3
 -aesir Locky	3
+-aes_ni_0day AES-NI	3
 -AFD Jigsaw	3
 -aga CryFile	3
 -Alcatraz Alcatraz Locker	3
@@ -1920,6 +1927,7 @@
 -btc-help-you Samas-Samsam	3
 -btcbtcbtc Samas-Samsam	3
 -btcware BTCWare	3
+-cancer Cancer	3
 -cbf Offline ransomware	3
 -CCCRRRPPP Unlock92	3
 -cerber Cerber	3
@@ -1971,6 +1979,7 @@
 -ded DEDCryptor	3
 -deria DeriaLock	3
 -devil CryptoDevil	3
+-dexter Troldesh	3
 -dharma Dharma	3
 -DHARMA Virus-Encoder	3
 -disappeared Al-Namrood	3
@@ -1985,20 +1994,21 @@
 -EnCiPhErEd Xorist	3
 -encmywork Samas-Samsam	3
 -encoderpass Xorist	3
--ENCR FileLocker	3
+-encr FileLocker	3
 -encrypt Alpha Ransomware	3
 -encrypted /Apocalypse/Crypren/CryptoLocker/etc.	3
 -encryptedAES Samas-Samsam	3
 -encryptedRSA Samas-Samsam	3
 -encryptedyourfiles Samas-Samsam	3
--ENCRYPTED_BY_LLTP LLTP Locker	3
--ENCRYPTED_BY_LLTPp LLTP Locker	3
+-encrypted_by_lltp LLTP Locker	3
+-encrypted_by_lltpp LLTP Locker	3
 -enigma Coverton/Enigma	3
 -epic Jigsaw	3
 -evillock Evil	3
 -exotic Exotic	3
 -exx TeslaCrypt 0.x - 2.2.0	3
 -ezz TeslaCrypt 0.x - 2.2.0	3
+-FailedAccess FailedAccess	3
 -fantom Fantom	3
 -fear Razy	3
 -FenixIloveyou!! FenixLocker	3
@@ -2014,6 +2024,7 @@
 -FuckYourData Apocalypse	3
 -fun Jigsaw	3
 -gefickt Jigsaw	3
+-getrekt Jigwaw	3
 -globe Win32/Pulobe.A	3
 -grt Karmen	3
 -gruzin@qq_com Rakhni	3
@@ -2045,6 +2056,7 @@
 -infected Rector	3
 -isis EduCrypt	3
 -iwanthelpuuu Samas-Samsam	3
+-jeepers JeepersCrypt	3
 -justbtcwillhelpyou Samas-Samsam	3
 -karma Karma	3
 -kencf Kaandsona	3
@@ -2081,6 +2093,7 @@
 -maktub NMoreira	3
 -MERRY Merry X-Mas!	3
 -micro TeslaCrypt 3.0+	3
+-mole Ransomware	3
 -MRCR1 Merry X-Mas!	3
 -nalog@qq_com Rakhni	3
 -nemo-hacks.at.sigaint.org Jigsaw	3
@@ -2120,6 +2133,8 @@
 -potato Potato	3
 -powerfulldecrypt Samas-Samsam	3
 -pr0tect Pr0tector	3
+-pre_alpha Ransomware	3
+-psh PshCrypt	3
 -purge Globe v1	3
 -R.i.P Phoenix	3
 -R4A 7ev3n	3
@@ -2173,7 +2188,7 @@
 -unavailable Al-Namrood/Apocalypse	3
 -unlockvt@india.com Globe v3	3
 -vault VaultCrypt/Zlader/Russian	3
--VBRANSOM VBRANSOM 7	3
+-vbransom VBRANSOM 7	3
 -velikasrbija SerbRansom	3
 -Venusf VenusLocker	3
 -Venusp VenusLocker	3
