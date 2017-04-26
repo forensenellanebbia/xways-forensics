@@ -66,10 +66,24 @@
 -;ccleaner.exe; CCleaner	3
 -;ccleaner64.exe; CCleaner	3
 -;cleanafterme.exe; CleanAfterMe	3
+-;deepsound.exe;	Audio steg	3
 -;eraser.exe; Eraser	3
+-;imgstegano.jar; ImgStegano	3
 -;privazer.exe; PrivaZer	3
+-;s-tools.exe;	Stego tools	3
+-;setmace.exe; Manipulate timestamps on NTFS	3
+-;setmace64.exe; Manipulate timestamps on NTFS	3
+-;setregtime.exe; Registry timestamp manipulation	3
+-;setregtime64.exe; Registry timestamp manipulation	3
 -;shellbag_analyzer_cleaner.exe; Shellbag Cleaner	3
+-;slacker.exe; Store a file in slack space	3
+-;stegexpose.jar; StegExpose	3
+-;steghide.exe; StegHide	3
+-;stegomft.exe; StegoMFT	3
+-;stegomft64.exe; StegoMFT	3
 -;thumbscleaner.exe; Thumbnail Database Cleaner	3
+-;timestomp.exe; Timestomp	3
+-;tor.exe; Tor browser	3
 -;usboblivion32.exe;  USB Oblivion	3
 -;usboblivion64.exe; USB Oblivion	3
 *** Antivirus
