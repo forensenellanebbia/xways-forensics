@@ -4,7 +4,7 @@ Personal settings for [X-Ways Forensics](http://www.x-ways.net/)
 ## Customized version of the Filter:Type list  
 http://forensenellanebbia.blogspot.it/2017/03/customizing-filter-type-in-x-ways.html
 
-## History  
+## Changelog  
 | Date | Description |
 | :---- | :---- |
 | 2017-04-25 | Added the category *Antiforensics* + executable filenames of P2P programs |
