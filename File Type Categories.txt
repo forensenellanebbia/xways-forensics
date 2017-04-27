@@ -63,11 +63,13 @@
 -wcd Works Calendar	4
 -windowslivecontact encrypted	2
 *** Antiforensics
+-;batchpurifier.exe; BatchPurifier	3
 -;ccleaner.exe; CCleaner	3
 -;ccleaner64.exe; CCleaner	3
 -;cleanafterme.exe; CleanAfterMe	3
 -;deepsound.exe;	Audio steg	3
 -;eraser.exe; Eraser	3
+-;exifpurge.exe; ExifPurge	3
 -;imgstegano.jar; ImgStegano	3
 -;privazer.exe; PrivaZer	3
 -;s-tools.exe;	Stego tools	3
