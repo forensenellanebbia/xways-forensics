@@ -73,6 +73,7 @@
 -;imgstegano.jar; ImgStegano	3
 -;privazer.exe; PrivaZer	3
 -;s-tools.exe;	Stego tools	3
+-;sdelete.exe; Sysinternals sdelete	3
 -;setmace.exe; Manipulate timestamps on NTFS	3
 -;setmace64.exe; Manipulate timestamps on NTFS	3
 -;setregtime.exe; Registry timestamp manipulation	3
@@ -1985,6 +1986,7 @@
 -crypted EiTest/Nemucod/ProposalCrypt	3
 -crypted_file Kangaroo	3
 -crypto Rakhni/Zimbra	3
+-cryptobyte BTCWare	3
 -cryptolocker FakeCryptoLocker	3
 -CRYPTOSHIEL CryptoMix	3
 -CRYPTOSHIELD CryptoMix/CryptoShield	3
@@ -2123,6 +2125,7 @@
 -MRCR1 Merry X-Mas!	3
 -nalog@qq_com Rakhni	3
 -nemo-hacks.at.sigaint.org Jigsaw	3
+-NM4 NM4	3
 -nochance Rakhni	3
 -noproblemwedecfiles Samas-Samsam	3
 -notfoundrans Samas-Samsam	3
@@ -2261,6 +2264,7 @@
 -;swapfile0; OSX Swap file	3
 -;win386.swp; Win Swap file	2
 -dmp Memory dump	3
+-lime Linux Memory Extractor	3
 -mdmp Windows Minidump	3
 -sav Virtualbox Snapshot	3
 -vmem VMware main memory	4
@@ -3594,6 +3598,7 @@
 -_ad AppleDouble	1
 -_as AppleSingle encoded	2
 *** [OS] Unix/Linux System
+-;.bash_history; Linux Shell History	3
 -;.journal; File system journal	4
 -;acct; Process accounting	3
 -;cpuinfo; Process	3
