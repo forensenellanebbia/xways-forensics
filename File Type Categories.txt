@@ -836,6 +836,174 @@
 -tpz Kindle Topaz eBook	2
 -tr TomeRaider eBook	1
 -tr3 TomeRaider 3 eBook	2
+*** Docs, Page Layout
+-ai Adobe Illustrator	3
+-ait Illustrator Template	2
+-book FrameMaker book	2
+-cdf Computable Document Format	3
+-dtx Documented LaTeX	3
+-fm1 FrameMaker	3T
+-fr3 FastReport Form	2
+-frm2 FrameMaker	3
+-icma InCopy Assignment	3
+-idml Adobe InDesign	3
+-idms InDesign Snippet	3
+-idpp InDesign Preflight	2
+-incx InCopy CS3	3
+-indb InDesign Book	3
+-indd InDesign	3T
+-indl InDesign Lib	2
+-inds InDesign Snippet	3
+-indt InDesign Template	2
+-inx1 InDesign Interchange	3
+-lbl Now Contact Label Template	2
+-mcf FotoInsight Designer	3
+-mdi MS Office Document Imaging	3T
+-mif1 FrameMaker Interchange Format	3
+-npp Art Explosion Publisher Pro	3
+-oxps OpenXPS	3T
+-p65 Pagemaker	3T
+-pdf Adobe Acrobat	3
+-pm3 PageMaker	3
+-pm4 PageMaker	3
+-pm5 PageMaker	3
+-pm6 PageMaker	3T
+-pmd PageMaker 7	3T
+-pmt PageMaker template	2
+-ppp Serif PagePlus	3T
+-pub Publisher Document	3T
+-qxb QuarkXPress Book	3T
+-qxd Quark XPress	3T
+-qxt Quark XPress template	2
+-sbk Scrapbook Factory	3
+-sla Scribus	3
+-xdw DokuWorks	3
+-xps XML Paper Specification	3
+-xzfx ZipLogix ZipForm	3
+-zdl Avery DesignPro	3T
+-zdp Avery DesignPro	3T
+-zds DesignPro Label	3T
+*** Docs, Plain Text
+-ascii 7-bit ASCII	2
+-ascii+ 7-bit ASCII with ESC char.	1
+-ascii- Trailing null byte	2
+-ascii_unix 7-ASCII, Unix LF	2
+-conf Config file	*
+-log Log file	4
+-putty Log file	4
+-strings Text	1
+-txt Text	3
+-txt2 Text encoded	3T
+-ucs2 Unicode BE	3
+-utf16 Unicode text	2
+-utf16be Unicode text	2
+-wedb Windows.edb	4
+*** Docs, Spreadsheet
+-csv Comma-separated values	4
+-dif Data Interchange Format	3T
+-dis Oracle Discoverer Workbook	3
+-edx Edraw Max	3
+-fcs First Choice Spreadsheet	3
+-fm FrameMaker/Lotus 1-2-3 spreadsheet	3
+-fm3 Lotus 1-2-3 release 3.x spreadsheet	2T
+-fods Flat XML spreadsheet	3
+-gnumeric Gnumeric spreadsheet	3
+-mtw Minitab Worksheet	3
+-mxl Moxcel spreadsheet	3
+-mxlz Moxcel spreadsheet	3
+-nb Mathematica Notebook	3
+-numbers Apple iWork Numbers spreadsheet	3
+-numbers-tef Numbers iCloud Document	3
+-ods OpenOffice Calc	3
+-ots OpenOffice Calc template	1
+-qpw Quattro Pro Spreadsheet	3
+-sdc StarOffice spreadsheet	3
+-stc StarOffice spreadsheet	3
+-sxc StarOffice spreadsheet	3
+-tsv Tab-separated values	4
+-wb2 Corel Quattro Pro	2
+-wb3 QuattroPro for Windows Spreadsheet	2
+-wks MS Works/Lotus 1-2-3	3
+-wks1 Works Spreadsheet	4T
+-xla Excel/Addin	1
+-xlam XLSX Macro-Enabled	3
+-xlc Excel Chart	3
+-xlk MS Excel backup	2
+-xll Excel XLL Add-In	1
+-xlm Excel Macro	2
+-xlr MS Works spreadsheet	3
+-xls MS Excel	4
+-xls1 XML Workbook	3
+-xlsb Excel Binary Spreadsheet	3
+-xlsm MS Excel 2007	4
+-xlsx MS Excel 2007	4
+-xlt MS Excel template	1
+-xltx MS Excel 2007 template	1
+-xlw MS Excel 4.0 workbook	3
+*** Docs, Word Processing
+-abw AbiWord	4T
+-ami Ami Pro	4
+-chiw ChiWriter	3
+-clpt Macintosh Clipping	3
+-dgs Dagesh Document	3
+-doc MS Word	4
+-doc1 WordPad	3
+-doc3 MS Word (MacBinary)	2T
+-docm MS Word Document macro-enabled	4
+-docx MS Word 2007	4
+-dot MS Word template	*
+-dotx MS Word 2007 template	*
+-dtd Document Type Definition	*
+-dvi TeX/LaTeX compiled	3T
+-eld EasyLanguage Document	3T
+-evy Envoy	3T
+-fodp Flat XML	3
+-fodt Flat XML	3
+-fts Help search index	1
+-gul Samsung document	3
+-hwp Hangul document	3
+-inp InPage document	3T
+-jtd Ichitaro document	3
+-knt KeyNote Note	3T
+-lp2 iLEAP Word Processor	3
+-lwp Lotus Word Pro	3
+-lyx Lyx document	3T
+-mcw Mac Write	3
+-mor1 Corel Shared Writing Tools	3T
+-odt OpenOffice Writer	4
+-opd OmniPage Document	3T
+-otp Presentation Template	3
+-ott OpenDocument text template	1
+-pages Apple iWork Pages	3
+-psw Pocket Word	3T
+-pwd Pocket Word	3
+-pwi Pocket Word	3T
+-rft IBM DisplayWrite	3
+-rtd Ragtime	4T
+-rtf Rich Text	3
+-rtt Ragtime	4T
+-sam Lotus Ami Pro	3
+-scrivx Scrivener	3
+-scw Screenwriter Document	3
+-sdw StarOffice Writer	3
+-sgl StarOffice Writer	3
+-sgm Standard Generalized Markup Language Document	3
+-snb S Note	4T
+-stw StarOffice template	2
+-sxg StarWriter global document	4
+-sxm StarMath document	3
+-sxw StarOffice Writer	4
+-tmd TextMaker	4T
+-tmv TextMaker	4T
+-wbk Word Document Backup	3
+-wll Word WLL Add-in	1
+-wpa ACT! word processor	4T
+-wpd WordPerfect	4
+-wps MS Works	4
+-wrd Psion serie 3 word	4
+-wrdtmp MS Office user identification	2
+-wri Windows Write	2
+-wsd WordStar	2
 *** Docs, Misc Documents
 -a3w Authorware	2
 -a4p Authorware	2
@@ -1162,173 +1330,6 @@
 -zir Compass and Ruler	2
 -zmg ZENworks Desktop	2
 -zno Zinio Electronic Magazine	2
-*** Docs, Page Layout
--ai Adobe Illustrator	3
--ait Illustrator Template	2
--book FrameMaker book	2
--cdf Computable Document Format	3
--dtx Documented LaTeX	3
--fm1 FrameMaker	3T
--fr3 FastReport Form	2
--frm2 FrameMaker	3
--icma InCopy Assignment	3
--idml Adobe InDesign	3
--idms InDesign Snippet	3
--idpp InDesign Preflight	2
--incx InCopy CS3	3
--indb InDesign Book	3
--indd InDesign	3T
--indl InDesign Lib	2
--inds InDesign Snippet	3
--indt InDesign Template	2
--inx1 InDesign Interchange	3
--lbl Now Contact Label Template	2
--mcf FotoInsight Designer	3
--mdi MS Office Document Imaging	3T
--mif1 FrameMaker Interchange Format	3
--npp Art Explosion Publisher Pro	3
--oxps OpenXPS	3T
--p65 Pagemaker	3T
--pdf Adobe Acrobat	3
--pm3 PageMaker	3
--pm4 PageMaker	3
--pm5 PageMaker	3
--pm6 PageMaker	3T
--pmd PageMaker 7	3T
--pmt PageMaker template	2
--ppp Serif PagePlus	3T
--pub Publisher Document	3T
--qxb QuarkXPress Book	3T
--qxd Quark XPress	3T
--qxt Quark XPress template	2
--sbk Scrapbook Factory	3
--sla Scribus	3
--xdw DokuWorks	3
--xps XML Paper Specification	3
--xzfx ZipLogix ZipForm	3
--zdl Avery DesignPro	3T
--zdp Avery DesignPro	3T
--zds DesignPro Label	3T
-*** Docs, Plain Text
--ascii 7-bit ASCII	2
--ascii+ 7-bit ASCII with ESC char.	1
--ascii- Trailing null byte	2
--ascii_unix 7-ASCII, Unix LF	2
--conf Config file	*
--log Log file	4
--putty Log file	4
--strings Text	1
--txt Text	3
--txt2 Text encoded	3T
--ucs2 Unicode BE	3
--utf16 Unicode text	2
--utf16be Unicode text	2
--wedb Windows.edb	4
-*** Docs, Spreadsheet
--csv Comma-separated values	4
--dif Data Interchange Format	3T
--dis Oracle Discoverer Workbook	3
--edx Edraw Max	3
--fcs First Choice Spreadsheet	3
--fm FrameMaker/Lotus 1-2-3 spreadsheet	3
--fm3 Lotus 1-2-3 release 3.x spreadsheet	2T
--fods Flat XML spreadsheet	3
--gnumeric Gnumeric spreadsheet	3
--mtw Minitab Worksheet	3
--mxl Moxcel spreadsheet	3
--mxlz Moxcel spreadsheet	3
--nb Mathematica Notebook	3
--numbers Apple iWork Numbers spreadsheet	3
--numbers-tef Numbers iCloud Document	3
--ods OpenOffice Calc	3
--ots OpenOffice Calc template	1
--qpw Quattro Pro Spreadsheet	3
--sdc StarOffice spreadsheet	3
--stc StarOffice spreadsheet	3
--sxc StarOffice spreadsheet	3
--tsv Tab-separated values	4
--wb2 Corel Quattro Pro	2
--wb3 QuattroPro for Windows Spreadsheet	2
--wks MS Works/Lotus 1-2-3	3
--wks1 Works Spreadsheet	4T
--xla Excel/Addin	1
--xlam XLSX Macro-Enabled	3
--xlc Excel Chart	3
--xlk MS Excel backup	2
--xll Excel XLL Add-In	1
--xlm Excel Macro	2
--xlr MS Works spreadsheet	3
--xls MS Excel	4
--xls1 XML Workbook	3
--xlsb Excel Binary Spreadsheet	3
--xlsm MS Excel 2007	4
--xlsx MS Excel 2007	4
--xlt MS Excel template	1
--xltx MS Excel 2007 template	1
--xlw MS Excel 4.0 workbook	3
-*** Docs, Text, Word Processing
--abw AbiWord	4T
--ami Ami Pro	4
--chiw ChiWriter	3
--clpt Macintosh Clipping	3
--dgs Dagesh Document	3
--doc MS Word	4
--doc1 WordPad	3
--doc3 MS Word (MacBinary)	2T
--docm MS Word Document macro-enabled	4
--docx MS Word 2007	4
--dot MS Word template	*
--dotx MS Word 2007 template	*
--dtd Document Type Definition	*
--dvi TeX/LaTeX compiled	3T
--eld EasyLanguage Document	3T
--evy Envoy	3T
--fodp Flat XML	3
--fodt Flat XML	3
--fts Help search index	1
--gul Samsung document	3
--hwp Hangul document	3
--inp InPage document	3T
--jtd Ichitaro document	3
--knt KeyNote Note	3T
--lp2 iLEAP Word Processor	3
--lwp Lotus Word Pro	3
--lyx Lyx document	3T
--mcw Mac Write	3
--mor1 Corel Shared Writing Tools	3T
--odt OpenOffice Writer	4
--opd OmniPage Document	3T
--otp Presentation Template	3
--ott OpenDocument text template	1
--pages Apple iWork Pages	3
--psw Pocket Word	3T
--pwd Pocket Word	3
--pwi Pocket Word	3T
--rft IBM DisplayWrite	3
--rtd Ragtime	4T
--rtf Rich Text	3
--rtt Ragtime	4T
--sam Lotus Ami Pro	3
--scrivx Scrivener	3
--scw Screenwriter Document	3
--sdw StarOffice Writer	3
--sgl StarOffice Writer	3
--sgm Standard Generalized Markup Language Document	3
--snb S Note	4T
--stw StarOffice template	2
--sxg StarWriter global document	4
--sxm StarMath document	3
--sxw StarOffice Writer	4
--tmd TextMaker	4T
--tmv TextMaker	4T
--wbk Word Document Backup	3
--wpa ACT! word processor	4T
--wpd WordPerfect	4
--wps MS Works	4
--wrd Psion serie 3 word	4
--wrdtmp MS Office user identification	2
--wri Windows Write	2
--wsd WordStar	2
 *** E-mail
 -;store.fdb; Kerio Connect	4
 -;winmail.dat; TNEF	3
@@ -2389,6 +2390,7 @@
 -;qbittorrent.exe; qbittorrent	3
 -;Shareaza.exe; Shareaza	3
 -;sharest.exe; Sharest	3
+-;Start PirateBrowser.exe; PirateBrowser	3
 -;tixati.exe; Tixati	3
 -;uTorrent.exe; uTorrent	3
 -bc! BitTorrent unfinished	2
@@ -2452,187 +2454,51 @@
 -wrl VRML World	2
 -x DirectX Model	*
 -z3d ZAM 3D	2
-*** Pictures, Misc Pictures
--accountpicture-ms Account picture	3
--acr Dicom	3
--aic Advanced Image Coding	3
--albm HP Photo Printing Album	3T
--ani animated cursor	1
--appicon VMWare	2
--apx Ability Photopaint Image	3
--art AOL	2
--awd2 Artweaver Document	3
--blp Blizzard Picture	2T
--bmp Bitmap	3
--bmz Compressed Bitmap	3T
--bw Silicon Graphics RGB	2
--cal CALS raster bitmap	2
--cals CALS raster bitmap	2
--cdr Corel Draw	3T
--cdw CeledyDraw image	3T
--cgm Computer Graphics Metafile	2
--ch3 Harvard Graphics Chart	2
--cht2 Harvard Graphics Chart	2
--cin Kodak Cineon	3
--cit Intergraph Format	3
--clpp Macintosh Clipping	3
--cpc CPC Compressed Image	3T
--cpr1 Fotobuch	3
--cpt Corel Photo-Paint	3T
--csh2 Photoshop custom shape	*
--cur Windows cursor	*
--cut Dr. Halo, BPM Studio cue points	2
--cvx Canvas Drawing	2T
--dcm1 DICOM medical imaging bitmap	3T
--dcx Zsoft Multipage	4
--dib Windows device-indep. bitmap	2
--dicomdir DICOM	3
--dpp Serif DrawPlus	3T
--dpx Digital Picture Exchange	3T
--drw1 Micrographix	3
--drw2 CADS Planner	3
--dsf Corel Designer	2T
--ecw Enhanced compression wavelet	3T
--emf Windows enhanced metafile	3
--epp1 Canon Easy-PhotoPrint	4T
--eps Encapsulated PostScript	3T
--exr OpenEXR Image	3T
--fbm Fuzzy Bitmap	3
--fif Fractal Image Format	3
--fig Vector drawing	2T
--fits Flexible Image Transport System	2T
--flc Autodesk Animator	2
--fpx FlashPix Bitmap	3T
--gbr Gimp Brush	1
--gif Graphic Interchange Format	2
--gro Graphic Object Bitmap	3
--gsd Graphtec Vector	3T
--hdr High Dynamic Range Image	3
--hrf Hitachi Raster Format	3
--im1 Sun Raster	2
--im8 Sun Raster	2
--img1 GEM Raster	3T
--ipx IPIX Image	3T
--itc2 iTunes artwork cache	2T
--j2k JPEG 2000	3
--j6i Ricoh digital camera	3T
--jfif JPEG	3
--jls JPEG-LS	3T
--jng JPEG Network Graphics bitmap	2T
--jp2 JPEG 2000	3
--jpc JPEG2000 Code Stream	3
--jpe JPEG	3
--jpeg JPEG	3
--jpeg8bim Apple-embedded	3T
--jpf JPEG 2000	3
--jpg JPEG	3
--jpm JPEG 2000 multi-layer	3T
--jxr JPEG XR	3T
--kdc Kodak DC120	3
--kqp Konica camera file	3
--lep Lepton	4T
--lwf LuraWave	3T
--max1 PaperPort Scanned	4T
--mbm SymbianOS Multi BitMap	2T
--mdd MacDraft drawing	3
--mix Microsoft Picture It!	3T
--mng Mutiple Network Graphics	3T
--mpo Multi Picture Object	3
--msp1 Microsoft Paint	3
--pbm Portable Image	2
--pcd Kodak Photo CD	3T
--pct Macintosh Quickdraw	3
--pcx ZSoft Paintbrush	2
--pdn Paint.NET Image	3T
--pef Pentax	3T
--pfi Photo Filtre Studio	2T
--pfr Picture Frame	2
--pgf Progressive Graphics	3T
--pgm Portable GrayMap graphic	2
--pic Pictor	2T
--pic1 Lotus Picture	2
--pict Macintosh PICT	3
--png Portable Network Graphics	2
--pnm Portable image	2
--ppf Micrografx Picture Publisher	3
--ppm Portable image	2
--pre Lotus Freelance Graphics	3
--prz Freelance graphics	3
--psb Photoshop Large Document	4T
--psd Photoshop drawing	3
--psf PhotoStudio	3T
--psp Paint Shop Pro	3T
--pspimage Paint Shop Pro	3
--pxm Pixelmator	3T
--pxr Pixar picture	2T
--qrt QRT ray tracer	2T
--qtif QuickTime image	3T
--ras Sun raster	2
--rgb Silicon Graphics	2T
--rot Homeworld 2	*
--rwz1 Rawzor Compressed	3T
--sda StarOffice Drawing	3T
--sdr SmartDraw	3T
--sfw Seattle Film Works	2T
--sgi Silicon Graphics	2
--shg Segmented Hyper-Graphic	3T
--sid MrSID Image	3T
--spp PhotoPlus Native Format	3
--srf Sony DSC F828	3
--sun Sun raster	2
--svf Simple Vector Format	3
--svg Scalable Vector Graphics	2T
--svgz Compressed SVG	2T
--svm Starview metafile	2
--tga Truevision Targa	2
--tif Tagged Image Format	3
--tiff Tagged Image Format	3
--udi Corel Graphics Bitmap	1
--ufo PhotoImpact Graphic	2T
--vdx XML for Visio Drawing File	2T
--vic VICAR Image	2T
--vss Visio Stencil	2
--vst Visio Drawing Template	2
--vsx Visio	2
--wb0 Webshots Image	2T
--wb1 Webshots Image	3T
--wbc Webshots Collection	2T
--wbd Webshots Picture	3T
--wbmp Wireless Bitmap	2
--wbz Webshots image	2T
--wdp Windows Media HD Photo	3T
--webp Chrome Weppy	2T
--wic J Wavelet Image	2
--wmf Windows Metafile	2
--wmz Media Player Skin	*
--wpg Corel OLE	2
--wpg1 WordPerfect bitmap	3
--xara Xara X drawing	3
--xbm X11 bitmap	2T
--xcf Gimp bitmap	2T
--xpm X11 Pixmap	2T
--xv VIFF bitmap	3
--yuv YUV 16-bit interleaved	3
--zbr Zoner	2
--zvi Zeiss microscope	3
 *** Pictures, RAW Pictures
 -3fr Hasselblad RAW	3
+-ari Arri_Alexa	3
 -arw Sony RAW	3
+-bay Casio	3
+-cap Phase_One	3
+-cmt Chinon ES-1000	3
 -cr2 Canon EOS	3T
 -crw Canon Powershot	3T
 -dc2 Kodak RAW	3
+-dcr Kodak RAW	3
+-dcs Kodak	3
 -dng digital negative	4
+-drf Kodak	3
+-eip Phase_One	3
+-erf Epson	3
+-fff Imacon/Hasselblad	3
+-hdr High Dynamic Range Image	3
+-iiq Phase_One	3
+-j6i Ricoh digital camera	3T
+-k25 Kodak	3
+-kdc Kodak DC120	3
+-mdc Minolta	3
+-mef Mamiya	3
 -mos Nikon raw	3
 -mrw Minolta DiMAGA raw	3T
 -nef Nikon raw	3
 -nrw Nikon raw	3T
 -orf Olympus raw	3T
+-pef Pentax	3T
+-pmp Sony DSC-F1 Cyber-shot	3
+-ptx Pentax	3
+-pxn Logitech	3
+-r3d RED Digital Cinema	3
 -raf Fuji raw	3T
 -raw LEICA RAW	2T
 -rw2 Panasonic Lumix	3T
 -rwl Leica Raw	3T
+-rwz Rawzor	3
+-sr2 Sony	3
+-srf Sony DSC F828	3
+-srw Samsung	3
 -x3f Sigma RAW	3
 *** Pictures, Thumbnails/Icons
+-411 Mavica thumbnail	3T
 -;bigthumbs_0.db; Picasa	3
 -;ehthumbs.db; eHome	4
 -;ehthumbs_vista.db; MediaCenter	4
@@ -2649,13 +2515,14 @@
 -;thumbindex.db; Picasa	4
 -;thumbs.db; Thumbnail database	4
 -;thumbs480x360.dat; Blackberry	4
--411 Mavica thumbnail	3T
+-ani animated cursor	1
 -bbthumbs BlackBerry	4
 -bc Adobe Bridge Cache	4
 -bct Adobe Bridge Cache	3
 -bigthumbs Picasa2	4
 -cache CoolIris	3
 -cdx ACD Systems	3
+-cur Windows cursor	*
 -data1 iPhoto	3
 -dbc Ashampoo Photo Commander	3
 -dbt Ashampoo Photo Commander	3
@@ -2712,6 +2579,162 @@
 -tof Mr. Photo temporary thumbnail	3
 -xtsf Aperture_Vault	3
 -yos HP Photosmart	3
+*** Pictures, Misc Pictures
+-accountpicture-ms Account picture	3
+-acr Dicom	3
+-aic Advanced Image Coding	3
+-albm HP Photo Printing Album	3T
+-appicon VMWare	2
+-apx Ability Photopaint Image	3
+-art AOL	2
+-awd2 Artweaver Document	3
+-blp Blizzard Picture	2T
+-bmp Bitmap	3
+-bmz Compressed Bitmap	3T
+-bw Silicon Graphics RGB	2
+-cal CALS raster bitmap	2
+-cals CALS raster bitmap	2
+-cdr Corel Draw	3T
+-cdw CeledyDraw image	3T
+-cgm Computer Graphics Metafile	2
+-ch3 Harvard Graphics Chart	2
+-cht2 Harvard Graphics Chart	2
+-cin Kodak Cineon	3
+-cit Intergraph Format	3
+-clpp Macintosh Clipping	3
+-cpc CPC Compressed Image	3T
+-cpr1 Fotobuch	3
+-cpt Corel Photo-Paint	3T
+-csh2 Photoshop custom shape	*
+-cut Dr. Halo, BPM Studio cue points	2
+-cvx Canvas Drawing	2T
+-dcm1 DICOM medical imaging bitmap	3T
+-dcx Zsoft Multipage	4
+-dib Windows device-indep. bitmap	2
+-dicomdir DICOM	3
+-dpp Serif DrawPlus	3T
+-dpx Digital Picture Exchange	3T
+-drw1 Micrographix	3
+-drw2 CADS Planner	3
+-dsf Corel Designer	2T
+-ecw Enhanced compression wavelet	3T
+-emf Windows enhanced metafile	3
+-epp1 Canon Easy-PhotoPrint	4T
+-eps Encapsulated PostScript	3T
+-exr OpenEXR Image	3T
+-fbm Fuzzy Bitmap	3
+-fif Fractal Image Format	3
+-fig Vector drawing	2T
+-fits Flexible Image Transport System	2T
+-flc Autodesk Animator	2
+-fpx FlashPix Bitmap	3T
+-gbr Gimp Brush	1
+-gif Graphic Interchange Format	2
+-gro Graphic Object Bitmap	3
+-gsd Graphtec Vector	3T
+-hrf Hitachi Raster Format	3
+-im1 Sun Raster	2
+-im8 Sun Raster	2
+-img1 GEM Raster	3T
+-ipx IPIX Image	3T
+-itc2 iTunes artwork cache	2T
+-j2k JPEG 2000	3
+-jfif JPEG	3
+-jls JPEG-LS	3T
+-jng JPEG Network Graphics bitmap	2T
+-jp2 JPEG 2000	3
+-jpc JPEG2000 Code Stream	3
+-jpe JPEG	3
+-jpeg JPEG	3
+-jpeg8bim Apple-embedded	3T
+-jpf JPEG 2000	3
+-jpg JPEG	3
+-jpm JPEG 2000 multi-layer	3T
+-jxr JPEG XR	3T
+-kqp Konica camera file	3
+-lep Lepton	4T
+-lwf LuraWave	3T
+-max1 PaperPort Scanned	4T
+-mbm SymbianOS Multi BitMap	2T
+-mdd MacDraft drawing	3
+-mix Microsoft Picture It!	3T
+-mng Mutiple Network Graphics	3T
+-mpo Multi Picture Object	3
+-msp1 Microsoft Paint	3
+-pbm Portable Image	2
+-pcd Kodak Photo CD	3T
+-pct Macintosh Quickdraw	3
+-pcx ZSoft Paintbrush	2
+-pdn Paint.NET Image	3T
+-pfi Photo Filtre Studio	2T
+-pfr Picture Frame	2
+-pgf Progressive Graphics	3T
+-pgm Portable GrayMap graphic	2
+-pic Pictor	2T
+-pic1 Lotus Picture	2
+-pict Macintosh PICT	3
+-png Portable Network Graphics	2
+-pnm Portable image	2
+-ppf Micrografx Picture Publisher	3
+-ppm Portable image	2
+-pre Lotus Freelance Graphics	3
+-prz Freelance graphics	3
+-psb Photoshop Large Document	4T
+-psd Photoshop drawing	3
+-psf PhotoStudio	3T
+-psp Paint Shop Pro	3T
+-pspimage Paint Shop Pro	3
+-pxm Pixelmator	3T
+-pxr Pixar picture	2T
+-qrt QRT ray tracer	2T
+-qtif QuickTime image	3T
+-ras Sun raster	2
+-rgb Silicon Graphics	2T
+-rot Homeworld 2	*
+-rwz1 Rawzor Compressed	3T
+-sda StarOffice Drawing	3T
+-sdr SmartDraw	3T
+-sfw Seattle Film Works	2T
+-sgi Silicon Graphics	2
+-shg Segmented Hyper-Graphic	3T
+-sid MrSID Image	3T
+-spp PhotoPlus Native Format	3
+-sun Sun raster	2
+-svf Simple Vector Format	3
+-svg Scalable Vector Graphics	2T
+-svgz Compressed SVG	2T
+-svm Starview metafile	2
+-tga Truevision Targa	2
+-tif Tagged Image Format	3
+-tiff Tagged Image Format	3
+-udi Corel Graphics Bitmap	1
+-ufo PhotoImpact Graphic	2T
+-vdx XML for Visio Drawing File	2T
+-vic VICAR Image	2T
+-vss Visio Stencil	2
+-vst Visio Drawing Template	2
+-vsx Visio	2
+-wb0 Webshots Image	2T
+-wb1 Webshots Image	3T
+-wbc Webshots Collection	2T
+-wbd Webshots Picture	3T
+-wbmp Wireless Bitmap	2
+-wbz Webshots image	2T
+-wdp Windows Media HD Photo	3T
+-webp Chrome Weppy	2T
+-wic J Wavelet Image	2
+-wmf Windows Metafile	2
+-wmz Media Player Skin	*
+-wpg Corel OLE	2
+-wpg1 WordPerfect bitmap	3
+-xara Xara X drawing	3
+-xbm X11 bitmap	2T
+-xcf Gimp bitmap	2T
+-xpm X11 Pixmap	2T
+-xv VIFF bitmap	3
+-yuv YUV 16-bit interleaved	3
+-zbr Zoner	2
+-zvi Zeiss microscope	3
 *** Programs
 -??_ InstallShield compressed	*
 -a Library	*
@@ -2737,6 +2760,7 @@
 -dll16 16-bit Dynamic-Link Library	*
 -dll2 System DLL	*
 -dll64 64-bit Dynamic-Link Library	*
+-dl_ Compressed DLL	*
 -drv Driver	*
 -dylib Xcode Dynamic Library	*
 -ear Java Enterprise Archive	2
@@ -2750,6 +2774,7 @@
 -exe1 Sony Playstation	1
 -exe16 16-bit executable	*
 -exp2 Symbols Export	1
+-ex_ Compressed EXE	*
 -fas Compiled Fast-Load AutoLISP	2
 -fmx Oracle Executable	2
 -fxp MS Visual FoxPro 7	2
@@ -2816,6 +2841,7 @@
 -sisx Symbian OS program	2
 -so Unix Shared Object library	*
 -sys System driver	1
+-sy_ Compressed sys	*
 -tcl TCL script	1
 -u3p U3 Smart Application	2
 -ui User Interface	*
@@ -2868,6 +2894,7 @@
 -dpr Delphi Project	1
 -dproj Delphi Project	1
 -dsp Visual Studio Project	1
+-dxp CdBurner XP	3
 -fcp Final Cut Project	3
 -flp1 Flash Project	2
 -fmz Form*Z Project	2
@@ -2925,6 +2952,7 @@
 -vsp Corel VideoStudio	2
 -wcp WinDVD Creator Project	2
 -wrk Cakewalk Music Project	2
+-xfc X-Ways Forensics Case	4
 -xise Xilinx ISE Project	2
 -xmpses Premiere Elements	3
 *** Source Code
@@ -3124,7 +3152,6 @@
 -dwp SharePoint Portal Server Dashboard	3
 -dws Dreamweaver Site Cache	3
 -dwt Autodesk Template	1
--dxp CdBurner XP	3
 -e00 ArcInfo	3
 -ebm EXTRA! Basic Macro	3
 -ec3 EPSON Print CD	1
@@ -3695,7 +3722,6 @@
 -devicemetadata-ms device metadata	1
 -diagcab Diagnostic.Cabinet	2
 -diagpkg Diagnostic package	2
--dl_ Compressed DLL	*
 -down_meta Windows Store	3
 -dpb Win8	*
 -dt2 Windows Live Messenger	2
@@ -3708,7 +3734,6 @@
 -etl Event trace log	2
 -evt Event log	4
 -evtx Vista event log	4
--ex_ Compressed EXE	*
 -feed-ms Microsoft rss feeds store	1
 -feedsdb-ms Microsoft rss feeds store	1
 -fnd Windows Explorer saved search	3
@@ -3796,7 +3821,6 @@
 -sqm Software Quality Metrics	1
 -summary Summary information	3
 -swm Windows Imaging	2
--sy_ Compressed sys	*
 -szdd MS SZDD (decompress with expand.exe)	1
 -target target	2
 -targets target	2

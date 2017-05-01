@@ -12,11 +12,11 @@
 *** Disk Image, Burning Software
 *** Docs, Common formats
 *** Docs, eBook
-*** Docs, Misc Documents
 *** Docs, Page Layout
 *** Docs, Plain Text
 *** Docs, Spreadsheet
-*** Docs, Text, Word Processing
+*** Docs, Word Processing
+*** Docs, Misc Documents
 *** E-mail
 *** Fax
 *** Fonts
@@ -33,9 +33,9 @@
 *** Network, Program config/log files
 *** P2P
 *** Pictures, 3D Graphics
-*** Pictures, Misc Pictures
 *** Pictures, RAW Pictures
 *** Pictures, Thumbnails/Icons
+*** Pictures, Misc Pictures
 *** Programs
 *** Projects
 *** Source Code
