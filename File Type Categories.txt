@@ -689,6 +689,7 @@
 -webbookmark Safari	3
 -webhistory Safari	4
 *** Disk Image, Backup/Virtual
+-ad1 Logical image	3
 -adi Active@ Disk Image	3T
 -aff Advanced Forensics Format	3T
 -arc R-Drive image	3
@@ -1671,250 +1672,254 @@
 -;!!! how to decrypt files !!!.txt; Trojan	3
 -;!!! readme for decrypt !!!.txt; MarsJoke	3
 -;!!!!!readme!!!!!.htm; ASN1	3
--;!!!-WARNING-!!!.html; Coverton	3
--;!!!-WARNING-!!!.txt; Coverton	3
--;!!_RECOVERY_instructions_!!.html; Nuke	3
--;!!_RECOVERY_instructions_!!.txt; Nuke	3
+-;!!!-warning-!!!.html; Coverton	3
+-;!!!-warning-!!!.txt; Coverton	3
+-;!!_recovery_instructions_!!.html; Nuke	3
+-;!!_recovery_instructions_!!.txt; Nuke	3
 -;!read__me.txt; Ransomware	3
 -;!satana!.txt; Satana	3
 -;!wannadecryptor!.exe; WannaCryptor	3
--;!Where_are_my_files!.html; CryptoRoger	3
--;!_RECOVERY_HELP_!.txt; Nhtnwcuf	3
--;# !!!HELP_FILE!!! #.txt; Revenge	3
--;# DECRYPT MY FILES #.html; Cerber/Karma	3
--;# DECRYPT MY FILES #.txt; Cerber/Karma	3
--;# DECRYPT MY FILES #.vbs; Cerber	3
--;# HELP_DECRYPT_YOUR_FILES #.TXT; Zeta	3
--;# RESTORING FILES #.HTML; CryptoShield	3
--;# RESTORING FILES #.TXT; CryptoShield	3
--;###-READ-FOR-HELLPP.html; Samas-Samsam	3
--;#_HOW_TO_FIX_!.hta; BTCWare	3
--;000-IF-YOU-WANT-DEC-FILES.html; Samas-Samsam	3
--;000-No-PROBLEM-WE-DEC-FILES.html; Samas-Samsam	3
--;000-PLEASE-READ-WE-HELP.html; Samas-Samsam	3
--;001-READ-FOR-DECRYPT-FILES.html; Samas-Samsam	3
+-;!where_are_my_files!.html; CryptoRoger	3
+-;!_recovery_help_!.txt; Nhtnwcuf	3
+-;# !!!help_file!!! #.txt; Revenge	3
+-;# decrypt my files #.html; Cerber/Karma	3
+-;# decrypt my files #.txt; Cerber/Karma	3
+-;# decrypt my files #.vbs; Cerber	3
+-;# help_decrypt_your_files #.TXT; Zeta	3
+-;# restoring files #.html; CryptoShield	3
+-;# restoring files #.txt; CryptoShield	3
+-;###-read-for-hellpp.html; Samas-Samsam	3
+-;#_how_to_fix_!.hta; BTCWare	3
+-;000-if-you-want-dec-files.html; Samas-Samsam	3
+-;000-no-problem-we-dec-files.html; Samas-Samsam	3
+-;000-please-read-we-help.html; Samas-Samsam	3
+-;001-read-for-decrypt-files.html; Samas-Samsam	3
 -;@__help__@; LanRan	3
+-;aiuto_come_decifrare_file.html; PEC 2017	3
 -;atlas_files.txt; Atlas	3
--;ATTENTION.RTF; NanoLocker	3
--;ATTENTION.url; CryptoShocker	3
--;Beni Oku.txt; Turkish (Fake CTB-Locker)	3
--;BUYUNLOCKCODE.txt; BuyUnlockCode	3
--;CHECK-IT-HELP-FILES.html; Samas-Samsam	3
--;CHIP_FILES.txt; CHIP	3
+-;attention.rtf; NanoLocker	3
+-;attention.url; CryptoShocker	3
+-;beni oku.txt; Turkish (Fake CTB-Locker)	3
+-;buyunlockcode.txt; BuyUnlockCode	3
+-;check-it-help-files.html; Samas-Samsam	3
+-;chip_files.txt; CHIP	3
 -;como_abrir_arquivos.txt; CryptON	3
--;CreatesReadThisFileImportant.txt; MasterBuster	3
+-;createsreadthisfileimportant.txt; MasterBuster	3
 -;crjoker.html; CryptoJoker	3
 -;cryptinfo.txt; DMALocker	3
--;DALE_FILES.TXT; CHIP	3
+-;dale_files.TXT; CHIP	3
 -;decrypt explanations.html; n1n1n1	3
 -;decrypt.txt; Conficker	3
--;Decrypted.txt; Nemucod	3
--;DecryptFile.txt; GOG	3
+-;decrypted.txt; Nemucod	3
+-;decryptfile.txt; GOG	3
 -;decrypting.txt; DMALocker	3
--;Decryption Instructions.txt; Anubis	3
--;DECRYPTION_HOWTO.Notepad; Surprise	3
--;DECRYPT_INFORMATION.html; Hermes/CryptoWall 1/PowerWorm	3
--;DECRYPT_INSTRUCTION.TXT; CryptoWall 1	3
--;DECRYPT_INSTRUCTION.URL; CryptoWall 1	3
--;DECRYPT_INSTRUCTIONS.html; TorrentLocker	3
--;DECRYPT_ReadMe.TXT; Magic	3
--;DECRYPT_ReadMe1.TXT; Magic	3
--;DECRYPT_YOUR_FILES.HTML; Fantom/FSociety/Sanction	3
--;DECRYPT_YOUR_FILES.txt; Fantom/FSociety/Sanction	3
+-;decryption instructions.txt; Anubis	3
+-;decryption_howto.notepad; Surprise	3
+-;decrypt_information.html; Hermes/CryptoWall 1/PowerWorm	3
+-;decrypt_instruction.txt; CryptoWall 1	3
+-;decrypt_instruction.url; CryptoWall 1	3
+-;decrypt_instructions.html; TorrentLocker	3
+-;decrypt_readme.txt; Magic	3
+-;decrypt_readme1.txt; Magic	3
+-;decrypt_your_files.html; Fantom/FSociety/Sanction	3
+-;decrypt_your_files.txt; Fantom/FSociety/Sanction	3
 -;decypt_your_files.html ; RemindMe	3
 -;default32643264.bmp; UmbreCrypt	3
 -;default432643264.jpg; UmbreCrypt	3
--;DESIFROVANI_POKYNY.html; TorrentLocker	3
--;DesktopOSIRIS.bmp; Locky	3
--;DesktopOSIRIS.htm; Locky	3
+-;desifrovani_pokyny.html; TorrentLocker	3
+-;desktoposiris.bmp; Locky	3
+-;desktoposiris.htm; Locky	3
 -;de_crypt_readme.bmp; CryptXXX	3
 -;de_crypt_readme.html; CryptXXX	3
 -;de_crypt_readme.txt; CryptXXX	3
--;Digisom Readme0.txt; Digisom	3
+-;digisom readme0.txt; Digisom	3
 -;enigma.hta; Enigma	3
 -;enigma_encr.txt; Enigma	3
 -;enigma_info.txt; Enigma	3
--;ENTSCHLUSSELN_HINWEISE.html; TorrentLocker	3
--;File Decrypt Help.html; PadCrypt	3
--;Files encrypted.txt; UnblockUPC	3
--;FILES_BACK.txt; 7ev3n	3
+-;entschlusseln_hinweise.html; TorrentLocker	3
+-;file decrypt help.html; PadCrypt	3
+-;files encrypted.txt; UnblockUPC	3
+-;files_back.txt; 7ev3n	3
 -;fs0ciety.html; FSociety	3
 -;fud.bmp; Rakhni	3
--;GetYouFiles.txt; CryptoJoker	3
--;Hellothere.txt; Ungluk	3
--;Help Decrypt.html; BadBlock	3
--;Help to decrypt.txt; FenixLocker	3
+-;getyoufiles.txt; CryptoJoker	3
+-;hellothere.txt; Ungluk	3
+-;help decrypt.html; BadBlock	3
+-;help to decrypt.txt; FenixLocker	3
 -;help-file-decrypt.enc; Fonco	3
--;HELP-ME-ENCED-FILES.html; Samas-Samsam	3
+-;help-me-enced-files.html; Samas-Samsam	3
 -;help_dcfile.txt; Help_dcfile	3
--;HELP_DECRYPT.HTML; CryptoWall 2/3	3
--;HELP_DECRYPT.PNG; CryptoWall 2/3	3
--;HELP_DECRYPT.TXT; CryptoWall 2/3	3
--;HELP_DECRYPT.URL; CryptoWall 2/3	3
--;HELP_DECRYPT_FILES.html; Satan	3
--;HELP_DECRYPT_YOUR_FILES.html; Samas-Samsam	3
--;HELP_ME_PLEASE.txt; Nhtnwcuf	3
--;HELP_TO_SAVE_FILES.txt; TeslaCrypt 0.x - 2.2.0	3
--;HELP_YOUR_FILES.HTML; CryptoWall 4/(CryptXXX)	3
--;HELP_YOUR_FILES.PNG; CryptoWall 4	3
--;HELP_YOUR_FILES.txt; Demo/(CryptoWall 3.0, 4.0)	3
--;How decrypt files.hta; CryptConsole	3
--;How Decrypt Files.txt; KawaiiLocker	3
--;HOW TO DECODE FILES!!!.txt; DoNotChange	3
--;HOW TO DECRYPT FILES.html; CryptON	3
--;HOW TO DECRYPT FILES.txt; CryptoWall 1/Xorist	3
--;HOW TO DECRYPT YOU FILES.txt; OzozaLocker	3
--;How to decrypt your data.txt; Virus-Encoder	3
--;How to decrypt your files.txt; AiraCrop	3
--;HOW TO DECRYPT.txt; Bandarchor	3
+-;help_decrypt.html; CryptoWall 2/3	3
+-;help_decrypt.png; CryptoWall 2/3	3
+-;help_decrypt.txt; CryptoWall 2/3	3
+-;help_decrypt.url; CryptoWall 2/3	3
+-;help_decrypt_files.html; Satan	3
+-;help_decrypt_your_files.html; Samas-Samsam	3
+-;help_me_please.txt; Nhtnwcuf	3
+-;help_to_save_files.txt; TeslaCrypt 0.x - 2.2.0	3
+-;help_your_files.html; CryptoWall 4/(CryptXXX)	3
+-;help_your_files.png; CryptoWall 4	3
+-;help_your_files.txt; Demo/(CryptoWall 3.0, 4.0)	3
+-;how decrypt files.hta; CryptConsole	3
+-;how decrypt files.txt; KawaiiLocker	3
+-;how to decode files!!!.txt; DoNotChange	3
+-;how to decrypt files.html; CryptON	3
+-;how to decrypt files.txt; CryptoWall 1/Xorist	3
+-;how to decrypt you files.txt; OzozaLocker	3
+-;how to decrypt your data.txt; Virus-Encoder	3
+-;how to decrypt your files.txt; AiraCrop	3
+-;how to decrypt.txt; Bandarchor	3
 -;how to get data.txt; OMG! Ransomware	3
--;How to recover.enc; encryptoJJS	3
--;How to restore files.hta; Globe v1	3
--;Howto_RESTORE_FILES.html; TeslaCrypt 0.x - 2.2.0	3
+-;how to recover.enc; encryptoJJS	3
+-;how to restore files.hta; Globe v1	3
+-;howto_restore_files.html; TeslaCrypt 0.x - 2.2.0	3
 -;how_decrypt.gif; KEYHolder	3
--;HOW_DECRYPT.HTML; CryptoDefense	3
+-;how_decrypt.html; CryptoDefense	3
 -;how_decrypt.html; KEYHolder	3
--;HOW_DECRYPT.TXT; CryptoDefense	3
--;HOW_DECRYPT.URL; CryptoDefense	3
--;HOW_OPEN_FILES.hta; FakeGlobe	3
--;HOW_OPEN_FILES.html; Brazilian Globe	3
+-;how_decrypt.txt; CryptoDefense	3
+-;how_decrypt.url; CryptoDefense	3
+-;how_open_files.hta; FakeGlobe	3
+-;how_open_files.html; Brazilian Globe	3
+-;how_return_files.txt; RSAUtil	3
 -;how_to_back_files.html; Globe	3
--;HOW_TO_FIX_!.txt; Crptxxx	3
+-;how_to_fix_!.txt; Crptxxx	3
 -;how_to_recover_files.html; GlobeImposter 2.0	3
--;HOW_TO_RESTORE_FILES.html; TorrentLocker	3
--;HOW_TO_RESTORE_FILES.txt; ODCODC	3
--;IF_WANT_FILES_BACK_PLS_READ.html; Samas-Samsam	3
--;IMPORTANT READ ME.txt; PadCrypt	3
--;Important!.txt; Phoenix	3
--;IMPORTANT.README; Mobef	3
--;Important_Read_Me.html; JagerDecryptor	3
--;Info.hta; Dharma	3
--;INSTALL_TOR.URL; CryptoWall 1	3
--;INSTRUCCIONES.txt; Kasiski	3
--;INSTRUCCIONES_DESCIFRADO.html; TorrentLocker	3
--;INSTRUCTION RESTORE FILE.TXT; CryptoMix	3
--;Instructionaga.txt; CryFile	3
--;Instructions.html; Encoder.xxxx	3
--;INSTRUCTIONS_DE_DECRYPTAGE.html; TorrentLocker	3
--;ISTRUZIONI_DECRITTAZIONE.html; TorrentLocker	3
--;KryptoLocker_README.txt; KryptoLocker	3
--;LEAME.txt; LLTP Locker	3
--;LEER_INMEDIATAMENTE.txt; CryptoShadow	3
--;LET-ME-TRY-DEC-FILES.html; Samas-Samsam	3
+-;how_to_restore_files.html; TorrentLocker	3
+-;how_to_restore_files.txt; ODCODC	3
+-;if_want_files_back_pls_read.html; Samas-Samsam	3
+-;important read me.txt; PadCrypt	3
+-;important!.txt; Phoenix	3
+-;important.readme; Mobef	3
+-;important_read_me.html; JagerDecryptor	3
+-;info.hta; Dharma	3
+-;install_tor.url; CryptoWall 1	3
+-;instrucciones.txt; Kasiski	3
+-;instrucciones_descifrado.html; TorrentLocker	3
+-;instruction restore file.txt; CryptoMix	3
+-;instructionaga.txt; CryFile	3
+-;instructions.html; Encoder.xxxx	3
+-;instructions_de_decryptage.html; TorrentLocker	3
+-;istruzioni_decrittazione.html; TorrentLocker	3
+-;kryptolocker_readme.txt; KryptoLocker	3
+-;leame.txt; LLTP Locker	3
+-;leer_inmediatamente.txt; CryptoShadow	3
+-;let-me-try-dec-files.html; Samas-Samsam	3
 -;locked.bmp; El-Polocker	3
 -;locked.zip; NotAHero	3
 -;maxcrypt.bmp; Rakhni	3
--;MENSAGEM.txt; Brazilian	3
--;MERRY_I_LOVE_YOU_BRUCE.HTA; Merry X-Mas!	3
--;More.html; BadEncript	3
+-;mensagem.txt; Brazilian	3
+-;merry_i_love_you_bruce.hta; Merry X-Mas!	3
+-;more.html; BadEncript	3
 -;motd.txt; MOTD	3
 -;nomoreransom_note_original.txt; Troldesh	3
--;OKSOWATHAPPENDTOYOURFILES.TXT; CryptoBit	3
--;ONTSLEUTELINGS_INSTRUCTIES.html; TorrentLocker	3
+-;oksowathappendtoyourfiles.txt; CryptoBit	3
+-;ontsleutelings_instructies.html; TorrentLocker	3
 -;paycrypt.bmp; Rakhni	3
 -;payment-instructions.txt; Lockout	3
--;Payment_Instructions.jpg; TowerWeb	3
--;PLEASE-READIT-IF_YOU-WANT.html; SamSam	3
+-;payment_instructions.jpg; TowerWeb	3
+-;please-readit-if_you-want.html; SamSam	3
 -;qwer.html; El-Polocker	3
 -;qwer2.html; El-Polocker	3
 -;ransomed.html; Alcatraz Locker	3
--;Ransomware.txt; R	3
--;RANSOM_NOTE.txt; Kirk/Lick	3
--;RarVault.htm; RarVault	3
--;Read Me (How Decrypt) !!!!.txt; Alpha Ransomware	3
--;READ ME ABOUT DECRYPTION.txt; Pr0tector	3
--;READ ME FOR DECRYPT.txt; Fakben	3
+-;ransomware.txt; R	3
+-;ransom_note.txt; Kirk/Lick	3
+-;rarvault.htm; RarVault	3
+-;read me (how decrypt) !!!!.txt; Alpha Ransomware	3
+-;read me about decryption.txt; Pr0tector	3
+-;read me for decrypt.txt; Fakben	3
 -;read to unlock files.salsa.html; Salsa222	3
--;READ-READ-READ.html; Samas-Samsam	3
--;README!!!.txt; CryptoJoker	3
--;README!.txt; Patcher	3
--;ReadMe-XXX.html; Unlock26	3
--;README.png; Potato	3
--;ReadMeFilesDecrypt!!!.txt; MarsJoke	3
--;README_.TXT; 7h9r	3
--;README_ALL.html; KratosCrypt	3
--;README_FOR_DECRYPT.txt; CryPy	3
--;README_HOW_TO_UNLOCK.HTML; Rokku	3
--;README_HOW_TO_UNLOCK.TXT; SADStory	3
+-;read-read-read.html; Samas-Samsam	3
+-;readme!!!.txt; CryptoJoker	3
+-;readme!.txt; Patcher	3
+-;readme-xxx.html; Unlock26	3
+-;readme.png; Potato	3
+-;readmefilesdecrypt!!!.txt; MarsJoke	3
+-;readme_.txt; 7h9r	3
+-;readme_all.html; KratosCrypt	3
+-;readme_for_decrypt.txt; CryPy	3
+-;readme_how_to_unlock.html; Rokku	3
+-;readme_how_to_unlock.txt; SADStory	3
 -;readme_to_decrypt_files.html; ransom	3
--;README_TO_RECURE_YOUR_FILES.txt; Domino	3
+-;readme_to_recure_your_files.txt; Domino	3
 -;readme_to_restore_files.txt; Serp	3
--;READTHISNOW!!!.txt; Ungluk	3
--;READ_ME_!.txt; Unlock92	3
--;READ_ME_TO_DECRYPT.txt; Pickles	3
--;READ_READ_DEC_FILES.html; Samas-Samsam	3
+-;readme_xxx.txt; Ransomware	3
+-;readthisnow!!!.txt; Ungluk	3
+-;read_me_!.txt; Unlock92	3
+-;read_me_to_decrypt.txt; Pickles	3
+-;read_read_dec_files.html; Samas-Samsam	3
 -;read_this_file.txt; 777	3
--;READ_THIS_TO_DECRYPT.html; Crypren	3
+-;read_this_to_decrypt.html; Crypren	3
 -;recover.bmp; Bart	3
 -;recover.txt; Bart	3
--;RESTORE_ALL_DATA.html; Sanctions	3
--;RESTORE_CORUPTED_FILES.HTML; Locked-In	3
+-;restore_all_data.html; Sanctions	3
+-;restore_corupted_files.html; Locked-In	3
+-;restore_files.html; Ransomware	3
 -;restore_your_files.html; Popcorn Time	3
--;RESTORE_YOUR_FILES.txt; MSN CryptoLocker/Popcorn Time	3
+-;restore_your_files.txt; MSN CryptoLocker/Popcorn Time	3
 -;rtext.txt; R980	3
--;SADStory_README_FOR_DECRYPT.txt; SADStory	3
--;SHTODELATVAM.txt; CryFile	3
--;SIFRE_COZME_TALIMATI.html; TorrentLocker	3
+-;sadstory_readme_for_decrypt.txt; SADStory	3
+-;shtodelatvam.txt; CryFile	3
+-;sifre_cozme_talimati.html; TorrentLocker	3
 -;start.txt; DMALocker	3
 -;strongcrypt.bmp; Rakhni	3
--;ThxForYurTyme.txt; Survey	3
+-;thxforyurtyme.txt; Survey	3
 -;tox.html; Toxcrypt	3
 -;trun.txt; VaultCrypt	3
--;TRY-READ-ME-TO-DEC.html; Samas-Samsam	3
--;UNIQUE_ID_DO_NOT_REMOVE; Hermes	3
+-;try-read-me-to-dec.html; Samas-Samsam	3
+-;unique_id_do_not_remove; Hermes	3
 -;unlock-everybody.txt; DeriaLock	3
--;UNLOCK_FILES_INSTRUCTIONS.html; GNL Locker	3
--;UNLOCK_FILES_INSTRUCTIONS.txt; GNL Locker	3
--;Unlock_files_randomx5.html; Alma Ransomware	3
--;VAULT.txt; VaultCrypt	3
--;VictemKey_0_5; RanRan	3
--;VictemKey_100_300; RanRan	3
--;VictemKey_2000_3000; RanRan	3
--;VictemKey_3000; RanRan	3
--;VictemKey_300_700; RanRan	3
--;VictemKey_30_100; RanRan	3
--;VictemKey_5_30; RanRan	3
--;VictemKey_700_2000; RanRan	3
+-;unlock_files_instructions.html; GNL Locker	3
+-;unlock_files_instructions.txt; GNL Locker	3
+-;unlock_files_randomx5.html; Alma Ransomware	3
+-;vault.txt; VaultCrypt	3
+-;victemkey_0_5; RanRan	3
+-;victemkey_100_300; RanRan	3
+-;victemkey_2000_3000; RanRan	3
+-;victemkey_3000; RanRan	3
+-;victemkey_300_700; RanRan	3
+-;victemkey_30_100; RanRan	3
+-;victemkey_5_30; RanRan	3
+-;victemkey_700_2000; RanRan	3
 -;w.jpg; Kozy.Jozy	3
--;Warning警告.html; CloudSword	3
--;WE-MUST-DEC-FILES.html; Samas-Samsam	3
--;What happen to my files.txt; Trump Locker	3
--;WHERE-YOUR-FILES.html; Samas-Samsam	3
+-;warning警告.html; CloudSword	3
+-;we-must-dec-files.html; Samas-Samsam	3
+-;what happen to my files.txt; Trump Locker	3
+-;where-your-files.html; Samas-Samsam	3
 -;where_are_your_files.txt; Meteoritan	3
--;Where_my_files.txt; Apocalypse	3
+-;where_my_files.txt; Apocalypse	3
 -;winclwp.jpg; PClock	3
--;Xhelp.jpg; XCrypt	3
+-;xhelp.jpg; XCrypt	3
 -;xort.txt; VaultCrypt	3
--;YOUGOTHACKED.TXT; Ungluk	3
--;YOUR FILES ARE ENCRYPTED!.txt; Winnix Cryptor	3
--;Your files are locked !!!!.txt; PClock	3
--;Your files are locked !!!.txt; PClock	3
--;Your files are locked !!.txt; PClock	3
--;Your files are locked !.txt; PClock	3
--;YourID.txt; BlackShades Crypter	3
--;YOUR_FILES.url; Radamant	3
--;YOUR_FILES_ARE_DEAD.HTA; Merry X-Mas!	3
--;YOUR_FILES_ARE_ENCRYPTED.HTML; Chimera	3
--;YOUR_FILES_ARE_ENCRYPTED.TXT; Chimera/Petya/Mischa	3
--;YOUR_FILES_ARE_LOCKED.txt; .CryptoHasYou.	3
--;ZINO_NOTE.TXT; ZinoCrypt	3
--;zXz.html; RanRan	3
--;_HELP_instructions.bmp; Locky	3
--;_HELP_instructions.txt; Locky	3
--;_HELP_Recover_Files_.html; Marlboro	3
--;_HELP_YOUR_FILES.html; Kraken	3
--;_HOWDO_text.html; Locky	3
--;_HOW_TO_Decrypt.bmp; Smrss32	3
--;_INSTRUCTION.html; Locky	3
+-;yougothacked.txt; Ungluk	3
+-;your files are encrypted!.txt; Winnix cryptor	3
+-;your files are locked !!!!.txt; PClock	3
+-;your files are locked !!!.txt; PClock	3
+-;your files are locked !!.txt; PClock	3
+-;your files are locked !.txt; PClock	3
+-;yourid.txt; blackshades crypter	3
+-;your_files.url; Radamant	3
+-;your_files_are_dead.hta; Merry X-Mas!	3
+-;your_files_are_encrypted.html; Chimera	3
+-;your_files_are_encrypted.txt; Chimera/Petya/Mischa	3
+-;your_files_are_locked.txt; .CryptoHasYou.	3
+-;zino_note.txt; ZinoCrypt	3
+-;zxz.html; RanRan	3
+-;_help_instructions.bmp; Locky	3
+-;_help_instructions.txt; Locky	3
+-;_help_recover_files_.html; Marlboro	3
+-;_help_your_files.html; Kraken	3
+-;_howdo_text.html; Locky	3
+-;_how_to_decrypt.bmp; Smrss32	3
+-;_instruction.html; Locky	3
 -;_Locky_recover_instructions.bmp; Locky	3
 -;_locky_recover_instructions.txt; Hucky	3
--;_Locky_recover_instructions.txt; Locky	3
--;_RECOVER_INSTRUCTIONS.ini; Simple_Encoder	3
--;_WHAT_is.html; Locky	3
+-;_locky_recover_instructions.txt; Locky	3
+-;_recover_instructions.ini; Simple_Encoder	3
+-;_what_is.html; Locky	3
 -0x0 Ungluk	3
 -1999 Ungluk	3
 -1txt Enigma	3
--73i87A Xorist	3
+-73i87a Xorist	3
 -777 777	3
 -7h9r 7h9r	3
 -8lock8 8lock8	3
@@ -1926,16 +1931,17 @@
 -adr BaksoCrypt	3
 -aes Vortex	3
 -aes-ni AES-NI	3
--AES256 Rakhni	3
+-aes256 Rakhni	3
 -aesir Locky	3
 -aes_ni_0day AES-NI	3
--AFD Jigsaw	3
+-afd Jigsaw	3
 -aga CryFile	3
--Alcatraz Alcatraz Locker	3
+-alcatraz Alcatraz Locker	3
 -amba AMBA	3
 -android AnDROid	3
 -angelamerkel Angela Merkel	3
--AngleWare AngleWare	3
+-angleware AngleWare	3
+-anon FuckTheSystem	3
 -antihacker2017 Xorist	3
 -ap19 MarsJoke	3
 -atlas Atlas	3
@@ -1957,12 +1963,12 @@
 -btcware BTCWare	3
 -cancer Cancer	3
 -cbf Offline ransomware	3
--CCCRRRPPP Unlock92	3
+-cccrrrppp Unlock92	3
 -cerber Cerber	3
 -cerber2 Cerber	3
 -cerber3 Cerber	3
 -chifrator@qq_com Rakhni	3
--CHIP CHIP	3
+-chip CHIP	3
 -cifgksaffsfyghd Samas-Samsam	3
 -clf BitCryptor/CoinVault/CryptoGraphic Locker	3
 -code CryptoMix/Zeta	3
@@ -1980,7 +1986,7 @@
 -crjoker CryptoJoker	3
 -crptrgr CryptoRoger	3
 -crptxxx Crptxxx	3
--CRRRT Unlock92	3
+-crrrt Unlock92	3
 -cry CryLocker/CryPy/Hi Buddy!/Rakhni	3
 -cryp1 CryptXXX 3.X	3
 -crypt38 Crypt38	3
@@ -1989,17 +1995,18 @@
 -crypto Rakhni/Zimbra	3
 -cryptobyte BTCWare	3
 -cryptolocker FakeCryptoLocker	3
--CRYPTOSHIEL CryptoMix	3
--CRYPTOSHIELD CryptoMix/CryptoShield	3
--CryptoTorLocker2015! CryptoTorLocker2015	3
+-cryptoshiel CryptoMix	3
+-cryptoshield CryptoMix/CryptoShield	3
+-cryptotorlocker2015! CryptoTorLocker2015	3
+-cryptowin BTCware	3
 -cryptz CryptXXX 3.0	3
 -crypz CryptXXX 3.0	3
--CrySiS Virus-Encoder	3
+-crysis Virus-Encoder	3
 -cry_ Paysafecard Generator 2016	3
 -ctbl CTB-Locker	3
 -czvxce Coverton	3
 -d4nk PyL33T	3
--DALE CHIP	3
+-dale CHIP	3
 -damage Damage	3
 -darkness Rakhni	3
 -da_vinci_code Troldesh	3
@@ -2010,17 +2017,17 @@
 -devil CryptoDevil	3
 -dexter Troldesh	3
 -dharma Dharma	3
--DHARMA Virus-Encoder	3
+-dharma Virus-Encoder	3
 -disappeared Al-Namrood	3
 -domino Domino	3
 -doomed CryptoShadow	3
--Do_not_change_the_filename DoNotChange	3
+-do_not_change_the_filename DoNotChange	3
 -dxxd DXXD	3
 -dyatel@qq_com Rakhni	3
 -ecc TeslaCrypt 0.x - 2.2.0	3
 -edgel EdgeLocker	3
 -encedRSA Samas-Samsam	3
--EnCiPhErEd Xorist	3
+-enciphered Xorist	3
 -encmywork Samas-Samsam	3
 -encoderpass Xorist	3
 -encr FileLocker	3
@@ -2037,10 +2044,11 @@
 -exotic Exotic	3
 -exx TeslaCrypt 0.x - 2.2.0	3
 -ezz TeslaCrypt 0.x - 2.2.0	3
--FailedAccess FailedAccess	3
+-failedaccess FailedAccess	3
 -fantom Fantom	3
+-fartplz fartplz	3
 -fear Razy	3
--FenixIloveyou!! FenixLocker	3
+-fenixiloveyou!! FenixLocker	3
 -file0locked Evil	3
 -filegofprencrp SamSam	3
 -fileiscryptedhard Xorist	3
@@ -2050,7 +2058,7 @@
 -fs0ciety FSociety	3
 -fuck MireWare	3
 -fucked DNRansomware/EnkripsiPC/MireWare	3
--FuckYourData Apocalypse	3
+-fuckyourdata Apocalypse	3
 -fun Jigsaw	3
 -gefickt Jigsaw	3
 -getrekt Jigwaw	3
@@ -2058,10 +2066,11 @@
 -grt Karmen	3
 -gruzin@qq_com Rakhni	3
 -gws Jigsaw	3
--H3LL Ungluk	3
+-h3ll Ungluk	3
 -ha3 El-Polocker	3
 -hannah Cockblocker	3
 -happydayzz Happydayzz	3
+-haters Haters	3
 -hb15 Rakhni	3
 -helpdecrypt@ukr.net Rakhni	3
 -helpmeencedfiles Samas-Samsam	3
@@ -2088,45 +2097,48 @@
 -jeepers JeepersCrypt	3
 -justbtcwillhelpyou Samas-Samsam	3
 -karma Karma	3
+-keepcalm keepcalm	3
 -kencf Kaandsona	3
--KEYH0LES Mobef	3
--KEYZ Mobef	3
+-keyh0les Mobef	3
+-keyz Mobef	3
 -killedXXX Jhon Woddy	3
 -kimcilware KimcilWare	3
--Kirked Kirk	3
+-kirked Kirk	3
 -kkk Jigsaw	3
 -korrektor Rector	3
 -kostya Kostya	3
 -kr3 KRider	3
 -kraken Kraken/Rakhni	3
 -kratos KratosCrypt	3
--L0CKED GOG/ShellLocker	3
+-l0cked GOG/ShellLocker	3
 -lambda.locked AlphaE	3
 -lambda_l0cked LambdaLocker	3
--LeChiffre LeChiffre	3
+-lechiffre LeChiffre	3
 -lesli CryptoMix	3
 -letmetrydecfiles Samas-Samsam	3
--Licked Lick	3
+-licked Lick	3
 -lock Brazilian	3
 -lock75 Fluffy-TAR	3
 -lock93 Lock93	3
 -locked ApocalypseVM/CryptoShocker/Death Bitches/etc.	3
--Locked-by-Mafia Depsex	3
+-locked-by-mafia Depsex	3
+-lockify HiddenTear	3
 -locklock LockLock	3
 -lockout Lockout	3
 -locky AutoLocky/Hucky/Locky	3
--LOL! OMG! Ransomware	3
+-lol! OMG! Ransomware	3
 -lovewindows Globe v2	3
 -madebyadam Free-Freedom	3
 -magic Magic	3
 -maktub NMoreira	3
--MERRY Merry X-Mas!	3
+-merry Merry X-Mas!	3
 -micro TeslaCrypt 3.0+	3
+-mikoyan MIKOYAN	3
 -mole Ransomware	3
--MRCR1 Merry X-Mas!	3
+-mrcr1 Merry X-Mas!	3
 -nalog@qq_com Rakhni	3
 -nemo-hacks.at.sigaint.org Jigsaw	3
--NM4 NM4	3
+-nm4 NM4	3
 -nochance Rakhni	3
 -noproblemwedecfiles Samas-Samsam	3
 -notfoundrans Samas-Samsam	3
@@ -2136,7 +2148,7 @@
 -numberdot AngryKite	3
 -odcodc ODCODC	3
 -odin Locky	3
--OMG! OMG! Ransomware	3
+-omg! OMG! Ransomware	3
 -onion Dharma	3
 -only-we_can-help_you Samas-Samsam	3
 -oops Marlboro	3
@@ -2154,11 +2166,12 @@
 -payransom Jigsaw	3
 -payrmts Hacked	3
 -paytounlock Jigsaw	3
--PEGS1 Merry X-Mas!	3
+-pec PEC 2017	3
+-pegs1 Merry X-Mas!	3
 -perl Bart	3
 -pizda@qq_com Rakhni	3
 -pizdec GlobeImposter 2.0	3
--PoAr2w Xorist	3
+-poar2w Xorist	3
 -porno Jigsaw	3
 -potato Potato	3
 -powerfulldecrypt Samas-Samsam	3
@@ -2166,28 +2179,28 @@
 -pre_alpha Ransomware	3
 -psh PshCrypt	3
 -purge Globe v1	3
--R.i.P Phoenix	3
--R4A 7ev3n	3
--R5A 7ev3n	3
--RAD Radamant	3
--RADAMANT Radamant	3
+-r.i.p Phoenix	3
+-r4a 7ev3n	3
+-r5a 7ev3n	3
+-rad Radamant	3
+-radamant Radamant	3
 -ransom ransom	3
--RARE1 Merry X-Mas!	3
+-rare1 Merry X-Mas!	3
 -razy Razy	3
--RDM Radamant	3
+-rdm Radamant	3
 -rdmk CryptoMix	3
 -rekt RektLocker	3
 -relock@qq_com Rakhni	3
 -remind RemindMe	3
--REVENGE Revenge	3
+-revenge Revenge	3
 -rip KillerLocker	3
--RMCM1 Merry X-Mas!	3
+-rmcm1 Merry X-Mas!	3
 -rmd CryptoMix/Zeta	3
 -rnsmwr Gremit	3
 -rokku Rokku	3
--RRK Radamant	3
--RSNSlocked SNSLocker	3
--RSplited SNSLocker	3
+-rrk Radamant	3
+-rsnslocked SNSLocker	3
+-rsplited SNSLocker	3
 -sad SADStory	3
 -sage Sage 2.X	3
 -salsa222 Salsa222	3
@@ -2200,13 +2213,13 @@
 -shino ShinoLocker	3
 -shit Locky	3
 -sifreli Turkish	3
--Silent BlackShades Crypter	3
+-silent BlackShades Crypter	3
 -sport Sport	3
 -stn Satan	3
 -surprise Surprise	3
 -szf SZFLocker	3
--TheTrumpLockerf Trump Locker	3
--TheTrumpLockerfp Trump Locker	3
+-thetrumplockerf Trump Locker	3
+-thetrumplockerfp Trump Locker	3
 -theworldisyours Samas-Samsam	3
 -thor Locky	3
 -toxcrypt Toxcrypt	3
@@ -2220,10 +2233,10 @@
 -vault VaultCrypt/Zlader/Russian	3
 -vbransom VBRANSOM 7	3
 -velikasrbija SerbRansom	3
--Venusf VenusLocker	3
--Venusp VenusLocker	3
+-venusf VenusLocker	3
+-venusp VenusLocker	3
 -versiegelt Hacked	3
--VforVendetta Samas-Samsam	3
+-vforvendetta Samas-Samsam	3
 -vindows Vindows Locker	3
 -vscrypt Rector	3
 -vvv TeslaCrypt 0.x - 2.2.0	3
@@ -2233,7 +2246,7 @@
 -weareyourfriends Samas-Samsam	3
 -weencedufiles Samas-Samsam	3
 -wflx WildFire Locker	3
--Whereisyourfiles Samas-Samsam	3
+-whereisyourfiles Samas-Samsam	3
 -windows10 Troldesh	3
 -wnx Winnix Cryptor	3
 -xcri TeleCrypt	3
@@ -2243,7 +2256,7 @@
 -xxx TeslaCrypt 3.0+/Help_dcfile	3
 -xyz Jigsaw/TeslaCrypt 0.x - 2.2.0	3
 -yourransom YourRansom	3
--Z81928819 GhostCrypt	3
+-z81928819 GhostCrypt	3
 -zc3791 Xorist	3
 -zcrypt Zcrypt	3
 -zepto Locky	3
@@ -2254,10 +2267,10 @@
 -zyklon Zyklon	3
 -zzz TeslaCrypt 0.x - 2.2.0	3
 -zzzzz Dharma/Locky	3
--_AiraCropEncrypted AiraCrop	3
--__AiraCropEncrypted! NMoreira	3
+-_airacropencrypted AiraCrop	3
+-__airacropencrypted! NMoreira	3
 -___xratteamLucked TeamXrat	3
--{CRYPTENDBLACKDC} Cryaki	3
+-{cryptendblackdc} Cryaki	3
 *** Memory
 -;hiberfil.sys; Win Hibernation	5
 -;pagefile.sys; Win Swap file	3
