@@ -1694,6 +1694,7 @@
 -;000-no-problem-we-dec-files.html; Samas-Samsam	3
 -;000-please-read-we-help.html; Samas-Samsam	3
 -;001-read-for-decrypt-files.html; Samas-Samsam	3
+-;@please_read_me@.txt;	WannaCry	3
 -;@__help__@; LanRan	3
 -;aiuto_come_decifrare_file.html; PEC 2017	3
 -;atlas_files.txt; Atlas	3
@@ -1849,6 +1850,7 @@
 -;read_read_dec_files.html; Samas-Samsam	3
 -;read_this_file.txt; 777	3
 -;read_this_to_decrypt.html; Crypren	3
+-;recover-files.html; Ransomware	3
 -;recover.bmp; Bart	3
 -;recover.txt; Bart	3
 -;restore_all_data.html; Sanctions	3
@@ -1916,6 +1918,7 @@
 -;_locky_recover_instructions.txt; Locky	3
 -;_recover_instructions.ini; Simple_Encoder	3
 -;_what_is.html; Locky	3
+-01 Ransomware	3
 -0x0 Ungluk	3
 -1999 Ungluk	3
 -1txt Enigma	3
@@ -1950,6 +1953,7 @@
 -bart Bart	3
 -bart.zip Bart	3
 -better_call_saul Troldesh	3
+-bitkangoroo BitKangoroo	3
 -bitstak BitStak	3
 -bleepYourFiles Apocalypse	3
 -bloc Rector	3
@@ -1975,6 +1979,7 @@
 -coded Anubis	3
 -comrade Fantom	3
 -conficker Conficker	3
+-corrupted CRYPTO-BLOCKER	3
 -coverton Coverton	3
 -crashed RemindMe	3
 -crime iLock/iLockLight/Lortok	3
@@ -2003,6 +2008,7 @@
 -crypz CryptXXX 3.0	3
 -crysis Virus-Encoder	3
 -cry_ Paysafecard Generator 2016	3
+-ctb-locker Amnesia	3
 -ctbl CTB-Locker	3
 -czvxce Coverton	3
 -d4nk PyL33T	3
@@ -2091,6 +2097,7 @@
 -id-_steaveiwalker@india.com_ CryptON	3
 -id-_tom.cruz@india.com_ CryptON	3
 -id-_x3m CryptON	3
+-imsorry imsorry	3
 -infected Rector	3
 -isis EduCrypt	3
 -iwanthelpuuu Samas-Samsam	3
@@ -2127,10 +2134,12 @@
 -lockout Lockout	3
 -locky AutoLocky/Hucky/Locky	3
 -lol! OMG! Ransomware	3
+-loptr Loptr	3
 -lovewindows Globe v2	3
 -madebyadam Free-Freedom	3
 -magic Magic	3
 -maktub NMoreira	3
+-medal GlobeImposter	3
 -merry Merry X-Mas!	3
 -micro TeslaCrypt 3.0+	3
 -mikoyan MIKOYAN	3
@@ -2151,6 +2160,7 @@
 -omg! OMG! Ransomware	3
 -onion Dharma	3
 -only-we_can-help_you Samas-Samsam	3
+-onyon OnyonLock	3
 -oops Marlboro	3
 -openforyou@india.com Globe v2	3
 -oplata@qq_com Rakhni	3
@@ -2159,6 +2169,7 @@
 -otherinformation Samas-Samsam	3
 -p5tkjw Xorist	3
 -padcrypt PadCrypt	3
+-pay Ransomware	3
 -paybtcs Jigsaw	3
 -payfordecrypt Globe	3
 -payms Jigsaw	3
@@ -2179,7 +2190,9 @@
 -pre_alpha Ransomware	3
 -psh PshCrypt	3
 -purge Globe v1	3
+-pwned Ransomware	3
 -r.i.p Phoenix	3
+-r3store r3store	3
 -r4a 7ev3n	3
 -r5a 7ev3n	3
 -rad Radamant	3
@@ -2237,6 +2250,7 @@
 -venusp VenusLocker	3
 -versiegelt Hacked	3
 -vforvendetta Samas-Samsam	3
+-viki Viki	3
 -vindows Vindows Locker	3
 -vscrypt Rector	3
 -vvv TeslaCrypt 0.x - 2.2.0	3
@@ -2248,7 +2262,11 @@
 -wflx WildFire Locker	3
 -whereisyourfiles Samas-Samsam	3
 -windows10 Troldesh	3
+-wlu Jaff	3
+-wncry WannaCry	3
+-wncryt WannaCry	3
 -wnx Winnix Cryptor	3
+-wtdi wtdi	3
 -xcri TeleCrypt	3
 -xort VaultCrypt	3
 -xrtn XRTN 	3
@@ -2526,6 +2544,7 @@
 -;thumbcache_256.db; Vista thumbnails	4
 -;thumbcache_96.db; Vista thumbnails	4
 -;thumbindex.db; Picasa	4
+-;thumbnails.data; OSX thumbnails	3
 -;thumbs.db; Thumbnail database	4
 -;thumbs480x360.dat; Blackberry	4
 -ani animated cursor	1
