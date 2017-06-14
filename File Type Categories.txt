@@ -286,6 +286,7 @@
 -nvf Creative Labs Audio	2
 -nwc NoteWorthy Composer	2
 -nwv Dragon NaturallySpeaking	3
+-oga Ogg Audio	2
 -ogg Ogg/Vorbis	3
 -okt Oktalyzer Module	2
 -oma Sony OpenMG Audio	2
@@ -322,6 +323,7 @@
 -uwf UltraTracker Wave	2
 -vag PlayStation Compressed Sound	1
 -vgm Video Game Music	*
+-vm Samsung voice memo	4
 -vox Dialogic Voice Audio	4
 -vqf audio/x-twinvq	3
 -w64 Sony Wave64	3
@@ -384,10 +386,13 @@
 -vwx Vectorworks Design	3T
 *** Chat, Messaging
 -;application.qdb; ICQ 7 settings	3
+-;kikdatabase.db; Kik messenger	3
 -;main.db; Skype database	5
 -;messages.qdb; ICQ 7 chats	5
 -;msgstore.db; WhatsApp	5
 -;owner.qdb; ICQ 7 user data	4
+-;threads_db2; Facebook messenger	3
+-;viber_messages; Viber messages	3
 -box1 ICQ/AOL	3
 -cha IRC chat	4
 -chat IRC chat	4
@@ -735,10 +740,13 @@
 -tib Acronis True Image	3T
 -v2i Norton Ghost Image	3
 -vbox Oracle VM VirtualBox Settings	3
+-vbox-prev Oracle VM VirtualBox Settings	3
 -vdi Virtual Box Disk Image	3
 -vhd Virtual Hard Disk	4T
 -vhdx Windows 8 Virtual Hard Drive	4T
 -vmdk VMWare	4T
+-vmx VMware configuration	3
+-vmxf VMware Team Member	3
 -whx WinHex backup	2
 -wim Windows Image	2
 *** Disk Image, Burning Software
@@ -1669,6 +1677,14 @@
 -wsdl Web Services Description	2
 -xap Silverlight Application Package	2
 *** Malware, Ransomware
+-01 Ransomware	3
+-0x0 Ungluk	3
+-1999 Ungluk	3
+-1txt Enigma	3
+-73i87a Xorist	3
+-777 777	3
+-7h9r 7h9r	3
+-8lock8 8lock8	3
 -;!!! how to decrypt files !!!.txt; Trojan	3
 -;!!! readme for decrypt !!!.txt; MarsJoke	3
 -;!!!!!readme!!!!!.htm; ASN1	3
@@ -1918,14 +1934,6 @@
 -;_locky_recover_instructions.txt; Locky	3
 -;_recover_instructions.ini; Simple_Encoder	3
 -;_what_is.html; Locky	3
--01 Ransomware	3
--0x0 Ungluk	3
--1999 Ungluk	3
--1txt Enigma	3
--73i87a Xorist	3
--777 777	3
--7h9r 7h9r	3
--8lock8 8lock8	3
 -a19 MarsJoke	3
 -aaa TeslaCrypt 0.x - 2.2.0	3
 -abc TeslaCrypt 0.x - 2.2.0	3
@@ -2147,6 +2155,7 @@
 -mrcr1 Merry X-Mas!	3
 -nalog@qq_com Rakhni	3
 -nemo-hacks.at.sigaint.org Jigsaw	3
+-netn netn6	3
 -nm4 NM4	3
 -nochance Rakhni	3
 -noproblemwedecfiles Samas-Samsam	3
@@ -2230,6 +2239,7 @@
 -sport Sport	3
 -stn Satan	3
 -surprise Surprise	3
+-svn Jaff	3
 -szf SZFLocker	3
 -thetrumplockerf Trump Locker	3
 -thetrumplockerfp Trump Locker	3
@@ -2364,7 +2374,6 @@
 -ufdr UFED Physical Analyzer report package	5
 -vbm WAP Bookmark info	3
 -vcl Call log	4
--vm Samsung voice memo	4
 -vmg SMS	4
 -vnt Mobile Phone vNote	4T
 -wup WhatsUp Gold network map	4
@@ -2548,6 +2557,7 @@
 -;thumbs.db; Thumbnail database	4
 -;thumbs480x360.dat; Blackberry	4
 -ani animated cursor	1
+-appicon VMWare	2
 -bbthumbs BlackBerry	4
 -bc Adobe Bridge Cache	4
 -bct Adobe Bridge Cache	3
@@ -2616,7 +2626,6 @@
 -acr Dicom	3
 -aic Advanced Image Coding	3
 -albm HP Photo Printing Album	3T
--appicon VMWare	2
 -apx Ability Photopaint Image	3
 -art AOL	2
 -awd2 Artweaver Document	3
@@ -3455,8 +3464,6 @@
 -vix Image catalog	2
 -vmcx Virtual Machine Shell Information	3
 -vmv VirtuaNES	2
--vmx VMware configuration	3
--vmxf VMware Team Member	3
 -vpk Valve Package	1
 -vs Vertex Shader	1
 -vsm VisSim Simulation Model	3
@@ -3571,7 +3578,6 @@
 -nsv NullSoft Video	2
 -nut Multimedia container	2
 -nuv NuppelVideo	3
--oga Ogg Audio	2
 -ogm Ogg Video	3
 -ogv Ogg Video	3
 -ogx Ogg Vorbis Multiplexed	3
