@@ -2315,6 +2315,7 @@
 -vsv HyperV Virtual Machine Saved State	4
 *** Mobile Phones
 -;build.prop; Android configuration	4
+-;manifest.plist; iOS backup	3
 -ab Android Backup	4
 -alx BlackBerry Loader	3
 -arsc Dalvik Virtual Machine resource pack	2
