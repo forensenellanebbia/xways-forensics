@@ -1681,6 +1681,7 @@
 -0x0 Ungluk	3
 -1999 Ungluk	3
 -1txt Enigma	3
+-666 FuckTheSystem	3
 -73i87a Xorist	3
 -777 777	3
 -7h9r 7h9r	3
@@ -1979,6 +1980,7 @@
 -cerber Cerber	3
 -cerber2 Cerber	3
 -cerber3 Cerber	3
+-cerber6 Cerber	3
 -chifrator@qq_com Rakhni	3
 -chip CHIP	3
 -cifgksaffsfyghd Samas-Samsam	3
@@ -2181,6 +2183,7 @@
 -pay Ransomware	3
 -paybtcs Jigsaw	3
 -payfordecrypt Globe	3
+-payforunlock CryptoGod	3
 -payms Jigsaw	3
 -paymst Jigsaw	3
 -payransom Jigsaw	3
@@ -2241,6 +2244,7 @@
 -surprise Surprise	3
 -svn Jaff	3
 -szf SZFLocker	3
+-tesla TeslaWare	3
 -thetrumplockerf Trump Locker	3
 -thetrumplockerfp Trump Locker	3
 -theworldisyours Samas-Samsam	3
@@ -2308,6 +2312,7 @@
 -dmp Memory dump	3
 -lime Linux Memory Extractor	3
 -mdmp Windows Minidump	3
+-mem Parallels raw memory image	3
 -sav Virtualbox Snapshot	3
 -vmem VMware main memory	4
 -vmsn VMware snapshot	4
