@@ -1,19 +1,22 @@
 *** Address Book
 *** Antiforensics
 *** Antivirus
-*** Archives/Backup
+*** Archives
 *** Audio
+*** Backup, Computer
+*** Backup, Mobile Phones
 *** CAD
 *** Chat, Messaging
 *** Cryptography
 *** Database, Finance
 *** Database, SQLite
-*** Disk Image, Backup/Virtual
 *** Disk Image, Burning Software
+*** Disk Image, Drive image
+*** Disk Image, Virtual Disks
 *** Docs, Common formats
 *** Docs, eBook
 *** Docs, Page Layout
-*** Docs, Plain Text
+*** Docs, Plain Text/Markup
 *** Docs, Spreadsheet
 *** Docs, Word Processing
 *** Docs, Misc Documents
@@ -32,12 +35,14 @@
 *** Network, Packets
 *** Network, Program config/log files
 *** P2P
+*** Pictures, Common formats
 *** Pictures, 3D Graphics
 *** Pictures, RAW Pictures
 *** Pictures, Thumbnails/Icons
 *** Pictures, Misc Pictures
 *** Programs
 *** Projects
+*** Settings
 *** Source Code
 *** Various Data
 *** Video

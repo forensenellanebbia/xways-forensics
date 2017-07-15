@@ -1,10 +1,12 @@
 *** Address Book
 -;config.xml; Skype contacts & settings	4
 -;contacts.cdb; Symbian Phonebook	4
+-;contacts.csv; Gmail (Outlook CSV)	4
 -;contacts.edb; Live Messenger	4
--;contacts_db2; Facebook	4
 -;contacts2.db; Android contacts
+-;contacts_db2; Facebook	4
 -;friends.db; iPhone Facebook chat buddy list	3
+-;google.csv; Gmail (Google CSV)	4
 -;wa.db; WhatsApp	5
 -;wnresponse.xml; Live Messenger contact news	3
 -aba Palm address book	5
@@ -89,6 +91,7 @@
 -;tor.exe; Tor browser	3
 -;usboblivion32.exe;  USB Oblivion	3
 -;usboblivion64.exe; USB Oblivion	3
+-stegan Steganographic image	4
 *** Antivirus
 -avc Antviral DB	*
 -avr AntiVir	*
@@ -107,7 +110,7 @@
 -vnd Kaspersky	1
 -vpx Avast! Virus Update	1
 -xmd BitDefender plug-in	1
-*** Archives/Backup
+*** Archives
 -7z 7-Zip	3
 -@db Norton 360 index	3
 -abcomp ABComp archive data	3
@@ -115,41 +118,30 @@
 -ace ACE	3T
 -ain AIN compressed archive	3T
 -alz ALZip compressed	3T
--arc1 Norton Backup	3T
 -arc3 RARC compressed	3T
 -arj ARJ	3
 -b1 B1 Archive	3T
 -bag1 Bag archive	3T
--bff AIX Backup	3T
 -bkf Microsoft Tape	4T
--bpa StorageSync Backup	3T
 -bsa Bethesda Softworks Archive	*
 -bz BZip	3
 -bz2 BZip	3
 -bza BZA Archive	3T
 -cab Windows Cabinet	3T
 -car CAR archive	3T
--catalog OneCare Backup	3
 -caz Computer Associates	3T
--cbu Comodo Backup	3T
 -cpio CPIO Archive	2T
 -dar DAR Disk Archive	3T
--dcm Memeo AutoBackup	3
--deb Debian Linux package	1
 -dgc DGCA	2
 -dlc DIGILINEAR archive	3T
 -dst1 DST compressed	3T
 -dz Dzip Archive	3T
 -egg ALZip EGG compressed	3T
--fbf Free Backup Fix	3T
 -fbw HP Recovery Manager	3T
 -fdb1 Firebird database	3T
--gbp Genie Timeline Backup	3
 -gz GZip	3
--hbi Handy Backup	3T
 -hpk HPack archive	3T
 -hqx BinHex 4.0 Encoded File	3
--jim WD Anywhere Backup	3
 -lbr LU Library Archive	3T
 -lha LHArch	3T
 -lz LZIP	3T
@@ -160,22 +152,12 @@
 -lzx LZX archive	3
 -mar MSN archive	2T
 -mar1 Mozilla Archive	*
--mig Windows Migration Backup	4T
 -narc Nintendo	*
--nb20 Norton Backup	3T
--nbak Neat Backup	3
--nbd NovaBackup	3T
--nbf Backup NOW!	3
 -olebin OLE archive	2
 -pax POSIX Archive	2T
--pbd EaseUS Todo Backup	3T
--pbf1 Paragon drive backup/Exact Image 7	3
 -pea PeaZip	3T
--pen Penultimate Backup	3T
 -qfc QuickFileCollection	3T
 -rar Roshal ARchive	4
--rdb Retrospect Backup	3T
--rpm Red Hat Package Manager	1
 -sar SAPCAR Archive	3T
 -sea StuffIT Expander Archive	3T
 -sfx Self-extracting archive	2T
@@ -183,11 +165,8 @@
 -sit StuffIt	3T
 -sitx StuffIt	3T
 -sn1 Snapshot image	2
--spf ShadowProtect Full Backup	3
--spi ShadowProtect Incremental Backup	3
 -sps1 SyncBack Settings	3
 -sqx SQX Archiver	3T
--stegan Steganographic image	4
 -tar Tar	2
 -tbz TAR/BZIP	2
 -tbz2 TAR/BZIP2	2
@@ -195,9 +174,6 @@
 -txz XZ Compressed Tar	2T
 -udeb Debian Linux package	1
 -uha UHArc Archive	3T
--vbk Veeam Backup	4T
--vbm1 Veeam Backup Metadata	3
--wbcat Windows Backup Catalog	4
 -wjf WinZip Job	3
 -xar XAR Archive	2
 -xz XZ Compressed Archive	2T
@@ -335,6 +311,68 @@
 -wwb XACT Wave Bank	2
 -xa Maxis XA Audio	1
 -zvr Recorded voice	3
+*** Backup, Computer
+-arc1 Norton Backup	3T
+-ashbak Ashampoo Burning Studio	2
+-bff AIX Backup	3T
+-bkc Backup4All	3
+-bpa StorageSync Backup	3T
+-btz BackToZip	3
+-catalog OneCare Backup	3
+-cbu Comodo Backup	3T
+-dcm Memeo AutoBackup	3
+-fbf Free Backup Fix	3T
+-gbp Genie Timeline Backup	3
+-hbi Handy Backup	3T
+-jim WD Anywhere Backup	3
+-mig Windows Migration Backup	4T
+-nb20 Norton Backup	3T
+-nb7 NovaBackup	3
+-nba Nero BackItUp	3
+-nbak Neat Backup	3
+-nbd NovaBackup	3T
+-nbf Backup NOW!	3
+-nco Nero BackItUp	3
+-nda Nero BackItUp	3
+-pbd EaseUS Todo Backup	3T
+-pbf1 Paragon drive backup/Exact Image 7	3
+-pbf1 Paragon Exact Image/Drive Backup	3
+-pen Penultimate Backup	3T
+-rdb Retrospect Backup	3T
+-sm2 s25@once backup	3
+-spf ShadowProtect Full Backup	3
+-spi ShadowProtect Incremental Backup	3
+-vbk Veeam Backup	4T
+-vbm1 Veeam Backup Metadata	3
+-wbcat Windows Backup Catalog	4
+-whx WinHex backup	2
+*** Backup, Mobile Phones
+-;manifest.plist; iOS backup	3
+-ab Android Backup	4
+-bbb BlackBerry Backup	5
+-dbk Sony Ericsson Backup	4
+-ipd BlackBerry Backup	4
+-ipsw iPhone software backup	3
+-mbdb iPhone Backup	4
+-mbdx iPhone Backup Index	2
+-mdbackup iPhone	3
+-mddata iPhone Backup	4
+-mdinfo iPhone Backup	4
+-mpb MyPhoneExplorer backup	4
+-nbu Nokia backup	5
+-nfb Nokia PC Suite phone backup	4
+-nfc Nokia Phone Backup	4
+-properties Titanium Backup	3
+-sbu Samsung Backup	4
+-sn3 Samsung Kies backup	3T
+-spb Samsung Kies Phonebook	3T
+-spd Samsung note	4
+-ssc Samsung Kies calendar backup	4T
+-ssn Samsung Kies notes backup	4T
+-stg ActiveSync Backup	4
+-titanium TB_ARMOR_V1	3
+-ufdr UFED Physical Analyzer report package	5
+-xry Micro Systemation	2
 *** CAD
 -atc AutoCAD Tool Catalog	1
 -aws AutoCAD Work Space	3
@@ -402,7 +440,6 @@
 -giga Gigatribe chat	3
 -ichat Saved Chat Log	4
 -id2 WLM Emoticon	1
--json JavaScript Object Notation	3
 -log1 Chat history	4
 -mlsxml Skype XML	1
 -ple Messenger Plus! Encrypted Log	2
@@ -693,104 +730,6 @@
 -sqlitedb SQLite 3.x database	3T
 -webbookmark Safari	3
 -webhistory Safari	4
-*** Disk Image, Backup/Virtual
--ad1 Logical image	3
--adi Active@ Disk Image	3T
--aff Advanced Forensics Format	3T
--arc R-Drive image	3
--asb ILook Image	4T
--ashbak Ashampoo Burning Studio	2
--bin Binary Image	3
--bkc Backup4All	3
--btz BackToZip	3
--cmt BackMagic	3
--ctr X-Ways file container	3
--dd Raw image	3T
--dmg Apple Macintosh	2T
--dms Disk Masher Image	3T
--dsk Disk image	2T
--e01 Evidence file	4T
--gho Ghost	3T
--ghs Ghost	3
--hcc HDCopy	3
--hci HDCopy	3
--hdd Parallels Desktop	3
--hds Parallels Desktop Hard Disk	3T
--img CloneCD, HDCopy, QEMU	3T
--ipf Interchangeable Preservation	3T
--l01 Logical evidence file	4T
--mdx Extended Media Descriptor	3
--mrimg Macrium Reflect Disk Image	4
--nb7 NovaBackup	3
--nba Nero BackItUp	3
--nco Nero BackItUp	3
--nda Nero BackItUp	3
--omg O&O DiskImage	3
--ova Open Virtualization Format Archive, TAR-Format	3
--ovf Open Virtual Format	3
--par Drive Star	3
--pbf1 Paragon Exact Image/Drive Backup	3
--pdi Pinnacle InstantCopy	3
--pvhd Paragon Virtual Hard Drive	4
--qevm QEMU	3T
--sco Farstone DriveClone/Pro	3
--sm2 s25@once backup	3
--sna SnapShot	3
--td0 Teledisk	3
--tib Acronis True Image	3T
--v2i Norton Ghost Image	3
--vbox Oracle VM VirtualBox Settings	3
--vbox-prev Oracle VM VirtualBox Settings	3
--vdi Virtual Box Disk Image	3
--vhd Virtual Hard Disk	4T
--vhdx Windows 8 Virtual Hard Drive	4T
--vmdk VMWare	4T
--vmx VMware configuration	3
--vmxf VMware Team Member	3
--whx WinHex backup	2
--wim Windows Image	2
-*** Disk Image, Burning Software
--000 Virtual CD	3
--b5i BlindWrite	3
--b5t BlindWrite	3
--bwi Blindwrite	3
--bwt Blindwrite	3
--c2d WinOnCD	2
--ccd CloneCD	3
--cd CD-i OptImage	3
--cdi DiscJuggler	2
--cdm NTI CD-Maker	3
--cdp NTI CD-Copy	3
--cif Easy CD Creator image	3
--cmi CDMate	3
--cpj WinOnCd	3
--cso1 ISO compressed	2T
--cue Cue Sheet	2
--daa PowerISO Direct-Access-Archive	2
--dao Duplicator, Nero	3
--dax Compressed CD image	3T
--dsp Discsafe	3
--fcd Uncompressed	3
--fcd1 Virtual CD-ROM	3
--gcd Prassi CD Image	3
--gi Prassi PrimoDVD	3
--ibp IsoBuster image backup	3
--iso Nero, BlindRead, Creator	3T
--isz UltraISO compressed disk image	3T
--mds Alcohol	3
--ncd1 NTI CD-Maker disk image	3
--nrb Nero	3
--nrg Nero	3
--ovr Feurio	3
--p01 Toast	3
--pxi PlexTools	3
--sub CloneCD	3
--tao Duplicator, Nero	3
--toast Toast CD Image	3T
--vc4 Virtual CD	3
--vcd Vob InstantDisc	3
--vcd1 Virtual CD	3
--vdscr CD Volume descr	3
 *** Docs, Common formats
 -csv Comma-separated values	4
 -doc MS Word	4
@@ -892,12 +831,13 @@
 -zdl Avery DesignPro	3T
 -zdp Avery DesignPro	3T
 -zds DesignPro Label	3T
-*** Docs, Plain Text
+*** Docs, Plain Text/Markup
 -ascii 7-bit ASCII	2
 -ascii+ 7-bit ASCII with ESC char.	1
 -ascii- Trailing null byte	2
 -ascii_unix 7-ASCII, Unix LF	2
 -conf Config file	*
+-json JavaScript Object Notation	3
 -log Log file	4
 -putty Log file	4
 -strings Text	1
@@ -907,6 +847,7 @@
 -utf16 Unicode text	2
 -utf16be Unicode text	2
 -wedb Windows.edb	4
+-xml XML	2
 *** Docs, Spreadsheet
 -csv Comma-separated values	4
 -dif Data Interchange Format	3T
@@ -1333,12 +1274,100 @@
 -xks IBM Softcopy Reader PDF Extended Bookshelf File	2
 -xlf XLIFF Document	3
 -xmi XML Metadata Interchange Format	2
--xml XML	2
 -xpl Playlist	3
 -xspf XSPF Playlist	3
 -zir Compass and Ruler	2
 -zmg ZENworks Desktop	2
 -zno Zinio Electronic Magazine	2
+*** Disk Image, Burning Software
+-000 Virtual CD	3
+-b5i BlindWrite	3
+-b5t BlindWrite	3
+-bwi Blindwrite	3
+-bwt Blindwrite	3
+-c2d WinOnCD	2
+-ccd CloneCD	3
+-cd CD-i OptImage	3
+-cdi DiscJuggler	2
+-cdm NTI CD-Maker	3
+-cdp NTI CD-Copy	3
+-cif Easy CD Creator image	3
+-cmi CDMate	3
+-cpj WinOnCd	3
+-cso1 ISO compressed	2T
+-cue Cue Sheet	2
+-daa PowerISO Direct-Access-Archive	2
+-dao Duplicator, Nero	3
+-dax Compressed CD image	3T
+-dsp Discsafe	3
+-fcd Uncompressed	3
+-fcd1 Virtual CD-ROM	3
+-gcd Prassi CD Image	3
+-gi Prassi PrimoDVD	3
+-ibp IsoBuster image backup	3
+-iso Nero, BlindRead, Creator	3T
+-isz UltraISO compressed disk image	3T
+-mds Alcohol	3
+-ncd1 NTI CD-Maker disk image	3
+-nrb Nero	3
+-nrg Nero	3
+-ovr Feurio	3
+-p01 Toast	3
+-pxi PlexTools	3
+-sub CloneCD	3
+-tao Duplicator, Nero	3
+-toast Toast CD Image	3T
+-vc4 Virtual CD	3
+-vcd Vob InstantDisc	3
+-vcd1 Virtual CD	3
+-vdscr CD Volume descr	3
+*** Disk Image, Drive image
+-ad1 Logical image	3
+-adi Active@ Disk Image	3T
+-aff Advanced Forensics Format	3T
+-arc R-Drive image	3
+-asb ILook Image	4T
+-bin Binary Image	3
+-cmt BackMagic	3
+-ctr X-Ways file container	3
+-dd Raw image	3T
+-dmg Apple Macintosh	2T
+-dms Disk Masher Image	3T
+-dsk Disk image	2T
+-e01 Evidence file	4T
+-gho Ghost	3T
+-ghs Ghost	3
+-hcc HDCopy	3
+-hci HDCopy	3
+-img CloneCD, HDCopy, QEMU	3T
+-ipf Interchangeable Preservation	3T
+-l01 Logical evidence file	4T
+-mdx Extended Media Descriptor	3
+-mrimg Macrium Reflect Disk Image	4
+-omg O&O DiskImage	3
+-par Drive Star	3
+-pdi Pinnacle InstantCopy	3
+-sco Farstone DriveClone/Pro	3
+-sna SnapShot	3
+-td0 Teledisk	3
+-tib Acronis True Image	3T
+-v2i Norton Ghost Image	3
+-wim Windows Image	2
+*** Disk Image, Virtual Disks
+-hdd Parallels Desktop	3
+-hds Parallels Desktop Hard Disk	3T
+-ova Open Virtualization Format Archive, TAR-Format	3
+-ovf Open Virtual Format	3
+-pvhd Paragon Virtual Hard Drive	4
+-qevm QEMU	3T
+-vbox Oracle VM VirtualBox Settings	3
+-vbox-prev Oracle VM VirtualBox Settings	3
+-vdi Virtual Box Disk Image	3
+-vhd Virtual Hard Disk	4T
+-vhdx Windows 8 Virtual Hard Drive	4T
+-vmdk VMWare	4T
+-vmx VMware configuration	3
+-vmxf VMware Team Member	3
 *** E-mail
 -;store.fdb; Kerio Connect	4
 -;winmail.dat; TNEF	3
@@ -1524,6 +1553,7 @@
 -;data_3; Google Chrome cache	3
 -;history; Google Chrome	4
 -;login data; Google Chrome login data	4
+-;preferences; Google Chrome user preferences	4
 -;syncdata.sqlite3; Google Chrome Sync DB	4
 -chrome Google Chrome	4
 -chrome1 HTTP response	3
@@ -1545,13 +1575,13 @@
 -;cookies.sqlite; Mozilla/Firefox cookies	4
 -;cookies.txt; Mozilla/Firefox cookies	4
 -;downloads.sqlite; Firefox downloads	4
--;extensions.json; Mozilla/Firefox extensions 3
+-;extensions.json; Mozilla/Firefox extensions	3
 -;flashgot.log; Flashgot log	3
 -;formhistory.sqlite; Mozilla/Firefox form history	4
 -;healthreport.sqlite; Mozilla/Firefox health report	4
 -;history.dat; Mozilla/Firefox browser history	4
 -;places.sqlite; Mozilla/Firefox web history	4
--;prefs.js; Mozilla/Firefox user preferences 3
+-;prefs.js; Mozilla/Firefox user preferences	3
 -;recovery.back; Firefox session restore	3
 -;recovery.js; Firefox session restore	3
 -;sessionstore.js; Firefox session restore	3
@@ -1621,7 +1651,6 @@
 -ism IIS Smooth Streaming Manifest	3
 -ismc Smooth Streaming Client Manifest	3
 -jnlp Java Web Start Launcher	2
--js JavaScript	1
 -jsonp auto completion	3
 -jsp Java Server Page	2
 -jsp1 Script	3
@@ -2109,6 +2138,7 @@
 -id-_x3m CryptON	3
 -imsorry imsorry	3
 -infected Rector	3
+-ipygh Karo	3
 -isis EduCrypt	3
 -iwanthelpuuu Samas-Samsam	3
 -jeepers JeepersCrypt	3
@@ -2206,6 +2236,7 @@
 -r.i.p Phoenix	3
 -r3store r3store	3
 -r4a 7ev3n	3
+-r4bb0l0ck R4bb0l0ck	3
 -r5a 7ev3n	3
 -rad Radamant	3
 -radamant Radamant	3
@@ -2320,70 +2351,44 @@
 -vsv HyperV Virtual Machine Saved State	4
 *** Mobile Phones
 -;build.prop; Android configuration	4
--;manifest.plist; iOS backup	3
--ab Android Backup	4
 -alx BlackBerry Loader	3
 -arsc Dalvik Virtual Machine resource pack	2
--bbb BlackBerry Backup	5
 -cah Sony Ericsson PC Suite	4
--dbk Sony Ericsson Backup	4
 -emy Ericsson eMelody ringtone	1
 -enml Evernote for Android	4
 -flst Nokia Account	4
 -ifaith iFaith SHSH File	3
 -img3 iOS encrypted/signed container	2
 -img4 Android image	4
--ipd BlackBerry Backup	4
 -ips Apple Crash	4
--ipsw iPhone software backup	3
 -ish1 IntelliSync	3
 -journal Twitter journal	3
 -lbk iOS words	3
 -lml PcSync2.SML	3
 -lmx Nokia landmark	3
--mbdb iPhone Backup	4
--mbdx iPhone Backup Index	2
--mdbackup iPhone	3
--mddata iPhone Backup	4
--mdinfo iPhone Backup	4
 -mms Multimedia Messaging Service	4
 -mobileconfig Apple Mobile Configuration	4
 -mpa Palm Memo	4
--mpb MyPhoneExplorer backup	4
 -mxmf Nokia Ringtone	1
--nbu Nokia backup	5
--nfb Nokia PC Suite phone backup	4
--nfc Nokia Phone Backup	4
 -nlm1 Nokia Logo Manager bitmap	2
 -nth Nokia theme	1
 -obb Android Opaque Binary Blob	2
 -pdb Palm	2
 -pdc Palm	2
--properties Titanium Backup	3
 -qip QIP Infium account	4
 -rem BlackBerry encrypted	3
 -sbf Android System File	2
 -sbf1 Android Backup	3
--sbu Samsung Backup	4
 -seft Samsung JPEG trailer	3
 -sml Nokia PcSync	4
 -smm Samsung Memo	3T
--sn3 Samsung Kies backup	3T
--spb Samsung Kies Phonebook	3T
--spd Samsung note	4
--ssc Samsung Kies calendar backup	4T
--ssn Samsung Kies notes backup	4T
--stg ActiveSync Backup	4
 -sync Kies Sync Schedule	2
 -tda Palm To-Do	4
--titanium TB_ARMOR_V1	3
--ufdr UFED Physical Analyzer report package	5
 -vbm WAP Bookmark info	3
 -vcl Call log	4
 -vmg SMS	4
 -vnt Mobile Phone vNote	4T
 -wup WhatsUp Gold network map	4
--xry Micro Systemation	2
 *** Network, Packets
 -5vw InfoVista 5View	3
 -bfr Network Instruments Observer	3
@@ -2451,6 +2456,14 @@
 -state Gigatribe state	3
 -torrent BitTorrent	4
 -vuze Azureus	3
+*** Pictures, Common formats
+-bmp Bitmap	3
+-gif Graphic Interchange Format	2
+-jpeg JPEG	3
+-jpg JPEG	3
+-png Portable Network Graphics	2
+-tif Tagged Image Format	3
+-tiff Tagged Image Format	3
 *** Pictures, 3D Graphics
 -3dm Rhino 3D	1T
 -3dmf QuickDraw 3D Metafile	2
@@ -2679,6 +2692,7 @@
 -gif Graphic Interchange Format	2
 -gro Graphic Object Bitmap	3
 -gsd Graphtec Vector	3T
+-heic Apple High Efficiency Image Format	3
 -hrf Hitachi Raster Format	3
 -im1 Sun Raster	2
 -im8 Sun Raster	2
@@ -2802,6 +2816,7 @@
 -coff COFF	*
 -com DOS executable	*
 -csm PalmPilot program	3
+-deb Debian Linux package	1
 -dex Dalvik Executable	2
 -dll Dynamic-Link Library	*
 -dll16 16-bit Dynamic-Link Library	*
@@ -2829,7 +2844,6 @@
 -hlp Help	*
 -ilg InstallShield Log File	1
 -inf Windows Install Information	*
--ini Initialization	*
 -ins InstallShield (Script)	2
 -inx InstallShield	*
 -ipa iPhone/iPad app	1
@@ -2879,6 +2893,7 @@
 -qm Qt Software	*
 -rels package relationships	*
 -rll Resource-only Link Library	*
+-rpm Red Hat Package Manager	1
 -scf Windows Explorer command	1
 -scr Windows screensaver	*
 -sd2 Sound Designer 2	*
@@ -3002,6 +3017,16 @@
 -xfc X-Ways Forensics Case	4
 -xise Xilinx ISE Project	2
 -xmpses Premiere Elements	3
+*** Settings
+-db SQLite database	3
+-ini Initialization	*
+-json JavaScript Object Notation	3
+-plist Property List	4
+-sqlite SQLite database	2
+-sqlite2 SQLite 2.x database	2
+-sqlite3 SQLite 3.x database	3T
+-sqlitedb SQLite 3.x database	3T
+-xml XML	2
 *** Source Code
 -;makefile; Makefile	1
 -aps Visual C++ Resource	2
@@ -3034,6 +3059,7 @@
 -hpp C++ Header	1
 -hxx C++ Header	1
 -java Java source	2
+-js JavaScript	1
 -jsa JRun	3
 -lua Lua Source	2
 -m MATLAB Source Code	2
@@ -3067,6 +3093,7 @@
 -template C++ template	1
 -texinfo application/x-texinfo	*
 -vbs Visual Basic script	1
+-wsf Windows Script File	3
 -xba OpenOffice Script	2
 -xpb XPB! Basic	2
 -xq XQuery	3
@@ -3890,7 +3917,6 @@
 -wmd Windows Media Player Download Package	*
 -wmx Windows Media playlist	3
 -wpl Playlist	3
--wsf Windows Script File	3
 -wsh Windows Script Host Settings	2
 -wvx Windows Media video playlist	3
 -xbf XAML Binary	1
