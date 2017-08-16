@@ -49,5 +49,6 @@
 *** [OS] Mac OS X/iOS System
 *** [OS] Unix/Linux System
 *** [OS] Windows Internals
+*** [OS] Windows Logs
 *** [OS] Windows Registry
 =T=Certain potentially relevant types

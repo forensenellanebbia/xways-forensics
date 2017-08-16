@@ -2341,6 +2341,7 @@
 -;swapfile0; OSX Swap file	3
 -;win386.swp; Win Swap file	2
 -dmp Memory dump	3
+-hdmp Heap dump file	3
 -lime Linux Memory Extractor	3
 -mdmp Windows Minidump	3
 -mem Parallels raw memory image	3
@@ -3755,18 +3756,12 @@
 -;$j; NTFS Change journal	4
 -;$logfile; NTFS journal	4
 -;$mft; NTFS MFT	4
--;consolehost_history.txt; Powershell log	3
 -;drivetable.txt; System Restore	3
 -;index.btr; MS Office index	*
 -;info2; Recycle bin	5
 -;rasphone.pbk; Phonebook	3
 -;recentfilecache.bcf; RecentFileCache	*
--;rp.log; Restore point	4
--;setupapi.app.log; Application installations (Vista+)	3
--;setupapi.dev.log; Device and driver installations (Vista+)	3
--;setupapi.log; Device and driver installations (XP/2K/2003)	3
 -;srudb.dat; System Resource Usage Monitor DB	3
--;tracking.log; Distributed Link Tracking	3
 -;wpa.dbl; Windows Product Activation	1
 -adm Administrative Template	1
 -adml language dependent policy settings	1
@@ -3802,9 +3797,6 @@
 -edb Extensible Storage Engine	3
 -edblog ESE log	4
 -eftx Office 2007 Theme Effect	*
--etl Event trace log	2
--evt Event log	4
--evtx Vista event log	4
 -feed-ms Microsoft rss feeds store	1
 -feedsdb-ms Microsoft rss feeds store	1
 -fnd Windows Explorer saved search	3
@@ -3823,7 +3815,6 @@
 -h1k Keyword index	*
 -h1s HelpPane	1
 -h1t Help related	*
--hdmp Heap dump file	3
 -hds1 DRM store	2
 -hxi MS Help 2.0	*
 -icc ICC Profile	1
@@ -3924,6 +3915,22 @@
 -xss SharePoint Groove	3
 -xsslog SharePoint Groove log	3
 -xssr SharePoint Groove	3
+*** [OS] Windows Logs
+-;consolehost_history.txt; Powershell log	3
+-;miglog.xml; information about the user directory structure	3
+-;netsetup.log; debug domain join problems	3
+-;pregatherpnplist.log; devices on system during downlevel	3
+-;rp.log; Restore point	4
+-;setupact.log; setup actions during the installation	3
+-;setupapi.app.log; Application installations (Vista+)	3
+-;setupapi.dev.log; Device and driver installations (Vista+)	3
+-;setupapi.log; Device and driver installations (XP/2K/2003)	3
+-;setuperr.log; setup errors during the installation	3
+-;tracking.log; Distributed Link Tracking	3
+-etl Event trace log	2
+-evt Event log	4
+-evtx Vista+ event log	4
+-odl OneDrive diagnostic logs	3
 *** [OS] Windows Registry
 -;amcache.hve; Recent file cache	5
 -;bcd; Boot Configuration Database	3
