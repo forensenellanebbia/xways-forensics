@@ -1706,15 +1706,6 @@
 -wsdl Web Services Description	2
 -xap Silverlight Application Package	2
 *** Malware, Ransomware
--01 Ransomware	3
--0x0 Ungluk	3
--1999 Ungluk	3
--1txt Enigma	3
--666 FuckTheSystem	3
--73i87a Xorist	3
--777 777	3
--7h9r 7h9r	3
--8lock8 8lock8	3
 -;!!! how to decrypt files !!!.txt; Trojan	3
 -;!!! readme for decrypt !!!.txt; MarsJoke	3
 -;!!!!!readme!!!!!.htm; ASN1	3
@@ -1889,6 +1880,7 @@
 -;readme_to_decrypt_files.html; ransom	3
 -;readme_to_recure_your_files.txt; Domino	3
 -;readme_to_restore_files.txt; Serp	3
+-;readme_to_restore_files_t7q.html; Serpent	3
 -;readme_xxx.txt; Ransomware	3
 -;readthisnow!!!.txt; Ungluk	3
 -;read_me_!.txt; Unlock92	3
@@ -1919,6 +1911,7 @@
 -;unlock_files_instructions.html; GNL Locker	3
 -;unlock_files_instructions.txt; GNL Locker	3
 -;unlock_files_randomx5.html; Alma Ransomware	3
+-;unlock_guide.txt; ransomware	3
 -;vault.txt; VaultCrypt	3
 -;victemkey_0_5; RanRan	3
 -;victemkey_100_300; RanRan	3
@@ -1964,6 +1957,16 @@
 -;_locky_recover_instructions.txt; Locky	3
 -;_recover_instructions.ini; Simple_Encoder	3
 -;_what_is.html; Locky	3
+-01 Ransomware	3
+-0x0 Ungluk	3
+-1999 Ungluk	3
+-1txt Enigma	3
+-3ncrypt3d GlobeImposter	3
+-666 FuckTheSystem	3
+-73i87a Xorist	3
+-777 777	3
+-7h9r 7h9r	3
+-8lock8 8lock8	3
 -a19 MarsJoke	3
 -aaa TeslaCrypt 0.x - 2.2.0	3
 -abc TeslaCrypt 0.x - 2.2.0	3
@@ -1986,6 +1989,7 @@
 -antihacker2017 Xorist	3
 -ap19 MarsJoke	3
 -atlas Atlas	3
+-azer CryptoMix	3
 -b10cked Matrix	3
 -BarRax BarRax	3
 -bart Bart	3
@@ -2010,6 +2014,7 @@
 -cerber2 Cerber	3
 -cerber3 Cerber	3
 -cerber6 Cerber	3
+-cesar Dharma	3
 -chifrator@qq_com Rakhni	3
 -chip CHIP	3
 -cifgksaffsfyghd Samas-Samsam	3
@@ -2039,6 +2044,7 @@
 -crypto Rakhni/Zimbra	3
 -cryptobyte BTCWare	3
 -cryptolocker FakeCryptoLocker	3
+-crypton Gryphon	3
 -cryptoshiel CryptoMix	3
 -cryptoshield CryptoMix/CryptoShield	3
 -cryptotorlocker2015! CryptoTorLocker2015	3
@@ -2063,6 +2069,7 @@
 -dexter Troldesh	3
 -dharma Dharma	3
 -dharma Virus-Encoder	3
+-diablo6 Locky	3
 -disappeared Al-Namrood	3
 -domino Domino	3
 -doomed CryptoShadow	3
@@ -2087,6 +2094,7 @@
 -epic Jigsaw	3
 -evillock Evil	3
 -exotic Exotic	3
+-exte CryptoMix	3
 -exx TeslaCrypt 0.x - 2.2.0	3
 -ezz TeslaCrypt 0.x - 2.2.0	3
 -failedaccess FailedAccess	3
@@ -2099,6 +2107,7 @@
 -fileiscryptedhard Xorist	3
 -filock Popcorn Time	3
 -firecrypt FireCrypt	3
+-fmoon MoonCrypter	3
 -frtrss CryptoFortress	3
 -fs0ciety FSociety	3
 -fuck MireWare	3
@@ -2110,6 +2119,7 @@
 -globe Win32/Pulobe.A	3
 -grt Karmen	3
 -gruzin@qq_com Rakhni	3
+-gryphon Gryphon	3
 -gws Jigsaw	3
 -h3ll Ungluk	3
 -ha3 El-Polocker	3
@@ -2151,6 +2161,7 @@
 -killedXXX Jhon Woddy	3
 -kimcilware KimcilWare	3
 -kirked Kirk	3
+-kk SyncCrypt	3
 -kkk Jigsaw	3
 -korrektor Rector	3
 -kostya Kostya	3
@@ -2176,6 +2187,7 @@
 -lol! OMG! Ransomware	3
 -loptr Loptr	3
 -lovewindows Globe v2	3
+-lukitus Locky	3
 -madebyadam Free-Freedom	3
 -magic Magic	3
 -maktub NMoreira	3
@@ -2208,6 +2220,7 @@
 -oshit Rakhni	3
 -osiris Locky	3
 -otherinformation Samas-Samsam	3
+-oxr OXAR	3
 -p5tkjw Xorist	3
 -padcrypt PadCrypt	3
 -pay Ransomware	3
@@ -2222,17 +2235,22 @@
 -pec PEC 2017	3
 -pegs1 Merry X-Mas!	3
 -perl Bart	3
+-petya JCoder	3
 -pizda@qq_com Rakhni	3
 -pizdec GlobeImposter 2.0	3
+-plin GlobeImposter	3
 -poar2w Xorist	3
+-pohu GlobeImpostor2	3
 -porno Jigsaw	3
 -potato Potato	3
 -powerfulldecrypt Samas-Samsam	3
 -pr0tect Pr0tector	3
 -pre_alpha Ransomware	3
+-prosperous666 SamSam	3
 -psh PshCrypt	3
 -purge Globe v1	3
 -pwned Ransomware	3
+-qwqd DCry	3
 -r.i.p Phoenix	3
 -r3store r3store	3
 -r4a 7ev3n	3
@@ -2249,11 +2267,13 @@
 -relock@qq_com Rakhni	3
 -remind RemindMe	3
 -revenge Revenge	3
+-reyptson REYPTSON	3
 -rip KillerLocker	3
 -rmcm1 Merry X-Mas!	3
 -rmd CryptoMix/Zeta	3
 -rnsmwr Gremit	3
 -rokku Rokku	3
+-rose A1Lock	3
 -rrk Radamant	3
 -rsnslocked SNSLocker	3
 -rsplited SNSLocker	3
@@ -2271,6 +2291,7 @@
 -sifreli Turkish	3
 -silent BlackShades Crypter	3
 -sport Sport	3
+-srpx Serpent	3
 -stn Satan	3
 -surprise Surprise	3
 -svn Jaff	3
