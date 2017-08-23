@@ -701,6 +701,7 @@
 *** Database, SQLite
 -;cache.db; Safari cache	4
 -;cert8.db; Mozilla certificates	1
+-;clouduserdictionary.sqlite; iOS words typed by the user	3
 -;consolidated.db; iPhone locations	5
 -;cookies.sqlite; Mozilla/Firefox cookies	4
 -;cookies; Google Chrome cookies	4
@@ -715,6 +716,8 @@
 -;msgstore.db; WhatsApp	5
 -;places.sqlite; Mozilla/Firefox web history	4
 -;signons.sqlite; Mozilla/Firefox signons	4
+-;userdictionary.sqlite; iOS user's manual auto-corrections	3
+-;user_dict.db; Android user dictionary	3
 -;wa.db; WhatsApp	5
 -;webappsstore.sqlite; Mozilla/Firefox web app store	4
 -db SQLite database	3
@@ -736,6 +739,7 @@
 -doc3 MS Word (MacBinary)	2T
 -docm MS Word Document macro-enabled	4
 -docx MS Word 2007	4
+-key Apple Keynote presentation	4
 -odf OpenOffice Math	3
 -odg OpenOffice Draw	3
 -ods OpenOffice Calc	3
@@ -1093,7 +1097,7 @@
 -jrxml JasperReports	3T
 -jwl Easy CD Creator	2
 -kap BSB Chart Image	3
--key Apple iWork Keynote presentation	4
+-key Apple Keynote presentation	4
 -kmy KMyMoney	3
 -kpr KPresenter	4
 -label DYMO label	2
@@ -1593,6 +1597,7 @@
 -firefox FireFox cache	4
 -jsonlz4 Compressed Firefox Bookmarks Backup	3
 -mozlz4 compressed bookmark backup	3
+-pset Firefox	2
 -session Firefox Session	3
 -sessionrestore Firefox	4
 -sessionstore Firefox	3
@@ -3121,6 +3126,15 @@
 -xq XQuery	3
 -yaml YAML Ain't Markup Language	2
 -~pas Pascal source backup	1
+*** User dictionary
+-;clouduserdictionary.sqlite; iOS words typed by the user	3
+-;custom.dic; Office custom dictionary	3
+-;dynamic-text.dat; iOS words typed by the user	3
+-;dynamic.lm; Android user dictionary	3
+-;standard.dic; LibreOffice/OpenOffice	3
+-;userdictionary.sqlite; iOS user's manual auto-corrections	3
+-;user_dict.db; Android user dictionary	3
+-uwl WordPerfect User Word List	3
 *** Various Data
 -1pe TurboTax form	2
 -1ph TurboTax	2
@@ -3428,7 +3442,6 @@
 -ppam MS PowerPoint Add-in	*
 -profile1 Silverlight	2
 -psa Photoshop Album	3
--pset Firefox	2
 -psp2 Adobe Prefs	2
 -pspscript Corel Paint Shop Pro script	1
 -pvm Photo Video Manifest	3
@@ -3511,7 +3524,6 @@
 -usr COREL Photo Paint User Defined Filter	2
 -utx Unreal Texture	*
 -uue UU encoded	2T
--uwl User Word List	3
 -uxdc Microsoft Office XML Data Source	2
 -vcb Microsoft C/C++ program database	1
 -vcpref Symantec user	3
@@ -3667,7 +3679,7 @@
 -wtv Media Center	2
 -xesc Screen Capture	3
 -zmv ZSNES Movie	2
-*** [OS] Mac OS X/iOS System
+*** [OS] Mac OS X/iOS
 -;.applesetupdone; Original user information	3
 -;.bash_history; OSX Shell History	3
 -;.ds_store; Desktop Services Store	3
@@ -3717,7 +3729,7 @@
 -waf Apple download cache	3
 -_ad AppleDouble	1
 -_as AppleSingle encoded	2
-*** [OS] Unix/Linux System
+*** [OS] Unix/Linux
 -;.bash_history; Linux Shell History	3
 -;.journal; File system journal	4
 -;acct; Process accounting	3
