@@ -292,6 +292,7 @@
 -sng Korg Trinity Song	1
 -spc SNES Soundtrack	*
 -sph NIST SPHERE Audio	3
+-spx Ogg Vorbis Speex	2
 -swa Shockwave audio	1
 -tak Tom's Lossless Audio	2
 -ulaw Unix audio	3
@@ -897,6 +898,7 @@
 *** Docs, Word Processing
 -abw AbiWord	4T
 -ami Ami Pro	4
+-asd Automatic saving document	4T
 -chiw ChiWriter	3
 -clpt Macintosh Clipping	3
 -dgs Dagesh Document	3
@@ -1427,6 +1429,9 @@
 -olk14msgsource MS Outlook 2011 for Mac	5
 -olk14recent	nk2 for Mac	5T
 -olk14signature MS Outlook 2011 for Mac	3
+-olk15message MS Outlook 2014 for Mac	4
+-olk15msgattach MS Outlook 2014 for Mac	4T
+-olk15msgsource MS Outlook 2014 for Mac	5
 -olm Mac Outlook	5T
 -org AOL Global Access Information	3
 -ost MS Outlook	4
@@ -1863,6 +1868,7 @@
 -;please-readit-if_you-want.html; SamSam	3
 -;qwer.html; El-Polocker	3
 -;qwer2.html; El-Polocker	3
+-;ransom.txt; Mystic	3
 -;ransomed.html; Alcatraz Locker	3
 -;ransomware.txt; R	3
 -;ransom_note.txt; Kirk/Lick	3
@@ -1966,6 +1972,7 @@
 -0x0 Ungluk	3
 -1999 Ungluk	3
 -1txt Enigma	3
+-3ncry 3nCRY	3
 -3ncrypt3d GlobeImposter	3
 -666 FuckTheSystem	3
 -73i87a Xorist	3
@@ -2076,6 +2083,7 @@
 -dharma Virus-Encoder	3
 -diablo6 Locky	3
 -disappeared Al-Namrood	3
+-disposed2017 SamSam	3
 -domino Domino	3
 -doomed CryptoShadow	3
 -do_not_change_the_filename DoNotChange	3
@@ -2097,6 +2105,7 @@
 -encrypted_by_lltpp LLTP Locker	3
 -enigma Coverton/Enigma	3
 -epic Jigsaw	3
+-error CryptoMix	3
 -evillock Evil	3
 -exotic Exotic	3
 -exte CryptoMix	3
@@ -2152,6 +2161,7 @@
 -id-_tom.cruz@india.com_ CryptON	3
 -id-_x3m CryptON	3
 -imsorry imsorry	3
+-incanto Incanto	3
 -infected Rector	3
 -ipygh Karo	3
 -isis EduCrypt	3
@@ -2227,6 +2237,7 @@
 -otherinformation Samas-Samsam	3
 -oxr OXAR	3
 -p5tkjw Xorist	3
+-pablukcrypt Jigsaw	3
 -padcrypt PadCrypt	3
 -pay Ransomware	3
 -paybtcs Jigsaw	3
@@ -2413,6 +2424,7 @@
 -tda Palm To-Do	4
 -vbm WAP Bookmark info	3
 -vcl Call log	4
+-vdata Vaulty obscured	4
 -vmg SMS	4
 -vnt Mobile Phone vNote	4T
 -wup WhatsUp Gold network map	4
@@ -3029,6 +3041,7 @@
 -ses Audition Session	2
 -sfvidcap Sonic Foundry Video Capture	4
 -sonic DigitalMedia Project	2
+-ssmssqlproj SQL Server project	3
 -stu Pinnacle Studio Project	2
 -swi SWiSH Project	3
 -vbp Visual Basic project	3
