@@ -2453,6 +2453,7 @@
 *** Network, Program config/log files
 -;connections_incoming.txt; TeamViewer incoming connections	3
 -bhf pcAnywhere Host	3
+-bmc Remote Desktop Cache
 -chf pcAnywhere remote control	2
 -ht HyperTerminal	2
 -ica Citrix architecture	3
