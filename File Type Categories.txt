@@ -1739,6 +1739,7 @@
 -;# restoring files #.html; CryptoShield	3
 -;# restoring files #.txt; CryptoShield	3
 -;###-read-for-hellpp.html; Samas-Samsam	3
+-;#how_decrypt_files.txt; Hunt	3
 -;#_how_to_fix_!.hta; BTCWare	3
 -;000-if-you-want-dec-files.html; Samas-Samsam	3
 -;000-no-problem-we-dec-files.html; Samas-Samsam	3
@@ -1842,6 +1843,7 @@
 -;important!.txt; Phoenix	3
 -;important.readme; Mobef	3
 -;important_read_me.html; JagerDecryptor	3
+-;important_read_me.txt; InfiniteTear	3
 -;info.hta; Dharma	3
 -;install_tor.url; CryptoWall 1	3
 -;instrucciones.txt; Kasiski	3
@@ -1959,6 +1961,7 @@
 -;your_files_are_locked.txt; .CryptoHasYou.	3
 -;zino_note.txt; ZinoCrypt	3
 -;zxz.html; RanRan	3
+-;_help_instruction.txt; Tastylock	3
 -;_help_instructions.bmp; Locky	3
 -;_help_instructions.txt; Locky	3
 -;_help_recover_files_.html; Marlboro	3
@@ -2003,6 +2006,7 @@
 -anon FuckTheSystem	3
 -antihacker2017 Xorist	3
 -ap19 MarsJoke	3
+-asasin	Locky	3
 -atlas Atlas	3
 -azer CryptoMix	3
 -b10cked Matrix	3
@@ -2064,6 +2068,7 @@
 -cryptoshield CryptoMix/CryptoShield	3
 -cryptotorlocker2015! CryptoTorLocker2015	3
 -cryptowin BTCware	3
+-cryptwalker Jigsaw	3
 -cryptz CryptXXX 3.0	3
 -crypz CryptXXX 3.0	3
 -crysis Virus-Encoder	3
@@ -2079,6 +2084,7 @@
 -dCrypt DummyLocker	3
 -decrypt2017 Globe v3	3
 -ded DEDCryptor	3
+-demffue Magniber	3
 -deria DeriaLock	3
 -devil CryptoDevil	3
 -dexter Troldesh	3
@@ -2129,11 +2135,13 @@
 -fs0ciety FSociety	3
 -fuck MireWare	3
 -fucked DNRansomware/EnkripsiPC/MireWare	3
+-fucku HC6	3
 -fuckyourdata Apocalypse	3
 -fun Jigsaw	3
 -gefickt Jigsaw	3
 -getrekt Jigwaw	3
 -globe Win32/Pulobe.A	3
+-gotya HC7	3
 -grt Karmen	3
 -gruzin@qq_com Rakhni	3
 -gryphon Gryphon	3
@@ -2205,6 +2213,7 @@
 -lol! OMG! Ransomware	3
 -loptr Loptr	3
 -lovewindows Globe v2	3
+-ltml LongTermMemoryLoss	3
 -lukitus Locky	3
 -madebyadam Free-Freedom	3
 -magic Magic	3
@@ -2242,6 +2251,7 @@
 -p5tkjw Xorist	3
 -pablukcrypt Jigsaw	3
 -padcrypt PadCrypt	3
+-panda GlobeImposter	3
 -pay Ransomware	3
 -paybtcs Jigsaw	3
 -payfordecrypt Globe	3
@@ -2257,6 +2267,7 @@
 -petya JCoder	3
 -pizda@qq_com Rakhni	3
 -pizdec GlobeImposter 2.0	3
+-planetary HC7	3
 -plin GlobeImposter	3
 -poar2w Xorist	3
 -pohu GlobeImpostor2	3
@@ -2315,12 +2326,14 @@
 -surprise Surprise	3
 -svn Jaff	3
 -szf SZFLocker	3
+-tastylock Tastylock	3
 -tesla TeslaWare	3
 -thetrumplockerf Trump Locker	3
 -thetrumplockerfp Trump Locker	3
 -theworldisyours Samas-Samsam	3
 -thor Locky	3
 -toxcrypt Toxcrypt	3
+-triple_m MMM	3
 -troyancoder@qq_com Rakhni	3
 -trun VaultCrypt	3
 -ttt TeslaCrypt 3.0+	3
@@ -2350,6 +2363,7 @@
 -wlu Jaff	3
 -wncry WannaCry	3
 -wncryt WannaCry	3
+-wndie WannaDie	3
 -wnx Winnix Cryptor	3
 -wtdi wtdi	3
 -xcri TeleCrypt	3
@@ -2358,6 +2372,7 @@
 -xtbl Troldesh/Virus-Encoder	3
 -xxx TeslaCrypt 3.0+/Help_dcfile	3
 -xyz Jigsaw/TeslaCrypt 0.x - 2.2.0	3
+-xzzx CryptoMix	3
 -yourransom YourRansom	3
 -z81928819 GhostCrypt	3
 -zc3791 Xorist	3
