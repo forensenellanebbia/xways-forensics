@@ -354,6 +354,7 @@
 -dbk Sony Ericsson Backup	4
 -ipd BlackBerry Backup	4
 -ipsw iPhone software backup	3
+-lbf LG Backup File	3
 -mbdb iPhone Backup	4
 -mbdx iPhone Backup Index	2
 -mdbackup iPhone	3
@@ -717,6 +718,7 @@
 -;msgstore.db; WhatsApp	5
 -;places.sqlite; Mozilla/Firefox web history	4
 -;signons.sqlite; Mozilla/Firefox signons	4
+-;url.db; AVAST	4
 -;userdictionary.sqlite; iOS user's manual auto-corrections	3
 -;user_dict.db; Android user dictionary	3
 -;wa.db; WhatsApp	5
@@ -1617,6 +1619,7 @@
 *** Internet, Misc Files
 -;.htaccess; Apache	2
 -;dcache4.url; Opera browser cache	4
+-;url.db; AVAST	4
 -1sps browser event	3
 -a5w Alpha Five Webpage	2
 -a5wcmp Alpha Five Web Components	2
