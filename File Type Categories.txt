@@ -2006,7 +2006,7 @@
 -anon FuckTheSystem	3
 -antihacker2017 Xorist	3
 -ap19 MarsJoke	3
--asasin	Locky	3
+-asasin Locky	3
 -atlas Atlas	3
 -azer CryptoMix	3
 -b10cked Matrix	3
