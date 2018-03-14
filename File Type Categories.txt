@@ -57,6 +57,7 @@
 -pmr Pegasus address book	5
 -shft Shift Work Calendar Data	3
 -skw SideKick calendar	4
+-spb Samsung Kies Phonebook	3T
 -uin ICQ contact	4
 -vcf vCard File	5
 -vcg SharePoint WorkSpace Groove vCard contact	4
@@ -301,6 +302,7 @@
 -vag PlayStation Compressed Sound	1
 -vgm Video Game Music	*
 -vm Samsung voice memo	4
+-voc voice recorder	4
 -vox Dialogic Voice Audio	4
 -vqf audio/x-twinvq	3
 -w64 Sony Wave64	3
@@ -350,6 +352,8 @@
 *** Backup, Mobile Phones
 -;manifest.plist; iOS backup	3
 -ab Android Backup	4
+-abu Asus Backup	4
+-abu1 Asus Backup	4
 -bbb BlackBerry Backup	5
 -dbk Sony Ericsson Backup	4
 -ipd BlackBerry Backup	4
@@ -367,7 +371,6 @@
 -properties Titanium Backup	3
 -sbu Samsung Backup	4
 -sn3 Samsung Kies backup	3T
--spb Samsung Kies Phonebook	3T
 -spd Samsung note	4
 -ssc Samsung Kies calendar backup	4T
 -ssn Samsung Kies notes backup	4T
@@ -2016,6 +2019,7 @@
 -better_call_saul Troldesh	3
 -bitkangoroo BitKangoroo	3
 -bitstak BitStak	3
+-blackruby Black Ruby	3
 -bleepYourFiles Apocalypse	3
 -bloc Rector	3
 -blocatto Blocatto	3
@@ -2044,6 +2048,7 @@
 -conficker Conficker	3
 -corrupted CRYPTO-BLOCKER	3
 -coverton Coverton	3
+-crab GandCrab v2	3
 -crashed RemindMe	3
 -crime iLock/iLockLight/Lortok	3
 -crinf CryptInfinite	3
@@ -2138,6 +2143,7 @@
 -fucku HC6	3
 -fuckyourdata Apocalypse	3
 -fun Jigsaw	3
+-gdcb GandCrab!	3
 -gefickt Jigsaw	3
 -getrekt Jigwaw	3
 -globe Win32/Pulobe.A	3
@@ -2269,6 +2275,7 @@
 -pizdec GlobeImposter 2.0	3
 -planetary HC7	3
 -plin GlobeImposter	3
+-pnr Pendor	3
 -poar2w Xorist	3
 -pohu GlobeImpostor2	3
 -porno Jigsaw	3
@@ -2311,6 +2318,7 @@
 -sage Sage 2.X	3
 -salsa222 Salsa222	3
 -sanction Sanction	3
+-saturn Saturn	3
 -scl CryptFIle2/CryptoMix/Zeta	3
 -SecureCrypted Apocalypse	3
 -serp Serp	3
@@ -3614,8 +3622,6 @@
 -3gpp Mobile phone video	4
 -4x 4X movie	3
 -4xm 4XM video	3
--60d CCTV Video	4
--ajp CCTV Video	4
 -amv Anime Music Video	2
 -arf WebEx Advanced Recording	3
 -asf Active Streaming (Windows Media)	2
@@ -3629,15 +3635,12 @@
 -cwm PixelMetrics	3
 -dash MPEG-DASH	2
 -dat7 videoplayback	2
--dav DVR365 Video	4
 -dce DriveCam Video	3
 -dcr1 Liberty Video Recording	4
 -divx DivX media	3
 -dmb Digital multimedia broadcasting	2
 -dsm DirectShow Media	2
 -dv Digital Video	3
--dv4 Bosch CCTV	4
--dvr-ms Digital Video Recording	2
 -dxr Macromedia Director Protected Movie	1
 -eye Eyemail Video Recording	3
 -f4v Flash mp4	3
@@ -3647,8 +3650,6 @@
 -flv2 Flash video	3
 -gmv1 Gens movie capture	3
 -hgd IP camera video	4
--img7 INTELLEX CCTV	4
--irf CCTV DVR H.264	4
 -ismv IIS Smooth Streaming Video	3
 -ivf Indeo video	2
 -ivr RealPlayer video	3
@@ -3701,16 +3702,39 @@
 -vgz DigitalVDO Compressed Video	4
 -viv Vividas video	2
 -vob DVD video	2
--voc voice recorder	4
 -vp6 True Motion video	3
 -vro DVD Video Recording	3
--vse AVTECH CCTV	4
 -webm WebM Video	3
 -wmv Windows media	2
 -wp3 MS Photo Story	3
 -wtv Media Center	2
 -xesc Screen Capture	3
 -zmv ZSNES Movie	2
+*** Video, CCTV/DVR
+-264 DVR	4
+-60d CCTV Video	4
+-787 DVR	4
+-ajp CCTV Video	4
+-avr CCTV	4
+-bu CCTV	4
+-dat CCTV	4
+-dav CCTV	4
+-dav DVR365 Video	4
+-dv4 Bosch CCTV	4
+-dv4 CCTV	4
+-dvr CCTV	4
+-dvr-ms Digital Video Recording	2
+-h264 CCTV	4
+-img7 INTELLEX CCTV	4
+-irf CCTV	4
+-irf CCTV DVR H.264	4
+-lvf CCTV	4
+-par CCTV	4
+-re4 CCTV	4
+-rms CCTV	4
+-sec CCTV	4
+-ssf CCTV	4
+-vse AVTECH CCTV	4
 *** [OS] Mac OS X/iOS
 -;.applesetupdone; Original user information	3
 -;.bash_history; OSX Shell History	3
