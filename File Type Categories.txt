@@ -55,6 +55,7 @@
 -pkx BVRP PhoneBook Index	2
 -pmb Pegasus address book	5
 -pmr Pegasus address book	5
+-rpb Radmin phonebook	3
 -shft Shift Work Calendar Data	3
 -skw SideKick calendar	4
 -spb Samsung Kies Phonebook	3T
@@ -233,6 +234,7 @@
 -krz Kurzweil 2000 sample	1
 -ksc Korg Trinity/Triton script	1
 -ksf Korg Trinity/Triton sample	1
+-lbc Internet Low Bitrate Codec	3
 -lqt Liquid Audio	2
 -lwv Linguistically Enhanced Sound	1
 -m4a MP4/AAC	3
