@@ -1,10 +1,11 @@
 ==> File Type Signatures Search.txt
 Description	Extensions	Header	Offset	Footer	Default size	Flags
-HTML	html	<!DOCTYPE html	0	</html>	1024/2000000
+HTML	html	(<!DOCTYPE html|<html>|<HTML>)	0	(</html>|</HTML>)	1024/4000000
 WP7 SMS backup	sms	<Property Name="0x1a001f">IPM.SMStext	0	SMS:ReplaceOption">	100/6000
 
 
 ==> File Type Signatures Check Only.txt 
 Description	Extensions	Header	Offset	Footer	Default size	Flags
 Opus Audio	opus	\x4F\x67\x67\x53\x00\x02[\x00]{8}.[\x00]{7}....\x01\x13\x4F\x70\x75\x73\x48\x65\x61\x64\x01\x01..\x80\x3E[\x00]{5}\x4F\x67\x67\x53	0
+ProcessViewerPro	trk	(\x34\x48\x4B\x48\xFE\xB3|\xFC\x07(\x00){10})	0
 
