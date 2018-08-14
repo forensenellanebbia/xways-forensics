@@ -1729,6 +1729,7 @@
 -;!!!!!readme!!!!!.htm; ASN1	3
 -;!!!-warning-!!!.html; Coverton	3
 -;!!!-warning-!!!.txt; Coverton	3
+-;!!!data_restore!!!.txt; DataStop	3
 -;!!_recovery_instructions_!!.html; Nuke	3
 -;!!_recovery_instructions_!!.txt; Nuke	3
 -;!read__me.txt; Ransomware	3
@@ -1890,6 +1891,7 @@
 -;read-read-read.html; Samas-Samsam	3
 -;readme!!!.txt; CryptoJoker	3
 -;readme!.txt; Patcher	3
+-;readme-24h.txt; Ransomware	3
 -;readme-xxx.html; Unlock26	3
 -;readme.png; Potato	3
 -;readmefilesdecrypt!!!.txt; MarsJoke	3
@@ -1983,6 +1985,7 @@
 -0x0 Ungluk	3
 -1999 Ungluk	3
 -1txt Enigma	3
+-24h Ransomware	3
 -3ncry 3nCRY	3
 -3ncrypt3d GlobeImposter	3
 -666 FuckTheSystem	3
@@ -2015,10 +2018,12 @@
 -atlas Atlas	3
 -azer CryptoMix	3
 -b10cked Matrix	3
+-barracuda Scarab	3
 -BarRax BarRax	3
 -bart Bart	3
 -bart.zip Bart	3
 -better_call_saul Troldesh	3
+-bip Bip Dharma	3
 -bitkangoroo BitKangoroo	3
 -bitstak BitStak	3
 -blackruby Black Ruby	3
@@ -2032,6 +2037,7 @@
 -btc-help-you Samas-Samsam	3
 -btcbtcbtc Samas-Samsam	3
 -btcware BTCWare	3
+-bunny GlobeImposter	3
 -cancer Cancer	3
 -cbf Offline ransomware	3
 -cccrrrppp Unlock92	3
@@ -2046,6 +2052,7 @@
 -clf BitCryptor/CoinVault/CryptoGraphic Locker	3
 -code CryptoMix/Zeta	3
 -coded Anubis	3
+-combo Dharma	3
 -comrade Fantom	3
 -conficker Conficker	3
 -corrupted CRYPTO-BLOCKER	3
@@ -2087,10 +2094,12 @@
 -dale CHIP	3
 -damage Damage	3
 -darkness Rakhni	3
+-datastop DataStop	3
 -da_vinci_code Troldesh	3
 -dCrypt DummyLocker	3
 -decrypt2017 Globe v3	3
 -ded DEDCryptor	3
+-deep Scarab	3
 -demffue Magniber	3
 -deria DeriaLock	3
 -devil CryptoDevil	3
@@ -2200,6 +2209,7 @@
 -korrektor Rector	3
 -kostya Kostya	3
 -kr3 KRider	3
+-krab GandCrab4	3
 -kraken Kraken/Rakhni	3
 -kratos KratosCrypt	3
 -l0cked GOG/ShellLocker	3
@@ -2209,6 +2219,7 @@
 -lesli CryptoMix	3
 -letmetrydecfiles Samas-Samsam	3
 -licked Lick	3
+-lime nJRAT LimeEd	3
 -lock Brazilian	3
 -lock75 Fluffy-TAR	3
 -lock93 Lock93	3
@@ -2284,6 +2295,7 @@
 -potato Potato	3
 -powerfulldecrypt Samas-Samsam	3
 -pr0tect Pr0tector	3
+-predator Ransomware	3
 -pre_alpha Ransomware	3
 -prosperous666 SamSam	3
 -psh PshCrypt	3
@@ -2302,6 +2314,7 @@
 -razy Razy	3
 -rdm Radamant	3
 -rdmk CryptoMix	3
+-red Scarab	3
 -rekt RektLocker	3
 -relock@qq_com Rakhni	3
 -remind RemindMe	3
@@ -2323,11 +2336,13 @@
 -saturn Saturn	3
 -scl CryptFIle2/CryptoMix/Zeta	3
 -SecureCrypted Apocalypse	3
+-sepsis Sepsis	3
 -serp Serp	3
 -serpent Serpent	3
 -sexy PayDay	3
 -shino ShinoLocker	3
 -shit Locky	3
+-shrug2 Shrug2	3
 -sifreli Turkish	3
 -silent BlackShades Crypter	3
 -sport Sport	3
@@ -3851,6 +3866,7 @@
 -;drivetable.txt; System Restore	3
 -;index.btr; MS Office index	*
 -;info2; Recycle bin	5
+-;objects.data; WMI repository	3
 -;rasphone.pbk; Phonebook	3
 -;recentfilecache.bcf; RecentFileCache	*
 -;srudb.dat; System Resource Usage Monitor DB	3
