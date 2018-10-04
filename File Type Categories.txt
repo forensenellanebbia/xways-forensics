@@ -378,7 +378,7 @@
 -ssn Samsung Kies notes backup	4T
 -stg ActiveSync Backup	4
 -titanium TB_ARMOR_V1	3
--ufdr UFED Physical Analyzer report package	5
+-ufdr UFED Reader	5
 -xry Micro Systemation	2
 *** CAD
 -atc AutoCAD Tool Catalog	1
@@ -741,6 +741,95 @@
 -sqlitedb SQLite 3.x database	3T
 -webbookmark Safari	3
 -webhistory Safari	4
+*** Disk Image, Burning Software
+-000 Virtual CD	3
+-b5i BlindWrite	3
+-b5t BlindWrite	3
+-bwi Blindwrite	3
+-bwt Blindwrite	3
+-c2d WinOnCD	2
+-ccd CloneCD	3
+-cd CD-i OptImage	3
+-cdi DiscJuggler	2
+-cdm NTI CD-Maker	3
+-cdp NTI CD-Copy	3
+-cif Easy CD Creator image	3
+-cmi CDMate	3
+-cpj WinOnCd	3
+-cso1 ISO compressed	2T
+-cue Cue Sheet	2
+-daa PowerISO Direct-Access-Archive	2
+-dao Duplicator, Nero	3
+-dax Compressed CD image	3T
+-dsp Discsafe	3
+-fcd Uncompressed	3
+-fcd1 Virtual CD-ROM	3
+-gcd Prassi CD Image	3
+-gi Prassi PrimoDVD	3
+-ibp IsoBuster image backup	3
+-iso Nero, BlindRead, Creator	3T
+-isz UltraISO compressed disk image	3T
+-mds Alcohol	3
+-ncd1 NTI CD-Maker disk image	3
+-nrb Nero	3
+-nrg Nero	3
+-ovr Feurio	3
+-p01 Toast	3
+-pxi PlexTools	3
+-sub CloneCD	3
+-tao Duplicator, Nero	3
+-toast Toast CD Image	3T
+-vc4 Virtual CD	3
+-vcd Vob InstantDisc	3
+-vcd1 Virtual CD	3
+-vdscr CD Volume descr	3
+*** Disk Image, Drive image
+-ad1 Logical image	3
+-adi Active@ Disk Image	3T
+-aff Advanced Forensics Format	3T
+-arc R-Drive image	3
+-asb ILook Image	4T
+-bin Binary Image	3
+-cmt BackMagic	3
+-ctr X-Ways file container	3
+-dd Raw image	3T
+-dmg Apple Macintosh	2T
+-dms Disk Masher Image	3T
+-dsk Disk image	2T
+-e01 Evidence file	4T
+-gho Ghost	3T
+-ghs Ghost	3
+-hcc HDCopy	3
+-hci HDCopy	3
+-img CloneCD, HDCopy, QEMU	3T
+-ipf Interchangeable Preservation	3T
+-l01 Logical evidence file	4T
+-mdx Extended Media Descriptor	3
+-mrimg Macrium Reflect Disk Image	4
+-omg O&O DiskImage	3
+-par Drive Star	3
+-pdi Pinnacle InstantCopy	3
+-sco Farstone DriveClone/Pro	3
+-sna SnapShot	3
+-td0 Teledisk	3
+-tib Acronis True Image	3T
+-v2i Norton Ghost Image	3
+-wim Windows Image	2
+*** Disk Image, Virtual Disks
+-hdd Parallels Desktop	3
+-hds Parallels Desktop Hard Disk	3T
+-ova Open Virtualization Format Archive, TAR-Format	3
+-ovf Open Virtual Format	3
+-pvhd Paragon Virtual Hard Drive	4
+-qevm QEMU	3T
+-vbox Oracle VM VirtualBox Settings	3
+-vbox-prev Oracle VM VirtualBox Settings	3
+-vdi Virtual Box Disk Image	3
+-vhd Virtual Hard Disk	4T
+-vhdx Windows 8 Virtual Hard Drive	4T
+-vmdk VMWare	4T
+-vmx VMware configuration	3
+-vmxf VMware Team Member	3
 *** Docs, Common formats
 -csv Comma-separated values	4
 -doc MS Word	4
@@ -1292,95 +1381,6 @@
 -zir Compass and Ruler	2
 -zmg ZENworks Desktop	2
 -zno Zinio Electronic Magazine	2
-*** Disk Image, Burning Software
--000 Virtual CD	3
--b5i BlindWrite	3
--b5t BlindWrite	3
--bwi Blindwrite	3
--bwt Blindwrite	3
--c2d WinOnCD	2
--ccd CloneCD	3
--cd CD-i OptImage	3
--cdi DiscJuggler	2
--cdm NTI CD-Maker	3
--cdp NTI CD-Copy	3
--cif Easy CD Creator image	3
--cmi CDMate	3
--cpj WinOnCd	3
--cso1 ISO compressed	2T
--cue Cue Sheet	2
--daa PowerISO Direct-Access-Archive	2
--dao Duplicator, Nero	3
--dax Compressed CD image	3T
--dsp Discsafe	3
--fcd Uncompressed	3
--fcd1 Virtual CD-ROM	3
--gcd Prassi CD Image	3
--gi Prassi PrimoDVD	3
--ibp IsoBuster image backup	3
--iso Nero, BlindRead, Creator	3T
--isz UltraISO compressed disk image	3T
--mds Alcohol	3
--ncd1 NTI CD-Maker disk image	3
--nrb Nero	3
--nrg Nero	3
--ovr Feurio	3
--p01 Toast	3
--pxi PlexTools	3
--sub CloneCD	3
--tao Duplicator, Nero	3
--toast Toast CD Image	3T
--vc4 Virtual CD	3
--vcd Vob InstantDisc	3
--vcd1 Virtual CD	3
--vdscr CD Volume descr	3
-*** Disk Image, Drive image
--ad1 Logical image	3
--adi Active@ Disk Image	3T
--aff Advanced Forensics Format	3T
--arc R-Drive image	3
--asb ILook Image	4T
--bin Binary Image	3
--cmt BackMagic	3
--ctr X-Ways file container	3
--dd Raw image	3T
--dmg Apple Macintosh	2T
--dms Disk Masher Image	3T
--dsk Disk image	2T
--e01 Evidence file	4T
--gho Ghost	3T
--ghs Ghost	3
--hcc HDCopy	3
--hci HDCopy	3
--img CloneCD, HDCopy, QEMU	3T
--ipf Interchangeable Preservation	3T
--l01 Logical evidence file	4T
--mdx Extended Media Descriptor	3
--mrimg Macrium Reflect Disk Image	4
--omg O&O DiskImage	3
--par Drive Star	3
--pdi Pinnacle InstantCopy	3
--sco Farstone DriveClone/Pro	3
--sna SnapShot	3
--td0 Teledisk	3
--tib Acronis True Image	3T
--v2i Norton Ghost Image	3
--wim Windows Image	2
-*** Disk Image, Virtual Disks
--hdd Parallels Desktop	3
--hds Parallels Desktop Hard Disk	3T
--ova Open Virtualization Format Archive, TAR-Format	3
--ovf Open Virtual Format	3
--pvhd Paragon Virtual Hard Drive	4
--qevm QEMU	3T
--vbox Oracle VM VirtualBox Settings	3
--vbox-prev Oracle VM VirtualBox Settings	3
--vdi Virtual Box Disk Image	3
--vhd Virtual Hard Disk	4T
--vhdx Windows 8 Virtual Hard Drive	4T
--vmdk VMWare	4T
--vmx VMware configuration	3
--vmxf VMware Team Member	3
 *** E-mail
 -;store.fdb; Kerio Connect	4
 -;winmail.dat; TNEF	3
