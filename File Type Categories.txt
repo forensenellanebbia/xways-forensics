@@ -2542,6 +2542,7 @@
 *** Pictures, Common formats
 -bmp Bitmap	3
 -gif Graphic Interchange Format	2
+-heic Apple High Efficiency Image Format	3
 -jpeg JPEG	3
 -jpg JPEG	3
 -png Portable Network Graphics	2
