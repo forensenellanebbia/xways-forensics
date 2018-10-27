@@ -1,3 +1,6 @@
+==> RVS | Uncover embedded data in various file types | add to the list: ";*thumb*;cross.*;*_blob.*;micro.*;mini.*" (without quotes)
+
+
 ==> File Type Signatures Search.txt
 Description	Extensions	Header	Offset	Footer	Default size	Flags
 HTML	html	(<!DOCTYPE html|<html>|<HTML>)	0	(</html>|</HTML>)	1024/4000000
@@ -7,6 +10,7 @@ WP7 SMS backup	sms	<Property Name="0x1a001f">IPM.SMStext	0	SMS:ReplaceOption">	1
 ==> File Type Signatures Check Only.txt 
 Description	Extensions	Header	Offset	Footer	Default size	Flags
 Internet Low Bit Rate Codec	lbc	\#!iLBC[\x32\x33]\x30\x0A	0
+Thumbdata Android	thumb6	\x06\x00\x00\x00\x18\x02\x14\x20.{8}\xD5\xC1\xEE\xC0\xFF\xFF\xFF\xFF	0
 Opus Audio	opus	\x4F\x67\x67\x53\x00\x02[\x00]{8}.[\x00]{7}....\x01\x13\x4F\x70\x75\x73\x48\x65\x61\x64\x01\x01..\x80\x3E[\x00]{5}\x4F\x67\x67\x53	0
 ProcessViewerPro	trk	(\x34\x48\x4B\x48\xFE\xB3|\xFC\x07(\x00){10})	0
 

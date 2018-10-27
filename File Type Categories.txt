@@ -948,6 +948,9 @@
 -utf16 Unicode text	2
 -utf16be Unicode text	2
 -wedb Windows.edb	4
+-xbel XML Bookmark Exchange Language	2
+-xlf XLIFF Document	3
+-xmi XML Metadata Interchange Format	2
 -xml XML	2
 *** Docs, Spreadsheet
 -csv Comma-separated values	4
@@ -1360,7 +1363,6 @@
 -vxml VoiceXML	2
 -vym VYM Mind Map	3
 -web application/x-corelxara	2
--wlmp MovieMaker	2
 -wm2d Working Model	2
 -wm3 VisualNastran	2
 -wnk Wink Presentation	3
@@ -1370,12 +1372,9 @@
 -wsc RIO Designer Pro Scene	2
 -wwd MS Works	3
 -x81 GAEB	4
--xbel XML Bookmark Exchange Language	2
 -xbrl Extended Business	3T
 -xcs OpenOffice	1
 -xks IBM Softcopy Reader PDF Extended Bookshelf File	2
--xlf XLIFF Document	3
--xmi XML Metadata Interchange Format	2
 -xpl Playlist	3
 -xspf XSPF Playlist	3
 -zir Compass and Ruler	2
@@ -2643,20 +2642,39 @@
 *** Pictures, Thumbnails/Icons
 -411 Mavica thumbnail	3T
 -;bigthumbs_0.db; Picasa	3
+-;cross.0; gallery3d cache	4
+-;cross.1; gallery3d cache	4
 -;ehthumbs.db; eHome	4
 -;ehthumbs_vista.db; MediaCenter	4
 -;frameiconcache.dat; MSIE	2
 -;iconcache.db; Icon cache	4
 -;imgcache.0; gallery3d cache	4
--;imgcacheMicro.0; gallery3d cache	4
--;imgcacheMini.0; gallery3d cache	4
+-;imgcache.1; gallery3d cache	4
+-;imgcachemicro.0; gallery3d cache	4
+-;imgcachemicro.1; gallery3d cache	4
+-;imgcachemini.0; gallery3d cache	4
+-;imgcachemini.1; gallery3d cache	4
 -;ipsthumb.db; Nikon	4
 -;largeiconcache.dat; MSIE	3
--;thumbcache_1024.db; Vista thumbnails	4
--;thumbcache_256.db; Vista thumbnails	4
--;thumbcache_96.db; Vista thumbnails	4
+-;micro.0; gallery3d cache	4
+-;micro.1; gallery3d cache	4
+-;micro_thumbnail_blob.0; MIUI cache	4
+-;micro_thumbnail_blob.1; MIUI cache	4
+-;mini.0; gallery3d cache	4
+-;mini.1; gallery3d cache	4
+-;photo_blob.0; MIUI cache	4
+-;photo_blob.1; MIUI cache	4
+-;thumbcache_1024.db; Win thumbnails	4
+-;thumbcache_1280.db; Win thumbnails	4
+-;thumbcache_1920.db; Win thumbnails	4
+-;thumbcache_256.db; Win thumbnails	4
+-;thumbcache_2560.db; Win thumbnails	4
+-;thumbcache_768.db; Win thumbnails	4
+-;thumbcache_96.db; Win thumbnails	4
 -;thumbindex.db; Picasa	4
 -;thumbnails.data; OSX thumbnails	3
+-;thumbnail_blob.0; MIUI cache	4
+-;thumbnail_blob.1; MIUI cache	4
 -;thumbs.db; Thumbnail database	4
 -;thumbs480x360.dat; Blackberry	4
 -ani animated cursor	1
@@ -2681,6 +2699,7 @@
 -icns Mac icon	1
 -ico Icon	1
 -icon Sun icon	1
+-imgcache gallery3d cache	3
 -info Canon ZoomBrowser thumbnails	3
 -ithmb iPod Photo Thumbnails	3
 -itl1 iPod Photo Cache	3
@@ -2711,7 +2730,8 @@
 -thumb JAlbum Thumbnail	3
 -thumb1 Android thumbnail	3
 -thumb2 Thumbnail+	3
--thumbcache Vista thumbnails	4
+-thumb6 Thumbnail Android	3
+-thumbcache Win thumbnails	4
 -thumbcache_idx Thumbcache index	3
 -thumbdata3 Android	3
 -thumbindex Picasa3 Index	4
@@ -3098,6 +3118,7 @@
 -vjsproj Visual J#	1
 -vsp Corel VideoStudio	2
 -wcp WinDVD Creator Project	2
+-wlmp MovieMaker	2
 -wrk Cakewalk Music Project	2
 -xfc X-Ways Forensics Case	4
 -xise Xilinx ISE Project	2
@@ -3754,7 +3775,7 @@
 -ssf CCTV	4
 -trk CCTV	4
 -vse AVTECH CCTV	4
-*** [OS] Mac OS X/iOS
+*** [OS] macOS/iOS
 -;.applesetupdone; Original user information	3
 -;.bash_history; OSX Shell History	3
 -;.ds_store; Desktop Services Store	3
@@ -3861,16 +3882,11 @@
 -xcur X cursor	1
 -zoneinfo zone info	*
 *** [OS] Windows Internals
--;$j; NTFS Change journal	4
--;$logfile; NTFS journal	4
 -;$mft; NTFS MFT	4
 -;drivetable.txt; System Restore	3
 -;index.btr; MS Office index	*
 -;info2; Recycle bin	5
--;objects.data; WMI repository	3
 -;rasphone.pbk; Phonebook	3
--;recentfilecache.bcf; RecentFileCache	*
--;srudb.dat; System Resource Usage Monitor DB	3
 -;wpa.dbl; Windows Product Activation	1
 -adm Administrative Template	1
 -adml language dependent policy settings	1
@@ -3878,7 +3894,6 @@
 -amx manifest store	*
 -appref-ms Application Reference	2
 -appx Windows 8 App	1
--automaticdestinations-ms jump list	4
 -ax DirectShow filter	1
 -bfc Briefcase	4
 -blf CLFS Base Log	2
@@ -3891,7 +3906,6 @@
 -cmmm Thumbscache fragment	3
 -cnt Help CNT	*
 -crmlog compensating resource manager	1
--customdestinations-ms jump list	4
 -cvr Microsoft Crash Report	2
 -dbg Debug	*
 -devicemetadata-ms device metadata	1
@@ -3903,8 +3917,6 @@
 -dun Dialup network	3
 -dxp1 OECustomProperty	3
 -ecf Exchange Extended Configuration	3
--edb Extensible Storage Engine	3
--edblog ESE log	4
 -eftx Office 2007 Theme Effect	*
 -feed-ms Microsoft rss feeds store	1
 -feedsdb-ms Microsoft rss feeds store	1
@@ -3935,7 +3947,6 @@
 -jtp JetForm File	3
 -kwaj MS KWAJ (decompress with expand.exe)	1
 -library-ms library	2
--lnk Shortcut	4
 -lsx Streaming Media Shortcut	3
 -manifest1 WinSxS	1
 -metadata OE properties	4
@@ -3955,7 +3966,6 @@
 -opal Microsoft Office User Settings	1
 -opax Microsoft Office User Settings	1
 -pckgdep Package deployment	2
--pf Prefetch	4
 -pip Microsoft Office Settings	1
 -pnf Precompiled setup information	1
 -pol Policy	2
@@ -4004,7 +4014,6 @@
 -uce UniCode Extensions	*
 -udl Microsoft Data Link	2
 -urlcache Cryptnet	2
--usnjrnl Carved $UsnJrnl:$J records	4
 -vpol Windows Credential Manager policy	2
 -vsc Volume Shadow Copy host file	3
 -wax Windows Media Audio shortcut	2
@@ -4024,22 +4033,6 @@
 -xss SharePoint Groove	3
 -xsslog SharePoint Groove log	3
 -xssr SharePoint Groove	3
-*** [OS] Windows Logs
--;consolehost_history.txt; Powershell log	3
--;miglog.xml; information about the user directory structure	3
--;netsetup.log; debug domain join problems	3
--;pregatherpnplist.log; devices on system during downlevel	3
--;rp.log; Restore point	4
--;setupact.log; setup actions during the installation	3
--;setupapi.app.log; Application installations (Vista+)	3
--;setupapi.dev.log; Device and driver installations (Vista+)	3
--;setupapi.log; Device and driver installations (XP/2K/2003)	3
--;setuperr.log; setup errors during the installation	3
--;tracking.log; Distributed Link Tracking	3
--etl Event trace log	2
--evt Event log	4
--evtx Vista+ event log	4
--odl OneDrive diagnostic logs	3
 *** [OS] Windows Registry
 -;amcache.hve; Recent file cache	5
 -;bcd; Boot Configuration Database	3
@@ -4062,4 +4055,36 @@
 -regtrans-ms Transaction	1
 -rgs Registry Script	2
 -vrg Visual Studio Registry	3
+*** [OS] Windows User/System Activity
+-;$j; NTFS Change journal	4
+-;$logfile; NTFS journal	4
+-;activitiescache.db; Win10 Timeline	3
+-;consolehost_history.txt; Powershell log	3
+-;evt.tbl; Microsoft Office Telemetry	3
+-;miglog.xml; information about the user directory structure	3
+-;netsetup.log; debug domain join problems	3
+-;objects.data; WMI repository	3
+-;pregatherpnplist.log; devices on system during downlevel	3
+-;recentfilecache.bcf; RecentFileCache	*
+-;rp.log; Restore point	4
+-;setupact.log; setup actions during the installation	3
+-;setupapi.app.log; Application installations (Vista+)	3
+-;setupapi.dev.log; Device and driver installations (Vista+)	3
+-;setupapi.log; Device and driver installations (XP/2K/2003)	3
+-;setuperr.log; setup errors during the installation	3
+-;sln.tbl; Microsoft Office Telemetry	3
+-;srudb.dat; System Resource Usage Monitor DB	3
+-;tracking.log; Distributed Link Tracking	3
+-;user.tbl; Microsoft Office Telemetry	3
+-automaticdestinations-ms jump list	4
+-customdestinations-ms jump list	4
+-edb Extensible Storage Engine	3
+-edblog ESE log	4
+-etl Event trace log	2
+-evt Event log	4
+-evtx Vista+ event log	4
+-lnk Shortcut	4
+-odl OneDrive diagnostic logs	3
+-pf Prefetch	4
+-usnjrnl Carved $UsnJrnl:$J records	4
 =T=Certain potentially relevant types

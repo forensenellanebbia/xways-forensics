@@ -48,9 +48,9 @@
 *** Various Data
 *** Video
 *** Video, CCTV/DVR
-*** [OS] Mac OS X/iOS
+*** [OS] macOS/iOS
 *** [OS] Unix/Linux
 *** [OS] Windows Internals
-*** [OS] Windows Logs
 *** [OS] Windows Registry
+*** [OS] Windows User/System Activity
 =T=Certain potentially relevant types
