@@ -462,6 +462,7 @@
 -;key; WhatsApp Decryption Key	1
 -;logins.json; Mozilla/Firefox encrypted passwords	3
 -;signons.sqlite; Mozilla/Firefox encrypted passwords	3
+-;wallet.dat; Cryptocurrency wallet	3
 -;walletx.db; Enpass	3
 -aes AES Crypt	3
 -apw Any Password data	3
@@ -1715,6 +1716,7 @@
 -uls Internet Location Service	3
 -w Google	3
 -war Java Web Archive	3
+-wasm WebAssembly	3
 -webloc Apple finder Internet location	3
 -webpnp Web Point And Print File	3
 -wml Wireless Markup Language	3
