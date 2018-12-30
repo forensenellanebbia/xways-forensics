@@ -1921,6 +1921,7 @@
 -;restore_your_files.html; Popcorn Time	3
 -;restore_your_files.txt; MSN CryptoLocker/Popcorn Time	3
 -;rtext.txt; R980	3
+-;ryukreadme.txt; Ryuk	3
 -;sadstory_readme_for_decrypt.txt; SADStory	3
 -;shtodelatvam.txt; CryFile	3
 -;sifre_cozme_talimati.html; TorrentLocker	3
@@ -2330,6 +2331,7 @@
 -rrk Radamant	3
 -rsnslocked SNSLocker	3
 -rsplited SNSLocker	3
+-ryk Ryuk	3
 -sad SADStory	3
 -sage Sage 2.X	3
 -salsa222 Salsa222	3
@@ -3885,6 +3887,7 @@
 -zoneinfo zone info	*
 *** [OS] Windows Internals
 -;$mft; NTFS MFT	4
+-;$sds; alternate data stream	3
 -;drivetable.txt; System Restore	3
 -;index.btr; MS Office index	*
 -;info2; Recycle bin	5
@@ -4046,8 +4049,9 @@
 -;sam; Registry hive	5
 -;security; Registry hive	4
 -;software; Registry hive	4
--;system; Registry hive	5
+-;syscache.hve; Executable tracking (Win7)	4
 -;system.dat; Win9x registry	4
+-;system; Registry hive	5
 -;user.dat; Win9x registry	4
 -;userdiff; Registry hive	3
 -;usrclass.dat; Registry hive	4
