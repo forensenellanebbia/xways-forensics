@@ -4082,6 +4082,7 @@
 -;srudb.dat; System Resource Usage Monitor DB	3
 -;tracking.log; Distributed Link Tracking	3
 -;user.tbl; Microsoft Office Telemetry	3
+-;wpndatabase.db; Windows 10 Notification	3
 -automaticdestinations-ms jump list	4
 -customdestinations-ms jump list	4
 -edb Extensible Storage Engine	3
