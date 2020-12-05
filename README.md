@@ -1,7 +1,7 @@
 ## xways-forensics  
 Personal settings for [X-Ways Forensics](http://www.x-ways.net/)
 
-## Customized version of the Filter:Type list  
+## Customized version of the Filter:Type list (Last tested with XWF 19.8 SR5)
 http://forensenellanebbia.blogspot.it/2017/03/customizing-filter-type-in-x-ways.html
 
 ## Changelog  
