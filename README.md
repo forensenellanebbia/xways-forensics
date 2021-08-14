@@ -10,7 +10,7 @@ If you find this customized filter useful, please share it and help me improve i
 ## Changelog  
 | Date       | Description |
 | ---------- | ---         |
-| 2021-08-14 | Removed *Malware* category since it is no longer mantained. Added some new artifact names to the list.
+| 2021-08-14 | Removed *Malware* category since it is no longer mantained.<br>Added some new artifact names to the list.
 | 2018-10-27 | *[OS] Windows Logs* renamed to *[OS] Windows User/System Activity* |
 | 2017-08-23 | New type category: *User dictionary* |
 | 2017-08-16 | New type category: *[OS] Windows Logs* |
