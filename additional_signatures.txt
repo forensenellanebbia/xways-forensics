@@ -5,12 +5,15 @@
 Description	Extensions	Header	Offset	Footer	Default size	Flags
 HTML	html	(<!DOCTYPE html|<html>|<HTML>)	0	(</html>|</HTML>)	1024/4000000
 WP7 SMS backup	sms	<Property Name="0x1a001f">IPM.SMStext	0	SMS:ReplaceOption">	100/6000
-
+VMware primary config	vmx	\.encoding.{5,30}(displayName|config.version)	0	checkpoint.vmState.{3,30}\.vmss"|cleanShutdown.{9,10}	2048/20480	b
+VMware supplemental config	vmxf	<Foundry>.<VM>	0	</tools-manifest></Foundry>	512/10240	b
+VMware snapshot	vmsn	\xD2\xBE\xD2\xBE\x08.{7}Checkpoint	0	A.ram.{7}queueCount	1048576/21474836480	b
 
 ==> File Type Signatures Check Only.txt 
 Description	Extensions	Header	Offset	Footer	Default size	Flags
 Internet Low Bit Rate Codec	lbc	\#!iLBC[\x32\x33]\x30\x0A	0
 Opus Audio	opus	\x4F\x67\x67\x53\x00\x02[\x00]{8}.[\x00]{7}....\x01\x13\x4F\x70\x75\x73\x48\x65\x61\x64\x01\x01..\x80\x3E[\x00]{5}\x4F\x67\x67\x53	0
 ProcessViewerPro	trk	(\x34\x48\x4B\x48\xFE\xB3|\xFC\x07(\x00){10})	0
+RDP cache	bmc	(........\x40\x00.\x00\x00.\x00\x00\x11\x00\x00\x00|RDP8bmp\x00)	0
 Thumbdata Android	thumb6	\x06\x00\x00\x00\x18\x02\x14\x20.{8}\xD5\xC1\xEE\xC0\xFF\xFF\xFF\xFF	0
 WebAssembly	wasm	\x00asm.(\x00){3}	0
