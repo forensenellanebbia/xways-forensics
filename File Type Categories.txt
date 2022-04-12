@@ -481,6 +481,7 @@
 -crypt10 WhatsApp Encrypted DB	3T
 -crypt11 WhatsApp Encrypted DB	3T
 -crypt12 WhatsApp Encrypted DB	3T
+-crypt14 WhatsApp Encrypted DB	3T
 -crypt5 WhatsApp Encrypted DB	3T
 -crypt7 WhatsApp Encrypted DB	3T
 -crypt8 WhatsApp Encrypted DB	3T
@@ -546,6 +547,7 @@
 -tpm Trusted Platform Module	4
 -uti Utimaco SafeGuard PrivateCrypto	3
 -vcrd Windows Vault Credentials	2
+-wallet Cryptocurrency Wallet	5
 -wgx Watchguard VPN Certificate	2
 -wlt eWallet	3
 *** Database, Finance
@@ -826,6 +828,7 @@
 -vbox Oracle VM VirtualBox Settings	3
 -vbox-prev Oracle VM VirtualBox Settings	3
 -vdi Virtual Box Disk Image	3
+-vfd Virtual Floppy Disk	4T
 -vhd Virtual Hard Disk	4T
 -vhdx Windows 8 Virtual Hard Drive	4T
 -vmdk VMWare	4T
@@ -1495,6 +1498,7 @@
 -pfa Adobe Font	*
 -pfb Adobe Font	*
 -pfm Printer Font Metrics	*
+-sf2 SoundFont 2
 -sui Mac Font	*
 -tfm Tagged Font Metric	*
 -tlb OLE type library	*
@@ -2062,6 +2066,7 @@
 -albm HP Photo Printing Album	3T
 -apx Ability Photopaint Image	3
 -art AOL	2
+-avif AV1 Image	3
 -awd2 Artweaver Document	3
 -blp Blizzard Picture	2T
 -bmp Bitmap	3
@@ -2087,6 +2092,7 @@
 -dcx Zsoft Multipage	4
 -dib Windows device-indep. bitmap	2
 -dicomdir DICOM	3
+-dicom DICOM medical imaging bitmap	3
 -dpp Serif DrawPlus	3T
 -dpx Digital Picture Exchange	3T
 -drw1 Micrographix	3
@@ -2126,8 +2132,10 @@
 -jpf JPEG 2000	3
 -jpg JPEG	3
 -jpm JPEG 2000 multi-layer	3T
+-jxl JPEG XL	3T
 -jxr JPEG XR	3T
 -kqp Konica camera file	3
+-ktx OpenGL texture	3T
 -lep Lepton	4T
 -lwf LuraWave	3T
 -max1 PaperPort Scanned	4T
@@ -2313,7 +2321,6 @@
 -scr Windows screensaver	*
 -sd2 Sound Designer 2	*
 -setup Installation program	2T
--sh Linux/Unix Shell script	2
 -sis Symbian	2
 -sisx Symbian OS program	2
 -so Unix Shared Object library	*
@@ -2505,6 +2512,7 @@
 -settings Visual Studio	1
 -snippet IntelliSense Code	2
 -src C# Source	2
+-sh Linux/Unix Shell script	2
 -swift Swift Source Code	3
 -tem C++ template	1
 -template C++ template	1
@@ -3014,6 +3022,7 @@
 -mov Apple Quicktime	3
 -mp2v Movie Clip	3
 -mp4 MPEG	4
+-mp4s Surveillance	4
 -mpe MPEG Movie Clip	3
 -mpeg MPEG	3
 -mpg MPEG	3
@@ -3229,6 +3238,7 @@
 -dun Dialup network	3
 -dxp1 OECustomProperty	3
 -ecf Exchange Extended Configuration	3
+-edbpage EDB page	4
 -eftx Office 2007 Theme Effect	*
 -feed-ms Microsoft rss feeds store	1
 -feedsdb-ms Microsoft rss feeds store	1
