@@ -2442,6 +2442,7 @@
 -xise Xilinx ISE Project	2
 -xmpses Premiere Elements	3
 *** Settings
+-abx Android Binary XML	3
 -db SQLite database	3
 -ini Initialization	*
 -json JavaScript Object Notation	3
